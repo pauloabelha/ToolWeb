@@ -1,0 +1,7815 @@
+task scooping_grains
+n_trials 3
+start_trial 1
+-4
+-4
+-4
+end_trial
+start_trial 2
+-4
+-4
+-4
+end_trial
+start_trial 3
+-4
+-4
+-4
+end_trial
+start_trial 4
+-4
+-4
+-4
+end_trial
+start_trial 5
+-4
+-4
+-4
+end_trial
+start_trial 6
+-4
+-4
+-4
+end_trial
+start_trial 7
+-4
+-4
+-4
+end_trial
+start_trial 8
+-4
+-4
+-4
+end_trial
+start_trial 9
+-4
+-4
+-4
+end_trial
+start_trial 10
+-4
+-4
+-4
+end_trial
+start_trial 11
+-4
+-4
+-4
+end_trial
+start_trial 12
+-4
+-4
+-4
+end_trial
+start_trial 13
+-4
+-4
+-4
+end_trial
+start_trial 14
+-4
+-4
+-4
+end_trial
+start_trial 15
+-4
+-4
+-4
+end_trial
+start_trial 16
+-4
+-4
+-4
+end_trial
+start_trial 17
+-4
+-4
+-4
+end_trial
+start_trial 18
+-4
+-4
+-4
+end_trial
+start_trial 19
+-4
+-4
+-4
+end_trial
+start_trial 20
+-4
+-4
+-4
+end_trial
+start_trial 21
+-4
+-4
+-4
+end_trial
+start_trial 22
+-4
+-4
+-4
+end_trial
+start_trial 23
+-4
+-4
+-4
+end_trial
+start_trial 24
+-4
+-4
+-4
+end_trial
+start_trial 25
+-4
+-4
+-4
+end_trial
+start_trial 26
+-4
+-4
+-4
+end_trial
+start_trial 27
+-4
+-4
+-4
+end_trial
+start_trial 28
+-5
+-5
+-5
+end_trial
+start_trial 29
+0
+0
+0
+end_trial
+start_trial 30
+1
+1
+0
+end_trial
+start_trial 31
+-4
+-4
+-4
+end_trial
+start_trial 32
+-4
+-4
+-4
+end_trial
+start_trial 33
+-4
+-4
+-4
+end_trial
+start_trial 34
+-4
+-4
+-4
+end_trial
+start_trial 35
+-4
+-4
+-4
+end_trial
+start_trial 36
+-4
+-4
+-4
+end_trial
+start_trial 37
+-4
+-4
+-4
+end_trial
+start_trial 38
+-4
+-4
+-4
+end_trial
+start_trial 39
+-4
+-4
+-4
+end_trial
+start_trial 40
+-4
+-4
+-4
+end_trial
+start_trial 41
+-4
+-4
+-4
+end_trial
+start_trial 42
+-4
+-4
+-4
+end_trial
+start_trial 43
+-4
+-4
+-4
+end_trial
+start_trial 44
+-4
+-4
+-4
+end_trial
+start_trial 45
+-4
+-4
+-4
+end_trial
+start_trial 46
+-4
+-4
+-4
+end_trial
+start_trial 47
+-4
+-4
+-4
+end_trial
+start_trial 48
+-4
+-4
+-4
+end_trial
+start_trial 49
+0
+0
+0
+end_trial
+start_trial 50
+0
+0
+0
+end_trial
+start_trial 51
+0
+0
+0
+end_trial
+start_trial 52
+-4
+-4
+-4
+end_trial
+start_trial 53
+-4
+-4
+-4
+end_trial
+start_trial 54
+-4
+-4
+-4
+end_trial
+start_trial 55
+-4
+-4
+-4
+end_trial
+start_trial 56
+-4
+-4
+-4
+end_trial
+start_trial 57
+-4
+-4
+-4
+end_trial
+start_trial 58
+2
+2
+2
+end_trial
+start_trial 59
+2
+2
+2
+end_trial
+start_trial 60
+-4
+-4
+-4
+end_trial
+start_trial 61
+-4
+-4
+-4
+end_trial
+start_trial 62
+-4
+-4
+-4
+end_trial
+start_trial 63
+-4
+-4
+-4
+end_trial
+start_trial 64
+-4
+-4
+-4
+end_trial
+start_trial 65
+-4
+-4
+-4
+end_trial
+start_trial 66
+-4
+-4
+-4
+end_trial
+start_trial 67
+-4
+-4
+-4
+end_trial
+start_trial 68
+-4
+-4
+-4
+end_trial
+start_trial 69
+0
+0
+0
+end_trial
+start_trial 70
+-4
+-4
+-4
+end_trial
+start_trial 71
+-4
+-4
+-4
+end_trial
+start_trial 72
+-4
+-4
+-4
+end_trial
+start_trial 73
+-4
+-4
+-4
+end_trial
+start_trial 74
+1
+0
+0
+end_trial
+start_trial 75
+1
+5
+2
+end_trial
+start_trial 76
+2
+2
+4
+end_trial
+start_trial 77
+3
+5
+8
+end_trial
+start_trial 78
+0
+0
+0
+end_trial
+start_trial 79
+0
+0
+0
+end_trial
+start_trial 80
+2
+2
+3
+end_trial
+start_trial 81
+9
+8
+4
+end_trial
+start_trial 82
+-4
+-4
+-4
+end_trial
+start_trial 83
+-4
+-4
+-4
+end_trial
+start_trial 84
+-4
+-4
+-4
+end_trial
+start_trial 85
+-4
+-4
+-4
+end_trial
+start_trial 86
+-4
+-4
+-4
+end_trial
+start_trial 87
+-4
+-4
+-4
+end_trial
+start_trial 88
+-4
+-4
+-4
+end_trial
+start_trial 89
+-4
+-4
+-4
+end_trial
+start_trial 90
+-4
+-4
+-4
+end_trial
+start_trial 91
+-4
+-4
+-4
+end_trial
+start_trial 92
+-4
+-4
+-4
+end_trial
+start_trial 93
+-4
+-4
+-4
+end_trial
+start_trial 94
+-4
+-4
+-4
+end_trial
+start_trial 95
+-4
+-4
+-4
+end_trial
+start_trial 96
+-4
+-4
+-4
+end_trial
+start_trial 97
+-4
+-4
+-4
+end_trial
+start_trial 98
+-4
+-4
+-4
+end_trial
+start_trial 99
+-4
+-4
+-4
+end_trial
+start_trial 100
+-4
+-4
+-4
+end_trial
+start_trial 101
+-4
+-4
+-4
+end_trial
+start_trial 102
+-4
+-4
+-4
+end_trial
+start_trial 103
+-4
+-4
+-4
+end_trial
+start_trial 104
+0
+0
+0
+end_trial
+start_trial 105
+0
+0
+0
+end_trial
+start_trial 106
+0
+0
+0
+end_trial
+start_trial 107
+0
+0
+0
+end_trial
+start_trial 108
+0
+0
+0
+end_trial
+start_trial 109
+0
+0
+0
+end_trial
+start_trial 110
+0
+0
+0
+end_trial
+start_trial 111
+-4
+-4
+-4
+end_trial
+start_trial 112
+-4
+-4
+-4
+end_trial
+start_trial 113
+-4
+-4
+-4
+end_trial
+start_trial 114
+-4
+-4
+-4
+end_trial
+start_trial 115
+-4
+-4
+-4
+end_trial
+start_trial 116
+-4
+-4
+-4
+end_trial
+start_trial 117
+-4
+-4
+-4
+end_trial
+start_trial 118
+-4
+-4
+-4
+end_trial
+start_trial 119
+-4
+-4
+-4
+end_trial
+start_trial 120
+0
+0
+0
+end_trial
+start_trial 121
+-4
+-4
+-4
+end_trial
+start_trial 122
+-4
+-4
+-4
+end_trial
+start_trial 123
+-4
+-4
+-4
+end_trial
+start_trial 124
+-4
+-4
+-4
+end_trial
+start_trial 125
+-4
+-4
+-4
+end_trial
+start_trial 126
+-4
+-4
+-4
+end_trial
+start_trial 127
+-4
+-4
+-4
+end_trial
+start_trial 128
+-4
+-4
+-4
+end_trial
+start_trial 129
+-4
+-4
+-4
+end_trial
+start_trial 130
+-4
+-4
+-4
+end_trial
+start_trial 131
+-4
+-4
+-4
+end_trial
+start_trial 132
+-4
+-4
+-4
+end_trial
+start_trial 133
+-4
+-4
+-4
+end_trial
+start_trial 134
+-4
+-4
+-4
+end_trial
+start_trial 135
+-4
+-4
+-4
+end_trial
+start_trial 136
+-4
+-4
+-4
+end_trial
+start_trial 137
+-4
+-4
+-4
+end_trial
+start_trial 138
+-4
+-4
+-4
+end_trial
+start_trial 139
+-4
+-4
+-4
+end_trial
+start_trial 140
+-4
+-4
+-4
+end_trial
+start_trial 141
+-4
+-4
+-4
+end_trial
+start_trial 142
+-4
+-4
+-4
+end_trial
+start_trial 143
+0
+0
+0
+end_trial
+start_trial 144
+-4
+-4
+-4
+end_trial
+start_trial 145
+-4
+-4
+-4
+end_trial
+start_trial 146
+-4
+-4
+-4
+end_trial
+start_trial 147
+-4
+-4
+-4
+end_trial
+start_trial 148
+-4
+-4
+-4
+end_trial
+start_trial 149
+-4
+-4
+-4
+end_trial
+start_trial 150
+0
+0
+0
+end_trial
+start_trial 151
+-4
+-4
+-4
+end_trial
+start_trial 152
+-4
+-4
+-4
+end_trial
+start_trial 153
+-4
+-4
+-4
+end_trial
+start_trial 154
+-4
+-4
+-4
+end_trial
+start_trial 155
+-4
+-4
+-4
+end_trial
+start_trial 156
+-4
+-4
+-4
+end_trial
+start_trial 157
+0
+0
+0
+end_trial
+start_trial 158
+-4
+-4
+-4
+end_trial
+start_trial 159
+-4
+-4
+-4
+end_trial
+start_trial 160
+-4
+-4
+-4
+end_trial
+start_trial 161
+-4
+-4
+-4
+end_trial
+start_trial 162
+-4
+-4
+-4
+end_trial
+start_trial 163
+-4
+-4
+-4
+end_trial
+start_trial 164
+0
+0
+0
+end_trial
+start_trial 165
+-4
+-4
+-4
+end_trial
+start_trial 166
+-4
+-4
+-4
+end_trial
+start_trial 167
+-4
+-4
+-4
+end_trial
+start_trial 168
+-4
+-4
+-4
+end_trial
+start_trial 169
+-4
+-4
+-4
+end_trial
+start_trial 170
+-4
+-4
+-4
+end_trial
+start_trial 171
+-4
+-4
+-4
+end_trial
+start_trial 172
+-4
+-4
+-4
+end_trial
+start_trial 173
+-4
+-4
+-4
+end_trial
+start_trial 174
+-4
+-4
+-4
+end_trial
+start_trial 175
+-4
+-4
+-4
+end_trial
+start_trial 176
+-4
+-4
+-4
+end_trial
+start_trial 177
+0
+0
+0
+end_trial
+start_trial 178
+-4
+-4
+-4
+end_trial
+start_trial 179
+0
+0
+0
+end_trial
+start_trial 180
+0
+0
+0
+end_trial
+start_trial 181
+0
+0
+0
+end_trial
+start_trial 182
+-4
+-4
+-4
+end_trial
+start_trial 183
+-4
+-4
+-4
+end_trial
+start_trial 184
+-4
+-4
+-4
+end_trial
+start_trial 185
+-4
+-4
+-4
+end_trial
+start_trial 186
+-4
+-4
+-4
+end_trial
+start_trial 187
+-4
+-4
+-4
+end_trial
+start_trial 188
+0
+0
+0
+end_trial
+start_trial 189
+-4
+-4
+-4
+end_trial
+start_trial 190
+-4
+-4
+-4
+end_trial
+start_trial 191
+-4
+-4
+-4
+end_trial
+start_trial 192
+-4
+-4
+-4
+end_trial
+start_trial 193
+-4
+-4
+-4
+end_trial
+start_trial 194
+-4
+-4
+-4
+end_trial
+start_trial 195
+-4
+-4
+-4
+end_trial
+start_trial 196
+0
+0
+0
+end_trial
+start_trial 197
+-4
+-4
+-4
+end_trial
+start_trial 198
+-4
+-4
+-4
+end_trial
+start_trial 199
+-4
+-4
+-4
+end_trial
+start_trial 200
+-4
+-4
+-4
+end_trial
+start_trial 201
+-4
+-4
+-4
+end_trial
+start_trial 202
+-4
+-4
+-4
+end_trial
+start_trial 203
+-4
+-4
+-4
+end_trial
+start_trial 204
+-4
+-4
+-4
+end_trial
+start_trial 205
+-4
+-4
+-4
+end_trial
+start_trial 206
+-4
+-4
+-4
+end_trial
+start_trial 207
+0
+0
+0
+end_trial
+start_trial 208
+-4
+-4
+-4
+end_trial
+start_trial 209
+-4
+-4
+-4
+end_trial
+start_trial 210
+-4
+-4
+-4
+end_trial
+start_trial 211
+-4
+-4
+-4
+end_trial
+start_trial 212
+-4
+-4
+-4
+end_trial
+start_trial 213
+-4
+-4
+-4
+end_trial
+start_trial 214
+-4
+-4
+-4
+end_trial
+start_trial 215
+0
+0
+0
+end_trial
+start_trial 216
+0
+0
+0
+end_trial
+start_trial 217
+-5
+-4
+-4
+end_trial
+start_trial 218
+-4
+-4
+-4
+end_trial
+start_trial 219
+0
+0
+0
+end_trial
+start_trial 220
+0
+0
+0
+end_trial
+start_trial 221
+-4
+-4
+-4
+end_trial
+start_trial 222
+0
+0
+0
+end_trial
+start_trial 223
+-4
+-4
+-4
+end_trial
+start_trial 224
+-4
+-4
+-4
+end_trial
+start_trial 225
+-4
+-4
+-4
+end_trial
+start_trial 226
+-4
+-4
+-4
+end_trial
+start_trial 227
+-4
+-4
+-4
+end_trial
+start_trial 228
+0
+0
+0
+end_trial
+start_trial 229
+-4
+-4
+-4
+end_trial
+start_trial 230
+0
+0
+0
+end_trial
+start_trial 231
+-4
+-4
+-4
+end_trial
+start_trial 232
+-4
+-4
+-4
+end_trial
+start_trial 233
+0
+0
+0
+end_trial
+start_trial 234
+-4
+-4
+-4
+end_trial
+start_trial 235
+-4
+-4
+-4
+end_trial
+start_trial 236
+-4
+-4
+-4
+end_trial
+start_trial 237
+-4
+-4
+-4
+end_trial
+start_trial 238
+-4
+-4
+-4
+end_trial
+start_trial 239
+-4
+-4
+-4
+end_trial
+start_trial 240
+-4
+-4
+-4
+end_trial
+start_trial 241
+-4
+-4
+-4
+end_trial
+start_trial 242
+-4
+-4
+-5
+end_trial
+start_trial 243
+-4
+-4
+-4
+end_trial
+start_trial 244
+-4
+-4
+-4
+end_trial
+start_trial 245
+-4
+-4
+-4
+end_trial
+start_trial 246
+-4
+-4
+-4
+end_trial
+start_trial 247
+-4
+-4
+-4
+end_trial
+start_trial 248
+-4
+-4
+-4
+end_trial
+start_trial 249
+-4
+-4
+-4
+end_trial
+start_trial 250
+-4
+-4
+-4
+end_trial
+start_trial 251
+-4
+-4
+-4
+end_trial
+start_trial 252
+-4
+-4
+-4
+end_trial
+start_trial 253
+-4
+-4
+-4
+end_trial
+start_trial 254
+0
+0
+0
+end_trial
+start_trial 255
+0
+0
+0
+end_trial
+start_trial 256
+-4
+-4
+-4
+end_trial
+start_trial 257
+0
+0
+0
+end_trial
+start_trial 258
+-4
+-4
+-4
+end_trial
+start_trial 259
+0
+0
+0
+end_trial
+start_trial 260
+-4
+-4
+-4
+end_trial
+start_trial 261
+-4
+-4
+-4
+end_trial
+start_trial 262
+-4
+-4
+-4
+end_trial
+start_trial 263
+-4
+-4
+-4
+end_trial
+start_trial 264
+-4
+-4
+-4
+end_trial
+start_trial 265
+-4
+-4
+-4
+end_trial
+start_trial 266
+-4
+-4
+-4
+end_trial
+start_trial 267
+-4
+-4
+-4
+end_trial
+start_trial 268
+-4
+-4
+-4
+end_trial
+start_trial 269
+-4
+-4
+-4
+end_trial
+start_trial 270
+-4
+-4
+-4
+end_trial
+start_trial 271
+-4
+-4
+-4
+end_trial
+start_trial 272
+-4
+-4
+-4
+end_trial
+start_trial 273
+-4
+-4
+-4
+end_trial
+start_trial 274
+-4
+-4
+-4
+end_trial
+start_trial 275
+-4
+-4
+-4
+end_trial
+start_trial 276
+-4
+-4
+-4
+end_trial
+start_trial 277
+-4
+-4
+-4
+end_trial
+start_trial 278
+-4
+-4
+-4
+end_trial
+start_trial 279
+-4
+-4
+-4
+end_trial
+start_trial 280
+-4
+-4
+-4
+end_trial
+start_trial 281
+-4
+-4
+-4
+end_trial
+start_trial 282
+0
+0
+0
+end_trial
+start_trial 283
+-4
+-4
+-4
+end_trial
+start_trial 284
+-4
+-4
+-4
+end_trial
+start_trial 285
+-4
+-4
+-4
+end_trial
+start_trial 286
+-4
+-4
+-4
+end_trial
+start_trial 287
+-4
+-4
+-4
+end_trial
+start_trial 288
+-4
+-4
+-4
+end_trial
+start_trial 289
+-4
+-4
+-4
+end_trial
+start_trial 290
+0
+0
+0
+end_trial
+start_trial 291
+-4
+-4
+-4
+end_trial
+start_trial 292
+-4
+-4
+-4
+end_trial
+start_trial 293
+-4
+-4
+-4
+end_trial
+start_trial 294
+-4
+-4
+-4
+end_trial
+start_trial 295
+-4
+-4
+-4
+end_trial
+start_trial 296
+-4
+-4
+-4
+end_trial
+start_trial 297
+0
+0
+0
+end_trial
+start_trial 298
+0
+0
+0
+end_trial
+start_trial 299
+-4
+-4
+-4
+end_trial
+start_trial 300
+-4
+-4
+-4
+end_trial
+start_trial 301
+-4
+-4
+-4
+end_trial
+start_trial 302
+-4
+-4
+-4
+end_trial
+start_trial 303
+-4
+-4
+-4
+end_trial
+start_trial 304
+-4
+-4
+-4
+end_trial
+start_trial 305
+-4
+-4
+-4
+end_trial
+start_trial 306
+-5
+-5
+-4
+end_trial
+start_trial 307
+-4
+-4
+-4
+end_trial
+start_trial 308
+-4
+-4
+-4
+end_trial
+start_trial 309
+-4
+-4
+-4
+end_trial
+start_trial 310
+-4
+-4
+-4
+end_trial
+start_trial 311
+-4
+-4
+-4
+end_trial
+start_trial 312
+-4
+-4
+-4
+end_trial
+start_trial 313
+0
+0
+0
+end_trial
+start_trial 314
+-4
+-4
+-4
+end_trial
+start_trial 315
+0
+1
+0
+end_trial
+start_trial 316
+0
+0
+0
+end_trial
+start_trial 317
+0
+0
+0
+end_trial
+start_trial 318
+0
+0
+0
+end_trial
+start_trial 319
+-4
+-4
+-4
+end_trial
+start_trial 320
+-4
+-4
+-4
+end_trial
+start_trial 321
+-4
+-4
+-4
+end_trial
+start_trial 322
+0
+0
+0
+end_trial
+start_trial 323
+-4
+-4
+-4
+end_trial
+start_trial 324
+-4
+-4
+-4
+end_trial
+start_trial 325
+-4
+-4
+-4
+end_trial
+start_trial 326
+-4
+-4
+-4
+end_trial
+start_trial 327
+-4
+-4
+-4
+end_trial
+start_trial 328
+0
+0
+0
+end_trial
+start_trial 329
+-4
+-4
+-4
+end_trial
+start_trial 330
+-4
+-4
+-4
+end_trial
+start_trial 331
+0
+0
+0
+end_trial
+start_trial 332
+-4
+-4
+-4
+end_trial
+start_trial 333
+-5
+-4
+-4
+end_trial
+start_trial 334
+-4
+-4
+-4
+end_trial
+start_trial 335
+0
+0
+0
+end_trial
+start_trial 336
+0
+0
+0
+end_trial
+start_trial 337
+-4
+-4
+-4
+end_trial
+start_trial 338
+0
+0
+0
+end_trial
+start_trial 339
+0
+0
+0
+end_trial
+start_trial 340
+-4
+-4
+-4
+end_trial
+start_trial 341
+0
+0
+0
+end_trial
+start_trial 342
+0
+0
+0
+end_trial
+start_trial 343
+0
+0
+0
+end_trial
+start_trial 344
+0
+0
+0
+end_trial
+start_trial 345
+-4
+-4
+-4
+end_trial
+start_trial 346
+-4
+-4
+-4
+end_trial
+start_trial 347
+-4
+-4
+-4
+end_trial
+start_trial 348
+-4
+-4
+-4
+end_trial
+start_trial 349
+-4
+-4
+-4
+end_trial
+start_trial 350
+0
+0
+0
+end_trial
+start_trial 351
+-4
+-4
+-4
+end_trial
+start_trial 352
+0
+0
+0
+end_trial
+start_trial 353
+-4
+-4
+-4
+end_trial
+start_trial 354
+0
+0
+0
+end_trial
+start_trial 355
+0
+0
+0
+end_trial
+start_trial 356
+-4
+-4
+-4
+end_trial
+start_trial 357
+-4
+-4
+-4
+end_trial
+start_trial 358
+-4
+-4
+-4
+end_trial
+start_trial 359
+-4
+-4
+-4
+end_trial
+start_trial 360
+-4
+-4
+-4
+end_trial
+start_trial 361
+0
+0
+0
+end_trial
+start_trial 362
+-4
+-4
+-4
+end_trial
+start_trial 363
+-4
+-4
+-4
+end_trial
+start_trial 364
+-4
+-4
+-4
+end_trial
+start_trial 365
+0
+0
+0
+end_trial
+start_trial 366
+0
+0
+0
+end_trial
+start_trial 367
+-4
+-4
+-4
+end_trial
+start_trial 368
+-4
+-4
+-4
+end_trial
+start_trial 369
+-4
+-4
+-4
+end_trial
+start_trial 370
+-4
+-4
+-4
+end_trial
+start_trial 371
+0
+0
+0
+end_trial
+start_trial 372
+-4
+-4
+-4
+end_trial
+start_trial 373
+-4
+-4
+-4
+end_trial
+start_trial 374
+0
+0
+0
+end_trial
+start_trial 375
+-4
+-4
+-4
+end_trial
+start_trial 376
+-4
+-4
+-4
+end_trial
+start_trial 377
+-4
+-4
+-4
+end_trial
+start_trial 378
+-4
+-4
+-4
+end_trial
+start_trial 379
+-4
+-4
+-4
+end_trial
+start_trial 380
+-4
+-4
+-4
+end_trial
+start_trial 381
+0
+0
+0
+end_trial
+start_trial 382
+0
+0
+0
+end_trial
+start_trial 383
+-4
+-4
+-4
+end_trial
+start_trial 384
+0
+0
+0
+end_trial
+start_trial 385
+-4
+-4
+-4
+end_trial
+start_trial 386
+-4
+-4
+-4
+end_trial
+start_trial 387
+-4
+-4
+-4
+end_trial
+start_trial 388
+-4
+-4
+-4
+end_trial
+start_trial 389
+-4
+-4
+-4
+end_trial
+start_trial 390
+-4
+-4
+-4
+end_trial
+start_trial 391
+-4
+-4
+-4
+end_trial
+start_trial 392
+-4
+-4
+-4
+end_trial
+start_trial 393
+-4
+-4
+-4
+end_trial
+start_trial 394
+-4
+-4
+-4
+end_trial
+start_trial 395
+-4
+-4
+-4
+end_trial
+start_trial 396
+-4
+-4
+-4
+end_trial
+start_trial 397
+-4
+-4
+-4
+end_trial
+start_trial 398
+-4
+-4
+-4
+end_trial
+start_trial 399
+-5
+-5
+-5
+end_trial
+start_trial 400
+-4
+-4
+-4
+end_trial
+start_trial 401
+-4
+-4
+-4
+end_trial
+start_trial 402
+-4
+-4
+-4
+end_trial
+start_trial 403
+-4
+-4
+-4
+end_trial
+start_trial 404
+-4
+-4
+-4
+end_trial
+start_trial 405
+-4
+-4
+-4
+end_trial
+start_trial 406
+-4
+-4
+-4
+end_trial
+start_trial 407
+-4
+-4
+-4
+end_trial
+start_trial 408
+-4
+-4
+-4
+end_trial
+start_trial 409
+-4
+-4
+-4
+end_trial
+start_trial 410
+-4
+-4
+-4
+end_trial
+start_trial 411
+-4
+-4
+-4
+end_trial
+start_trial 412
+-4
+-4
+-4
+end_trial
+start_trial 413
+-4
+-4
+-4
+end_trial
+start_trial 414
+-4
+-4
+-4
+end_trial
+start_trial 415
+0
+0
+0
+end_trial
+start_trial 416
+0
+0
+0
+end_trial
+start_trial 417
+-4
+-4
+-4
+end_trial
+start_trial 418
+-4
+-4
+-5
+end_trial
+start_trial 419
+0
+0
+0
+end_trial
+start_trial 420
+-4
+-4
+-4
+end_trial
+start_trial 421
+-4
+-4
+-4
+end_trial
+start_trial 422
+0
+0
+0
+end_trial
+start_trial 423
+0
+0
+0
+end_trial
+start_trial 424
+0
+0
+0
+end_trial
+start_trial 425
+0
+0
+0
+end_trial
+start_trial 426
+-4
+-4
+-4
+end_trial
+start_trial 427
+-4
+-4
+-4
+end_trial
+start_trial 428
+0
+0
+0
+end_trial
+start_trial 429
+-4
+-4
+-4
+end_trial
+start_trial 430
+-4
+-4
+-4
+end_trial
+start_trial 431
+-4
+-4
+-4
+end_trial
+start_trial 432
+-4
+-4
+-4
+end_trial
+start_trial 433
+-4
+-4
+-4
+end_trial
+start_trial 434
+0
+0
+0
+end_trial
+start_trial 435
+0
+0
+0
+end_trial
+start_trial 436
+-4
+-4
+-4
+end_trial
+start_trial 437
+-4
+-4
+-4
+end_trial
+start_trial 438
+-4
+-4
+-4
+end_trial
+start_trial 439
+-4
+-4
+-4
+end_trial
+start_trial 440
+-4
+-4
+-4
+end_trial
+start_trial 441
+-4
+-4
+-4
+end_trial
+start_trial 442
+-4
+-4
+-4
+end_trial
+start_trial 443
+-4
+-4
+-4
+end_trial
+start_trial 444
+-4
+-4
+-4
+end_trial
+start_trial 445
+-4
+-4
+-4
+end_trial
+start_trial 446
+0
+0
+0
+end_trial
+start_trial 447
+-4
+-4
+-4
+end_trial
+start_trial 448
+-4
+-4
+-4
+end_trial
+start_trial 449
+-4
+-4
+-4
+end_trial
+start_trial 450
+-4
+-4
+-4
+end_trial
+start_trial 451
+-4
+-4
+-4
+end_trial
+start_trial 452
+-4
+-4
+-4
+end_trial
+start_trial 453
+-4
+-4
+-4
+end_trial
+start_trial 454
+-4
+-4
+-4
+end_trial
+start_trial 455
+-4
+-4
+-4
+end_trial
+start_trial 456
+-4
+-4
+-4
+end_trial
+start_trial 457
+-4
+-4
+-4
+end_trial
+start_trial 458
+-4
+-4
+-4
+end_trial
+start_trial 459
+-4
+-4
+-4
+end_trial
+start_trial 460
+-4
+-4
+-4
+end_trial
+start_trial 461
+-4
+-4
+-4
+end_trial
+start_trial 462
+-4
+-4
+-4
+end_trial
+start_trial 463
+-4
+-4
+-4
+end_trial
+start_trial 464
+-4
+-4
+-4
+end_trial
+start_trial 465
+-4
+-4
+-4
+end_trial
+start_trial 466
+-4
+-4
+-4
+end_trial
+start_trial 467
+-4
+-4
+-4
+end_trial
+start_trial 468
+-4
+-4
+-4
+end_trial
+start_trial 469
+-4
+-4
+-4
+end_trial
+start_trial 470
+-4
+-4
+-4
+end_trial
+start_trial 471
+-4
+-4
+end_trial
+start_trial 472
+-4
+-4
+-4
+end_trial
+start_trial 473
+-4
+-4
+-4
+end_trial
+start_trial 474
+-4
+-4
+-4
+end_trial
+start_trial 475
+-4
+-4
+-4
+end_trial
+start_trial 476
+-4
+-4
+-4
+end_trial
+start_trial 477
+-4
+-4
+-4
+end_trial
+start_trial 478
+-4
+-4
+-4
+end_trial
+start_trial 479
+-4
+-4
+-4
+end_trial
+start_trial 480
+-4
+-4
+-4
+end_trial
+start_trial 481
+-4
+-4
+-4
+end_trial
+start_trial 482
+0
+0
+0
+end_trial
+start_trial 483
+-4
+-4
+-4
+end_trial
+start_trial 484
+0
+0
+end_trial
+start_trial 485
+-4
+-4
+-4
+end_trial
+start_trial 486
+-4
+-4
+-4
+end_trial
+start_trial 487
+-4
+-4
+-4
+end_trial
+start_trial 488
+0
+0
+0
+end_trial
+start_trial 489
+-4
+-4
+-4
+end_trial
+start_trial 490
+0
+0
+0
+end_trial
+start_trial 491
+-4
+-4
+-4
+end_trial
+start_trial 492
+0
+0
+0
+end_trial
+start_trial 493
+-4
+-4
+-4
+end_trial
+start_trial 494
+0
+0
+0
+end_trial
+start_trial 495
+-4
+-4
+-4
+end_trial
+start_trial 496
+-4
+-4
+-4
+end_trial
+start_trial 497
+-4
+-4
+-4
+end_trial
+start_trial 498
+-4
+-4
+-4
+end_trial
+start_trial 499
+0
+0
+0
+end_trial
+start_trial 500
+0
+0
+0
+end_trial
+start_trial 501
+0
+0
+0
+end_trial
+start_trial 502
+0
+0
+0
+end_trial
+start_trial 503
+-4
+-4
+-4
+end_trial
+start_trial 504
+-4
+-4
+-4
+end_trial
+start_trial 505
+-4
+-4
+-4
+end_trial
+start_trial 506
+-4
+-4
+-4
+end_trial
+start_trial 507
+0
+0
+0
+end_trial
+start_trial 508
+-4
+-4
+-4
+end_trial
+start_trial 509
+-4
+0
+0
+end_trial
+start_trial 510
+-4
+-4
+-4
+end_trial
+start_trial 511
+-4
+-4
+-4
+end_trial
+start_trial 512
+0
+0
+0
+end_trial
+start_trial 513
+-4
+-4
+-4
+end_trial
+start_trial 514
+0
+0
+0
+end_trial
+start_trial 515
+-4
+-4
+-4
+end_trial
+start_trial 516
+-4
+-4
+-4
+end_trial
+start_trial 517
+-4
+-4
+-4
+end_trial
+start_trial 518
+0
+0
+0
+end_trial
+start_trial 519
+-4
+-4
+-4
+end_trial
+start_trial 520
+-4
+0
+-4
+end_trial
+start_trial 521
+-4
+-4
+-4
+end_trial
+start_trial 522
+0
+0
+0
+end_trial
+start_trial 523
+-4
+-4
+-4
+end_trial
+start_trial 524
+0
+0
+0
+end_trial
+start_trial 525
+-4
+-4
+-4
+end_trial
+start_trial 526
+0
+0
+0
+end_trial
+start_trial 527
+-4
+-4
+-4
+end_trial
+start_trial 528
+0
+0
+0
+end_trial
+start_trial 529
+0
+0
+0
+end_trial
+start_trial 530
+0
+0
+0
+end_trial
+start_trial 531
+0
+0
+0
+end_trial
+start_trial 532
+0
+0
+0
+end_trial
+start_trial 533
+-4
+-4
+-4
+end_trial
+start_trial 534
+0
+0
+0
+end_trial
+start_trial 535
+-4
+-4
+-4
+end_trial
+start_trial 536
+0
+0
+0
+end_trial
+start_trial 537
+0
+0
+0
+end_trial
+start_trial 538
+0
+0
+0
+end_trial
+start_trial 539
+0
+0
+0
+end_trial
+start_trial 540
+0
+0
+0
+end_trial
+start_trial 541
+-4
+-5
+-5
+end_trial
+start_trial 542
+-5
+-5
+-5
+end_trial
+start_trial 543
+-4
+-4
+-4
+end_trial
+start_trial 544
+0
+0
+0
+end_trial
+start_trial 545
+-4
+-4
+-4
+end_trial
+start_trial 546
+-4
+-4
+-4
+end_trial
+start_trial 547
+-4
+-4
+-4
+end_trial
+start_trial 548
+-4
+-4
+-4
+end_trial
+start_trial 549
+-4
+-4
+-4
+end_trial
+start_trial 550
+-4
+-4
+-4
+end_trial
+start_trial 551
+-4
+-4
+-4
+end_trial
+start_trial 552
+-4
+-4
+-4
+end_trial
+start_trial 553
+-4
+-4
+-4
+end_trial
+start_trial 554
+0
+0
+0
+end_trial
+start_trial 555
+-4
+-4
+-4
+end_trial
+start_trial 556
+0
+0
+0
+end_trial
+start_trial 557
+-4
+-4
+-4
+end_trial
+start_trial 558
+-4
+-4
+-4
+end_trial
+start_trial 559
+-4
+-4
+-4
+end_trial
+start_trial 560
+-4
+-4
+-4
+end_trial
+start_trial 561
+-4
+-4
+-4
+end_trial
+start_trial 562
+-4
+-4
+-4
+end_trial
+start_trial 563
+-4
+-4
+-4
+end_trial
+start_trial 564
+-4
+-4
+-4
+end_trial
+start_trial 565
+-4
+-4
+-4
+end_trial
+start_trial 566
+0
+0
+0
+end_trial
+start_trial 567
+-4
+-4
+-4
+end_trial
+start_trial 568
+-4
+-4
+-4
+end_trial
+start_trial 569
+-4
+-4
+-4
+end_trial
+start_trial 570
+-4
+-4
+-4
+end_trial
+start_trial 571
+-4
+-4
+-4
+end_trial
+start_trial 572
+-4
+-4
+-4
+end_trial
+start_trial 573
+-4
+-4
+-4
+end_trial
+start_trial 574
+-4
+-4
+-4
+end_trial
+start_trial 575
+-4
+-4
+-4
+end_trial
+start_trial 576
+-4
+-4
+-4
+end_trial
+start_trial 577
+-4
+-4
+-4
+end_trial
+start_trial 578
+-4
+-4
+-4
+end_trial
+start_trial 579
+0
+0
+0
+end_trial
+start_trial 580
+-4
+-4
+-4
+end_trial
+start_trial 581
+-4
+-4
+-4
+end_trial
+start_trial 582
+0
+0
+0
+end_trial
+start_trial 583
+-4
+-4
+-4
+end_trial
+start_trial 584
+-4
+-4
+-4
+end_trial
+start_trial 585
+-4
+-4
+-4
+end_trial
+start_trial 586
+-4
+-4
+-4
+end_trial
+start_trial 587
+-4
+-4
+-4
+end_trial
+start_trial 588
+-4
+-4
+-4
+end_trial
+start_trial 589
+-4
+-4
+-4
+end_trial
+start_trial 590
+-4
+-4
+-4
+end_trial
+start_trial 591
+-4
+-4
+-4
+end_trial
+start_trial 592
+-4
+-4
+-4
+end_trial
+start_trial 593
+0
+0
+0
+end_trial
+start_trial 594
+0
+0
+0
+end_trial
+start_trial 595
+-4
+-4
+-4
+end_trial
+start_trial 596
+-4
+-4
+-4
+end_trial
+start_trial 597
+0
+0
+0
+end_trial
+start_trial 598
+-4
+-4
+-4
+end_trial
+start_trial 599
+-4
+-4
+-4
+end_trial
+start_trial 600
+-4
+-4
+-4
+end_trial
+start_trial 601
+0
+0
+0
+end_trial
+start_trial 602
+0
+0
+0
+end_trial
+start_trial 603
+0
+0
+0
+end_trial
+start_trial 604
+-4
+-4
+-4
+end_trial
+start_trial 605
+0
+0
+0
+end_trial
+start_trial 606
+-4
+-4
+-4
+end_trial
+start_trial 607
+-4
+-4
+-4
+end_trial
+start_trial 608
+-4
+-4
+-4
+end_trial
+start_trial 609
+-4
+-4
+-4
+end_trial
+start_trial 610
+-4
+-4
+-4
+end_trial
+start_trial 611
+-4
+-4
+-4
+end_trial
+start_trial 612
+-4
+-4
+-4
+end_trial
+start_trial 613
+-4
+-4
+-4
+end_trial
+start_trial 614
+-4
+-4
+-4
+end_trial
+start_trial 615
+0
+0
+0
+end_trial
+start_trial 616
+-4
+-4
+-4
+end_trial
+start_trial 617
+-4
+-4
+-4
+end_trial
+start_trial 618
+0
+0
+0
+end_trial
+start_trial 619
+0
+0
+0
+end_trial
+start_trial 620
+-4
+-4
+-4
+end_trial
+start_trial 621
+-4
+-4
+-4
+end_trial
+start_trial 622
+-4
+-4
+-4
+end_trial
+start_trial 623
+0
+0
+0
+end_trial
+start_trial 624
+0
+0
+0
+end_trial
+start_trial 625
+0
+0
+0
+end_trial
+start_trial 626
+0
+0
+0
+end_trial
+start_trial 627
+0
+0
+0
+end_trial
+start_trial 628
+0
+0
+0
+end_trial
+start_trial 629
+0
+0
+0
+end_trial
+start_trial 630
+-4
+-4
+-4
+end_trial
+start_trial 631
+-5
+-5
+-5
+end_trial
+start_trial 632
+0
+0
+-4
+end_trial
+start_trial 633
+-5
+-5
+-5
+end_trial
+start_trial 634
+-4
+-4
+-4
+end_trial
+start_trial 635
+-4
+-4
+-4
+end_trial
+start_trial 636
+0
+0
+0
+end_trial
+start_trial 637
+0
+0
+0
+end_trial
+start_trial 638
+112
+109
+107
+end_trial
+start_trial 639
+0
+0
+0
+end_trial
+start_trial 640
+109
+113
+end_trial
+start_trial 641
+0
+0
+0
+end_trial
+start_trial 642
+0
+0
+0
+end_trial
+start_trial 643
+0
+0
+0
+end_trial
+start_trial 644
+113
+111
+111
+end_trial
+start_trial 645
+-5
+-5
+-5
+end_trial
+start_trial 646
+0
+0
+0
+end_trial
+start_trial 647
+0
+0
+-5
+end_trial
+start_trial 648
+103
+102
+92
+end_trial
+start_trial 649
+94
+103
+98
+end_trial
+start_trial 650
+-4
+-4
+-4
+end_trial
+start_trial 651
+-4
+-4
+-4
+end_trial
+start_trial 652
+-4
+-4
+-4
+end_trial
+start_trial 653
+-4
+-4
+-4
+end_trial
+start_trial 654
+-4
+-4
+-4
+end_trial
+start_trial 655
+-4
+-4
+-4
+end_trial
+start_trial 656
+-4
+-4
+-4
+end_trial
+start_trial 657
+0
+0
+0
+end_trial
+start_trial 658
+-4
+-4
+-4
+end_trial
+start_trial 659
+-4
+-4
+-4
+end_trial
+start_trial 660
+-4
+-4
+-4
+end_trial
+start_trial 661
+-4
+-4
+-4
+end_trial
+start_trial 662
+-4
+-4
+-4
+end_trial
+start_trial 663
+-4
+-4
+-4
+end_trial
+start_trial 664
+-4
+-4
+-4
+end_trial
+start_trial 665
+-4
+-4
+-4
+end_trial
+start_trial 666
+-4
+-4
+-4
+end_trial
+start_trial 667
+175
+175
+175
+end_trial
+start_trial 668
+-4
+-4
+-4
+end_trial
+start_trial 669
+-4
+-4
+-4
+end_trial
+start_trial 670
+-4
+-4
+-4
+end_trial
+start_trial 671
+-4
+-4
+-4
+end_trial
+start_trial 672
+-4
+-4
+-4
+end_trial
+start_trial 673
+-4
+-4
+-4
+end_trial
+start_trial 674
+-4
+-4
+-4
+end_trial
+start_trial 675
+-4
+-4
+-4
+end_trial
+start_trial 676
+-4
+-4
+-4
+end_trial
+start_trial 677
+-4
+-4
+-4
+end_trial
+start_trial 678
+-4
+-4
+-4
+end_trial
+start_trial 679
+175
+175
+175
+end_trial
+start_trial 680
+-4
+-4
+-4
+end_trial
+start_trial 681
+0
+-5
+0
+end_trial
+start_trial 682
+-4
+-4
+-4
+end_trial
+start_trial 683
+-4
+-4
+-4
+end_trial
+start_trial 684
+-4
+-4
+-4
+end_trial
+start_trial 685
+-4
+-4
+-4
+end_trial
+start_trial 686
+-4
+-4
+-4
+end_trial
+start_trial 687
+-4
+-4
+-4
+end_trial
+start_trial 688
+-4
+-4
+-4
+end_trial
+start_trial 689
+-4
+-4
+-4
+end_trial
+start_trial 690
+-4
+-4
+-4
+end_trial
+start_trial 691
+175
+175
+175
+end_trial
+start_trial 692
+-4
+-4
+-4
+end_trial
+start_trial 693
+0
+0
+0
+end_trial
+start_trial 694
+-4
+-4
+-4
+end_trial
+start_trial 695
+-4
+-4
+-4
+end_trial
+start_trial 696
+-4
+-4
+-4
+end_trial
+start_trial 697
+-4
+-4
+-4
+end_trial
+start_trial 698
+-4
+-4
+-4
+end_trial
+start_trial 699
+-4
+-4
+-4
+end_trial
+start_trial 700
+-4
+-4
+-4
+end_trial
+start_trial 701
+0
+0
+0
+end_trial
+start_trial 702
+-4
+-4
+-4
+end_trial
+start_trial 703
+-4
+-4
+-4
+end_trial
+start_trial 704
+0
+0
+0
+end_trial
+start_trial 705
+-4
+-4
+-4
+end_trial
+start_trial 706
+-4
+-4
+-4
+end_trial
+start_trial 707
+-4
+-4
+-4
+end_trial
+start_trial 708
+-4
+-4
+-4
+end_trial
+start_trial 709
+-4
+-4
+-4
+end_trial
+start_trial 710
+-4
+-4
+-4
+end_trial
+start_trial 711
+-4
+-4
+-4
+end_trial
+start_trial 712
+-4
+-4
+-4
+end_trial
+start_trial 713
+-4
+-4
+-4
+end_trial
+start_trial 714
+-4
+-4
+-4
+end_trial
+start_trial 715
+-4
+-4
+-4
+end_trial
+start_trial 716
+-4
+-4
+-4
+end_trial
+start_trial 717
+-4
+-4
+-4
+end_trial
+start_trial 718
+-4
+-4
+-4
+end_trial
+start_trial 719
+-4
+-4
+-4
+end_trial
+start_trial 720
+-5
+-5
+-5
+end_trial
+start_trial 721
+-4
+-4
+-4
+end_trial
+start_trial 722
+-4
+-4
+-4
+end_trial
+start_trial 723
+-4
+-4
+-4
+end_trial
+start_trial 724
+0
+0
+0
+end_trial
+start_trial 725
+0
+0
+0
+end_trial
+start_trial 726
+-4
+-4
+-4
+end_trial
+start_trial 727
+-4
+-4
+-4
+end_trial
+start_trial 728
+-4
+-4
+-4
+end_trial
+start_trial 729
+-4
+-4
+-4
+end_trial
+start_trial 730
+-4
+-4
+-4
+end_trial
+start_trial 731
+-4
+-4
+-4
+end_trial
+start_trial 732
+-4
+-4
+-4
+end_trial
+start_trial 733
+-4
+-4
+-4
+end_trial
+start_trial 734
+-4
+-4
+-4
+end_trial
+start_trial 735
+-4
+-4
+-4
+end_trial
+start_trial 736
+-4
+-4
+-4
+end_trial
+start_trial 737
+-4
+-4
+-4
+end_trial
+start_trial 738
+-4
+-4
+-4
+end_trial
+start_trial 739
+-4
+-4
+-4
+end_trial
+start_trial 740
+-4
+-4
+end_trial
+start_trial 741
+-4
+-4
+-4
+end_trial
+start_trial 742
+-4
+-4
+-4
+end_trial
+start_trial 743
+-4
+-4
+-4
+end_trial
+start_trial 744
+-4
+-4
+-4
+end_trial
+start_trial 745
+-4
+-4
+-4
+end_trial
+start_trial 746
+-4
+-4
+-4
+end_trial
+start_trial 747
+175
+175
+175
+end_trial
+start_trial 748
+-4
+-4
+-4
+end_trial
+start_trial 749
+-4
+-4
+-4
+end_trial
+start_trial 750
+-4
+-4
+-4
+end_trial
+start_trial 751
+-4
+-4
+-4
+end_trial
+start_trial 752
+-4
+-4
+-4
+end_trial
+start_trial 753
+-4
+-4
+-4
+end_trial
+start_trial 754
+-4
+-4
+-4
+end_trial
+start_trial 755
+-4
+-4
+-4
+end_trial
+start_trial 756
+175
+175
+175
+end_trial
+start_trial 757
+-4
+-4
+-4
+end_trial
+start_trial 758
+-4
+-4
+-4
+end_trial
+start_trial 759
+-4
+-4
+-4
+end_trial
+start_trial 760
+-4
+-4
+-4
+end_trial
+start_trial 761
+-4
+-4
+-4
+end_trial
+start_trial 762
+-4
+-4
+-4
+end_trial
+start_trial 763
+-4
+-4
+-4
+end_trial
+start_trial 764
+-4
+-4
+-4
+end_trial
+start_trial 765
+-4
+-4
+-4
+end_trial
+start_trial 766
+-4
+-4
+-4
+end_trial
+start_trial 767
+-4
+-4
+-4
+end_trial
+start_trial 768
+-4
+-4
+-4
+end_trial
+start_trial 769
+-4
+-4
+-4
+end_trial
+start_trial 770
+-4
+-4
+-4
+end_trial
+start_trial 771
+-4
+-4
+-4
+end_trial
+start_trial 772
+-4
+-4
+-4
+end_trial
+start_trial 773
+-4
+-4
+-4
+end_trial
+start_trial 774
+-4
+-4
+-4
+end_trial
+start_trial 775
+-4
+-4
+-4
+end_trial
+start_trial 776
+-4
+-4
+-4
+end_trial
+start_trial 777
+-4
+-4
+-4
+end_trial
+start_trial 778
+-4
+-4
+-4
+end_trial
+start_trial 779
+-4
+-4
+-4
+end_trial
+start_trial 780
+-4
+-4
+-4
+end_trial
+start_trial 781
+-4
+-4
+-4
+end_trial
+start_trial 782
+-4
+-4
+-4
+end_trial
+start_trial 783
+-4
+-4
+-4
+end_trial
+start_trial 784
+-4
+-4
+-4
+end_trial
+start_trial 785
+-4
+-4
+-4
+end_trial
+start_trial 786
+-4
+-4
+-4
+end_trial
+start_trial 787
+0
+0
+0
+end_trial
+start_trial 788
+-4
+-4
+-4
+end_trial
+start_trial 789
+-4
+-4
+-4
+end_trial
+start_trial 790
+-4
+-4
+-4
+end_trial
+start_trial 791
+-4
+-4
+-4
+end_trial
+start_trial 792
+-4
+-4
+-4
+end_trial
+start_trial 793
+-4
+-4
+-4
+end_trial
+start_trial 794
+-4
+-4
+-4
+end_trial
+start_trial 795
+-4
+-4
+-4
+end_trial
+start_trial 796
+0
+0
+0
+end_trial
+start_trial 797
+-4
+-4
+-4
+end_trial
+start_trial 798
+-4
+-4
+-4
+end_trial
+start_trial 799
+-4
+-4
+-4
+end_trial
+start_trial 800
+0
+0
+0
+end_trial
+start_trial 801
+0
+0
+0
+end_trial
+start_trial 802
+-5
+-5
+-4
+end_trial
+start_trial 803
+0
+0
+0
+end_trial
+start_trial 804
+-4
+-4
+-4
+end_trial
+start_trial 805
+-4
+-4
+-4
+end_trial
+start_trial 806
+-4
+-4
+-4
+end_trial
+start_trial 807
+0
+-5
+0
+end_trial
+start_trial 808
+-4
+-4
+-4
+end_trial
+start_trial 809
+-4
+-4
+-4
+end_trial
+start_trial 810
+0
+0
+0
+end_trial
+start_trial 811
+0
+0
+0
+end_trial
+start_trial 812
+0
+0
+0
+end_trial
+start_trial 813
+-4
+-4
+-5
+end_trial
+start_trial 814
+-4
+-4
+-4
+end_trial
+start_trial 815
+0
+0
+0
+end_trial
+start_trial 816
+-4
+-4
+-4
+end_trial
+start_trial 817
+-4
+-4
+-4
+end_trial
+start_trial 818
+-4
+-4
+-4
+end_trial
+start_trial 819
+-4
+-4
+-4
+end_trial
+start_trial 820
+-4
+-4
+-4
+end_trial
+start_trial 821
+-4
+-4
+-4
+end_trial
+start_trial 822
+0
+0
+0
+end_trial
+start_trial 823
+0
+1
+0
+end_trial
+start_trial 824
+-4
+-4
+-4
+end_trial
+start_trial 825
+-4
+-4
+-4
+end_trial
+start_trial 826
+0
+0
+0
+end_trial
+start_trial 827
+0
+0
+0
+end_trial
+start_trial 828
+0
+0
+0
+end_trial
+start_trial 829
+-4
+-4
+-4
+end_trial
+start_trial 830
+0
+0
+0
+end_trial
+start_trial 831
+0
+0
+0
+end_trial
+start_trial 832
+0
+0
+0
+end_trial
+start_trial 833
+0
+0
+0
+end_trial
+start_trial 834
+0
+0
+0
+end_trial
+start_trial 835
+0
+0
+0
+end_trial
+start_trial 836
+0
+0
+0
+end_trial
+start_trial 837
+-4
+-4
+-4
+end_trial
+start_trial 838
+0
+0
+0
+end_trial
+start_trial 839
+0
+0
+0
+end_trial
+start_trial 840
+0
+0
+0
+end_trial
+start_trial 841
+0
+0
+0
+end_trial
+start_trial 842
+-4
+-4
+-4
+end_trial
+start_trial 843
+0
+0
+0
+end_trial
+start_trial 844
+-4
+-4
+-4
+end_trial
+start_trial 845
+0
+0
+1
+end_trial
+start_trial 846
+-4
+-4
+-4
+end_trial
+start_trial 847
+1
+1
+1
+end_trial
+start_trial 848
+-4
+-4
+-4
+end_trial
+start_trial 849
+0
+0
+0
+end_trial
+start_trial 850
+0
+0
+0
+end_trial
+start_trial 851
+0
+0
+0
+end_trial
+start_trial 852
+0
+0
+0
+end_trial
+start_trial 853
+-4
+-4
+-4
+end_trial
+start_trial 854
+0
+0
+0
+end_trial
+start_trial 855
+-4
+-4
+-4
+end_trial
+start_trial 856
+0
+0
+0
+end_trial
+start_trial 857
+0
+0
+0
+end_trial
+start_trial 858
+-4
+-4
+-4
+end_trial
+start_trial 859
+0
+0
+0
+end_trial
+start_trial 860
+0
+0
+0
+end_trial
+start_trial 861
+0
+0
+end_trial
+start_trial 862
+0
+0
+0
+end_trial
+start_trial 863
+-4
+-4
+-4
+end_trial
+start_trial 864
+0
+0
+0
+end_trial
+start_trial 865
+-4
+-4
+-4
+end_trial
+start_trial 866
+0
+1
+1
+end_trial
+start_trial 867
+0
+0
+0
+end_trial
+start_trial 868
+0
+0
+0
+end_trial
+start_trial 869
+0
+0
+0
+end_trial
+start_trial 870
+-4
+-4
+-4
+end_trial
+start_trial 871
+0
+0
+0
+end_trial
+start_trial 872
+-4
+0
+-4
+end_trial
+start_trial 873
+0
+0
+0
+end_trial
+start_trial 874
+0
+0
+0
+end_trial
+start_trial 875
+0
+0
+0
+end_trial
+start_trial 876
+0
+0
+0
+end_trial
+start_trial 877
+0
+0
+0
+end_trial
+start_trial 878
+0
+0
+0
+end_trial
+start_trial 879
+-4
+-4
+-4
+end_trial
+start_trial 880
+0
+0
+0
+end_trial
+start_trial 881
+-4
+-4
+-4
+end_trial
+start_trial 882
+-4
+-4
+-4
+end_trial
+start_trial 883
+-4
+-4
+-4
+end_trial
+start_trial 884
+-4
+-4
+-4
+end_trial
+start_trial 885
+-4
+-4
+end_trial
+start_trial 886
+-4
+-4
+-4
+end_trial
+start_trial 887
+0
+-4
+0
+end_trial
+start_trial 888
+-4
+-4
+-4
+end_trial
+start_trial 889
+-4
+-4
+-4
+end_trial
+start_trial 890
+0
+0
+-4
+end_trial
+start_trial 891
+-4
+0
+-4
+end_trial
+start_trial 892
+0
+0
+0
+end_trial
+start_trial 893
+0
+0
+0
+end_trial
+start_trial 894
+0
+0
+0
+end_trial
+start_trial 895
+0
+0
+0
+end_trial
+start_trial 896
+0
+0
+0
+end_trial
+start_trial 897
+-4
+-4
+-4
+end_trial
+start_trial 898
+-4
+-4
+-4
+end_trial
+start_trial 899
+0
+0
+0
+end_trial
+start_trial 900
+-4
+-4
+-4
+end_trial
+start_trial 901
+0
+0
+0
+end_trial
+start_trial 902
+0
+0
+0
+end_trial
+start_trial 903
+0
+0
+0
+end_trial
+start_trial 904
+0
+0
+0
+end_trial
+start_trial 905
+-4
+-4
+-4
+end_trial
+start_trial 906
+0
+0
+0
+end_trial
+start_trial 907
+0
+0
+0
+end_trial
+start_trial 908
+1
+0
+0
+end_trial
+start_trial 909
+1
+1
+0
+end_trial
+start_trial 910
+0
+0
+0
+end_trial
+start_trial 911
+-4
+-4
+-4
+end_trial
+start_trial 912
+0
+0
+0
+end_trial
+start_trial 913
+0
+0
+0
+end_trial
+start_trial 914
+0
+0
+0
+end_trial
+start_trial 915
+0
+0
+0
+end_trial
+start_trial 916
+0
+0
+0
+end_trial
+start_trial 917
+0
+0
+0
+end_trial
+start_trial 918
+-4
+-4
+-4
+end_trial
+start_trial 919
+0
+0
+0
+end_trial
+start_trial 920
+-4
+-4
+-4
+end_trial
+start_trial 921
+-4
+-4
+-4
+end_trial
+start_trial 922
+0
+0
+0
+end_trial
+start_trial 923
+0
+0
+0
+end_trial
+start_trial 924
+0
+0
+0
+end_trial
+start_trial 925
+-4
+-4
+-4
+end_trial
+start_trial 926
+0
+0
+0
+end_trial
+start_trial 927
+0
+0
+0
+end_trial
+start_trial 928
+0
+0
+0
+end_trial
+start_trial 929
+0
+0
+0
+end_trial
+start_trial 930
+0
+0
+0
+end_trial
+start_trial 931
+-4
+-4
+-4
+end_trial
+start_trial 932
+-4
+-4
+-4
+end_trial
+start_trial 933
+0
+0
+0
+end_trial
+start_trial 934
+0
+0
+0
+end_trial
+start_trial 935
+-4
+-4
+-5
+end_trial
+start_trial 936
+0
+0
+0
+end_trial
+start_trial 937
+0
+0
+0
+end_trial
+start_trial 938
+0
+0
+0
+end_trial
+start_trial 939
+0
+1
+0
+end_trial
+start_trial 940
+-4
+-4
+-4
+end_trial
+start_trial 941
+-4
+-4
+-4
+end_trial
+start_trial 942
+0
+0
+0
+end_trial
+start_trial 943
+0
+0
+0
+end_trial
+start_trial 944
+0
+0
+0
+end_trial
+start_trial 945
+0
+0
+0
+end_trial
+start_trial 946
+-4
+-4
+-4
+end_trial
+start_trial 947
+0
+0
+0
+end_trial
+start_trial 948
+0
+0
+0
+end_trial
+start_trial 949
+0
+0
+0
+end_trial
+start_trial 950
+-4
+-4
+-4
+end_trial
+start_trial 951
+-4
+-4
+-4
+end_trial
+start_trial 952
+-4
+-4
+-4
+end_trial
+start_trial 953
+0
+0
+0
+end_trial
+start_trial 954
+0
+0
+0
+end_trial
+start_trial 955
+0
+0
+end_trial
+start_trial 956
+0
+0
+0
+end_trial
+start_trial 957
+0
+0
+0
+end_trial
+start_trial 958
+-4
+-4
+-4
+end_trial
+start_trial 959
+0
+0
+0
+end_trial
+start_trial 960
+-4
+-4
+-4
+end_trial
+start_trial 961
+0
+0
+0
+end_trial
+start_trial 962
+0
+0
+0
+end_trial
+start_trial 963
+0
+0
+0
+end_trial
+start_trial 964
+-4
+-4
+-4
+end_trial
+start_trial 965
+0
+0
+0
+end_trial
+start_trial 966
+0
+0
+0
+end_trial
+start_trial 967
+-4
+-4
+-4
+end_trial
+start_trial 968
+0
+0
+0
+end_trial
+start_trial 969
+0
+0
+0
+end_trial
+start_trial 970
+0
+0
+0
+end_trial
+start_trial 971
+-4
+-4
+-4
+end_trial
+start_trial 972
+0
+0
+0
+end_trial
+start_trial 973
+0
+0
+0
+end_trial
+start_trial 974
+0
+0
+0
+end_trial
+start_trial 975
+0
+0
+1
+end_trial
+start_trial 976
+0
+0
+0
+end_trial
+start_trial 977
+0
+0
+0
+end_trial
+start_trial 978
+-4
+-4
+-4
+end_trial
+start_trial 979
+0
+0
+0
+end_trial
+start_trial 980
+0
+0
+0
+end_trial
+start_trial 981
+-4
+-4
+-4
+end_trial
+start_trial 982
+-4
+-4
+-4
+end_trial
+start_trial 983
+0
+0
+0
+end_trial
+start_trial 984
+0
+0
+0
+end_trial
+start_trial 985
+0
+0
+0
+end_trial
+start_trial 986
+0
+0
+0
+end_trial
+start_trial 987
+-4
+-4
+-4
+end_trial
+start_trial 988
+-4
+-4
+-4
+end_trial
+start_trial 989
+0
+0
+0
+end_trial
+start_trial 990
+0
+0
+0
+end_trial
+start_trial 991
+0
+0
+0
+end_trial
+start_trial 992
+-4
+-4
+-4
+end_trial
+start_trial 993
+-4
+-4
+-4
+end_trial
+start_trial 994
+0
+0
+0
+end_trial
+start_trial 995
+0
+0
+0
+end_trial
+start_trial 996
+0
+0
+0
+end_trial
+start_trial 997
+0
+0
+0
+end_trial
+start_trial 998
+0
+1
+0
+end_trial
+start_trial 999
+0
+0
+0
+end_trial
+start_trial 1000
+0
+0
+0
+end_trial
+start_trial 1001
+0
+0
+0
+end_trial
+start_trial 1002
+0
+0
+0
+end_trial
+start_trial 1003
+-4
+-4
+-4
+end_trial
+start_trial 1004
+-4
+-4
+-4
+end_trial
+start_trial 1005
+0
+0
+0
+end_trial
+start_trial 1006
+0
+0
+0
+end_trial
+start_trial 1007
+0
+0
+0
+end_trial
+start_trial 1008
+-4
+-4
+-4
+end_trial
+start_trial 1009
+-4
+-4
+-4
+end_trial
+start_trial 1010
+0
+0
+0
+end_trial
+start_trial 1011
+0
+0
+0
+end_trial
+start_trial 1012
+0
+0
+0
+end_trial
+start_trial 1013
+0
+0
+0
+end_trial
+start_trial 1014
+0
+0
+0
+end_trial
+start_trial 1015
+0
+0
+0
+end_trial
+start_trial 1016
+-4
+-4
+-4
+end_trial
+start_trial 1017
+0
+0
+0
+end_trial
+start_trial 1018
+0
+0
+0
+end_trial
+start_trial 1019
+0
+0
+0
+end_trial
+start_trial 1020
+0
+0
+0
+end_trial
+start_trial 1021
+-4
+-4
+-4
+end_trial
+start_trial 1022
+0
+0
+0
+end_trial
+start_trial 1023
+0
+0
+0
+end_trial
+start_trial 1024
+0
+0
+0
+end_trial
+start_trial 1025
+0
+0
+0
+end_trial
+start_trial 1026
+-4
+-4
+-4
+end_trial
+start_trial 1027
+0
+0
+0
+end_trial
+start_trial 1028
+0
+0
+0
+end_trial
+start_trial 1029
+0
+0
+0
+end_trial
+start_trial 1030
+0
+0
+0
+end_trial
+start_trial 1031
+0
+0
+0
+end_trial
+start_trial 1032
+-4
+-4
+-4
+end_trial
+start_trial 1033
+-4
+-4
+-4
+end_trial
+start_trial 1034
+0
+0
+0
+end_trial
+start_trial 1035
+-4
+-4
+-4
+end_trial
+start_trial 1036
+0
+0
+0
+end_trial
+start_trial 1037
+0
+0
+0
+end_trial
+start_trial 1038
+-4
+-4
+-4
+end_trial
+start_trial 1039
+-4
+-4
+-4
+end_trial
+start_trial 1040
+0
+0
+0
+end_trial
+start_trial 1041
+0
+0
+0
+end_trial
+start_trial 1042
+-4
+-4
+-4
+end_trial
+start_trial 1043
+0
+0
+0
+end_trial
+start_trial 1044
+-4
+-4
+-4
+end_trial
+start_trial 1045
+0
+1
+0
+end_trial
+start_trial 1046
+-4
+-4
+-4
+end_trial
+start_trial 1047
+-4
+-4
+-4
+end_trial
+start_trial 1048
+-4
+-4
+-4
+end_trial
+start_trial 1049
+-4
+-4
+-4
+end_trial
+start_trial 1050
+-4
+0
+-4
+end_trial
+start_trial 1051
+-4
+-4
+-4
+end_trial
+start_trial 1052
+-4
+-4
+-4
+end_trial
+start_trial 1053
+-4
+-4
+-4
+end_trial
+start_trial 1054
+-4
+-4
+-4
+end_trial
+start_trial 1055
+-4
+-4
+-4
+end_trial
+start_trial 1056
+0
+0
+1
+end_trial
+start_trial 1057
+-4
+-4
+-4
+end_trial
+start_trial 1058
+0
+0
+0
+end_trial
+start_trial 1059
+0
+0
+0
+end_trial
+start_trial 1060
+0
+0
+0
+end_trial
+start_trial 1061
+0
+0
+0
+end_trial
+start_trial 1062
+-4
+-4
+-4
+end_trial
+start_trial 1063
+0
+0
+0
+end_trial
+start_trial 1064
+-4
+-4
+-4
+end_trial
+start_trial 1065
+-4
+-4
+-4
+end_trial
+start_trial 1066
+0
+0
+0
+end_trial
+start_trial 1067
+0
+0
+0
+end_trial
+start_trial 1068
+-4
+-4
+-4
+end_trial
+start_trial 1069
+-5
+-5
+-5
+end_trial
+start_trial 1070
+-4
+-4
+-4
+end_trial
+start_trial 1071
+-5
+-5
+-5
+end_trial
+start_trial 1072
+-4
+-4
+-4
+end_trial
+start_trial 1073
+-4
+-4
+-4
+end_trial
+start_trial 1074
+-4
+-4
+-4
+end_trial
+start_trial 1075
+0
+0
+0
+end_trial
+start_trial 1076
+0
+0
+0
+end_trial
+start_trial 1077
+-4
+-4
+-4
+end_trial
+start_trial 1078
+0
+0
+0
+end_trial
+start_trial 1079
+-4
+-4
+-4
+end_trial
+start_trial 1080
+-5
+-5
+-5
+end_trial
+start_trial 1081
+-4
+-4
+-4
+end_trial
+start_trial 1082
+1
+1
+1
+end_trial
+start_trial 1083
+-4
+-4
+-4
+end_trial
+start_trial 1084
+0
+0
+0
+end_trial
+start_trial 1085
+-4
+-4
+-4
+end_trial
+start_trial 1086
+0
+0
+0
+end_trial
+start_trial 1087
+0
+0
+0
+end_trial
+start_trial 1088
+0
+0
+0
+end_trial
+start_trial 1089
+-4
+-4
+-4
+end_trial
+start_trial 1090
+-4
+-4
+-4
+end_trial
+start_trial 1091
+0
+0
+0
+end_trial
+start_trial 1092
+0
+0
+0
+end_trial
+start_trial 1093
+0
+0
+0
+end_trial
+start_trial 1094
+-4
+-4
+-4
+end_trial
+start_trial 1095
+0
+0
+0
+end_trial
+start_trial 1096
+0
+0
+0
+end_trial
+start_trial 1097
+0
+0
+0
+end_trial
+start_trial 1098
+0
+0
+0
+end_trial
+start_trial 1099
+-4
+-4
+-4
+end_trial
+start_trial 1100
+0
+0
+0
+end_trial
+start_trial 1101
+0
+0
+0
+end_trial
+start_trial 1102
+0
+0
+0
+end_trial
+start_trial 1103
+-4
+-4
+-4
+end_trial
+start_trial 1104
+0
+0
+0
+end_trial
+start_trial 1105
+-4
+-4
+-4
+end_trial
+start_trial 1106
+-5
+0
+-5
+end_trial
+start_trial 1107
+0
+-5
+0
+end_trial
+start_trial 1108
+-5
+-5
+0
+end_trial
+start_trial 1109
+-4
+-4
+-4
+end_trial
+start_trial 1110
+0
+0
+0
+end_trial
+start_trial 1111
+-4
+-4
+-4
+end_trial
+start_trial 1112
+0
+0
+0
+end_trial
+start_trial 1113
+0
+0
+0
+end_trial
+start_trial 1114
+0
+0
+0
+end_trial
+start_trial 1115
+-4
+-4
+-4
+end_trial
+start_trial 1116
+-4
+-4
+-4
+end_trial
+start_trial 1117
+0
+0
+0
+end_trial
+start_trial 1118
+0
+0
+0
+end_trial
+start_trial 1119
+-4
+-4
+-4
+end_trial
+start_trial 1120
+0
+0
+0
+end_trial
+start_trial 1121
+-4
+-4
+-4
+end_trial
+start_trial 1122
+0
+0
+0
+end_trial
+start_trial 1123
+-4
+-4
+-4
+end_trial
+start_trial 1124
+-4
+-4
+-4
+end_trial
+start_trial 1125
+-4
+-4
+-4
+end_trial
+start_trial 1126
+0
+0
+0
+end_trial
+start_trial 1127
+-4
+-4
+-4
+end_trial
+start_trial 1128
+-4
+-4
+-4
+end_trial
+start_trial 1129
+0
+0
+0
+end_trial
+start_trial 1130
+0
+0
+0
+end_trial
+start_trial 1131
+-4
+-4
+-4
+end_trial
+start_trial 1132
+0
+0
+0
+end_trial
+start_trial 1133
+0
+0
+0
+end_trial
+start_trial 1134
+-4
+-4
+-4
+end_trial
+start_trial 1135
+0
+0
+0
+end_trial
+start_trial 1136
+-4
+-4
+-4
+end_trial
+start_trial 1137
+0
+0
+0
+end_trial
+start_trial 1138
+0
+0
+0
+end_trial
+start_trial 1139
+0
+0
+0
+end_trial
+start_trial 1140
+0
+0
+0
+end_trial
+start_trial 1141
+-4
+-4
+-4
+end_trial
+start_trial 1142
+0
+0
+0
+end_trial
+start_trial 1143
+0
+0
+0
+end_trial
+start_trial 1144
+-4
+-4
+-4
+end_trial
+start_trial 1145
+0
+2
+0
+end_trial
+start_trial 1146
+-4
+-4
+-4
+end_trial
+start_trial 1147
+-4
+-4
+-4
+end_trial
+start_trial 1148
+0
+0
+0
+end_trial
+start_trial 1149
+0
+0
+0
+end_trial
+start_trial 1150
+-4
+-4
+-4
+end_trial
+start_trial 1151
+0
+0
+1
+end_trial
+start_trial 1152
+0
+0
+0
+end_trial
+start_trial 1153
+0
+0
+0
+end_trial
+start_trial 1154
+-4
+-4
+-4
+end_trial
+start_trial 1155
+0
+0
+0
+end_trial
+start_trial 1156
+0
+0
+0
+end_trial
+start_trial 1157
+-4
+-4
+-4
+end_trial
+start_trial 1158
+-4
+-4
+-4
+end_trial
+start_trial 1159
+0
+0
+0
+end_trial
+start_trial 1160
+0
+0
+0
+end_trial
+start_trial 1161
+0
+0
+0
+end_trial
+start_trial 1162
+0
+0
+0
+end_trial
+start_trial 1163
+0
+0
+0
+end_trial
+start_trial 1164
+-4
+-4
+-4
+end_trial
+start_trial 1165
+0
+0
+0
+end_trial
+start_trial 1166
+-4
+-4
+-4
+end_trial
+start_trial 1167
+0
+0
+0
+end_trial
+start_trial 1168
+0
+0
+0
+end_trial
+start_trial 1169
+-4
+-4
+-4
+end_trial
+start_trial 1170
+0
+0
+0
+end_trial
+start_trial 1171
+-4
+-4
+-4
+end_trial
+start_trial 1172
+0
+0
+0
+end_trial
+start_trial 1173
+-4
+-4
+-4
+end_trial
+start_trial 1174
+0
+0
+0
+end_trial
+start_trial 1175
+-4
+-4
+-4
+end_trial
+start_trial 1176
+-4
+-4
+-4
+end_trial
+start_trial 1177
+-4
+-4
+-4
+end_trial
+start_trial 1178
+-4
+-4
+-4
+end_trial
+start_trial 1179
+-4
+-4
+-4
+end_trial
+start_trial 1180
+-4
+-4
+-4
+end_trial
+start_trial 1181
+0
+0
+0
+end_trial
+start_trial 1182
+-4
+-4
+-4
+end_trial
+start_trial 1183
+0
+0
+0
+end_trial
+start_trial 1184
+-4
+-4
+-4
+end_trial
+start_trial 1185
+0
+1
+1
+end_trial
+start_trial 1186
+0
+1
+0
+end_trial
+start_trial 1187
+-4
+-4
+-4
+end_trial
+start_trial 1188
+0
+0
+0
+end_trial
+start_trial 1189
+-4
+-4
+-4
+end_trial
+start_trial 1190
+0
+0
+0
+end_trial
+start_trial 1191
+-4
+-4
+-4
+end_trial
+start_trial 1192
+0
+0
+0
+end_trial
+start_trial 1193
+0
+0
+0
+end_trial
+start_trial 1194
+-4
+-4
+-4
+end_trial
+start_trial 1195
+-4
+-4
+-4
+end_trial
+start_trial 1196
+-4
+-4
+-4
+end_trial
+start_trial 1197
+0
+0
+0
+end_trial
+start_trial 1198
+0
+0
+0
+end_trial
+start_trial 1199
+0
+0
+0
+end_trial
+start_trial 1200
+-4
+-4
+-4
+end_trial
+start_trial 1201
+0
+0
+0
+end_trial
+start_trial 1202
+0
+0
+0
+end_trial
+start_trial 1203
+0
+0
+0
+end_trial
+start_trial 1204
+0
+0
+0
+end_trial
+start_trial 1205
+-4
+-4
+-4
+end_trial
+start_trial 1206
+-4
+-4
+-4
+end_trial
+start_trial 1207
+0
+0
+0
+end_trial
+start_trial 1208
+0
+0
+0
+end_trial
+start_trial 1209
+0
+0
+0
+end_trial
+start_trial 1210
+-4
+-4
+-4
+end_trial
+start_trial 1211
+0
+0
+0
+end_trial
+start_trial 1212
+0
+0
+0
+end_trial
+start_trial 1213
+0
+0
+0
+end_trial
+start_trial 1214
+-4
+-4
+-4
+end_trial
+start_trial 1215
+0
+0
+0
+end_trial
+start_trial 1216
+0
+0
+0
+end_trial
+start_trial 1217
+0
+0
+0
+end_trial
+start_trial 1218
+0
+0
+0
+end_trial
+start_trial 1219
+0
+0
+0
+end_trial
+start_trial 1220
+0
+0
+0
+end_trial
+start_trial 1221
+-4
+-4
+-4
+end_trial
+start_trial 1222
+0
+0
+0
+end_trial
+start_trial 1223
+-4
+-4
+-4
+end_trial
+start_trial 1224
+0
+0
+0
+end_trial
+start_trial 1225
+-4
+-4
+-4
+end_trial
+start_trial 1226
+-4
+-4
+-4
+end_trial
+start_trial 1227
+-4
+-4
+-4
+end_trial
+start_trial 1228
+-4
+-4
+-4
+end_trial
+start_trial 1229
+-4
+-4
+-4
+end_trial
+start_trial 1230
+0
+0
+0
+end_trial
+start_trial 1231
+0
+0
+0
+end_trial
+start_trial 1232
+0
+0
+0
+end_trial
+start_trial 1233
+0
+0
+0
+end_trial
+start_trial 1234
+-4
+-4
+-4
+end_trial
+start_trial 1235
+0
+0
+0
+end_trial
+start_trial 1236
+-4
+-4
+-4
+end_trial
+start_trial 1237
+0
+0
+0
+end_trial
+start_trial 1238
+0
+0
+0
+end_trial
+start_trial 1239
+-4
+-4
+-4
+end_trial
+start_trial 1240
+0
+0
+0
+end_trial
+start_trial 1241
+0
+0
+0
+end_trial
+start_trial 1242
+-4
+-4
+-4
+end_trial
+start_trial 1243
+-4
+-4
+-4
+end_trial
+start_trial 1244
+-4
+-4
+-4
+end_trial
+start_trial 1245
+-4
+-4
+-4
+end_trial
+start_trial 1246
+-4
+-4
+-4
+end_trial
+start_trial 1247
+-4
+-4
+-4
+end_trial
+start_trial 1248
+0
+0
+0
+end_trial
+start_trial 1249
+0
+0
+0
+end_trial
+start_trial 1250
+0
+0
+0
+end_trial
+start_trial 1251
+0
+0
+0
+end_trial
+start_trial 1252
+-4
+-4
+-4
+end_trial
+start_trial 1253
+0
+0
+0
+end_trial
+start_trial 1254
+0
+0
+0
+end_trial
+start_trial 1255
+0
+0
+0
+end_trial
+start_trial 1256
+0
+0
+0
+end_trial
+start_trial 1257
+0
+0
+0
+end_trial
+start_trial 1258
+-4
+-4
+-4
+end_trial
+start_trial 1259
+-4
+-4
+-4
+end_trial
+start_trial 1260
+-4
+-4
+-4
+end_trial
+start_trial 1261
+-4
+-4
+-4
+end_trial
+start_trial 1262
+-4
+-4
+-4
+end_trial
+start_trial 1263
+-4
+-4
+-4
+end_trial
+start_trial 1264
+0
+0
+0
+end_trial
+start_trial 1265
+0
+0
+0
+end_trial
+start_trial 1266
+0
+0
+0
+end_trial
+start_trial 1267
+0
+0
+0
+end_trial
+start_trial 1268
+0
+0
+0
+end_trial
+start_trial 1269
+0
+0
+0
+end_trial
+start_trial 1270
+0
+0
+0
+end_trial
+start_trial 1271
+0
+0
+0
+end_trial
+start_trial 1272
+-4
+-4
+-4
+end_trial
+start_trial 1273
+-4
+-4
+-4
+end_trial
+start_trial 1274
+0
+0
+0
+end_trial
+start_trial 1275
+1
+0
+0
+end_trial
+start_trial 1276
+0
+0
+0
+end_trial
+start_trial 1277
+0
+1
+0
+end_trial
+start_trial 1278
+-4
+1
+1
+end_trial
+start_trial 1279
+-4
+0
+-4
+end_trial
+start_trial 1280
+0
+-5
+0
+end_trial
+start_trial 1281
+-4
+-4
+-4
+end_trial
+start_trial 1282
+-4
+-4
+-4
+end_trial
+start_trial 1283
+0
+0
+0
+end_trial
+start_trial 1284
+0
+0
+0
+end_trial
+start_trial 1285
+0
+0
+0
+end_trial
+start_trial 1286
+0
+0
+0
+end_trial
+start_trial 1287
+0
+0
+0
+end_trial
+start_trial 1288
+-4
+-4
+-4
+end_trial
+start_trial 1289
+0
+0
+0
+end_trial
+start_trial 1290
+0
+0
+0
+end_trial
+start_trial 1291
+0
+1
+0
+end_trial
+start_trial 1292
+0
+0
+0
+end_trial
+start_trial 1293
+0
+0
+1
+end_trial
+start_trial 1294
+-4
+-4
+-4
+end_trial
+start_trial 1295
+-4
+-4
+-4
+end_trial
+start_trial 1296
+0
+0
+0
+end_trial
+start_trial 1297
+0
+0
+0
+end_trial
+start_trial 1298
+0
+0
+0
+end_trial
+start_trial 1299
+0
+1
+0
+end_trial
+start_trial 1300
+-4
+-4
+-4
+end_trial
+start_trial 1301
+-4
+-4
+-4
+end_trial
+start_trial 1302
+-5
+-5
+-5
+end_trial
+start_trial 1303
+-4
+-4
+-4
+end_trial
+start_trial 1304
+-4
+-4
+-4
+end_trial
+start_trial 1305
+0
+0
+0
+end_trial
+start_trial 1306
+0
+0
+0
+end_trial
+start_trial 1307
+0
+0
+0
+end_trial
+start_trial 1308
+0
+0
+0
+end_trial
+start_trial 1309
+0
+0
+0
+end_trial
+start_trial 1310
+-4
+-4
+-4
+end_trial
+start_trial 1311
+0
+0
+0
+end_trial
+start_trial 1312
+0
+0
+0
+end_trial
+start_trial 1313
+0
+0
+0
+end_trial
+start_trial 1314
+0
+0
+0
+end_trial
+start_trial 1315
+0
+0
+0
+end_trial
+start_trial 1316
+-4
+-4
+-4
+end_trial
+start_trial 1317
+-4
+-4
+-4
+end_trial
+start_trial 1318
+0
+0
+0
+end_trial
+start_trial 1319
+0
+0
+0
+end_trial
+start_trial 1320
+0
+0
+0
+end_trial
+start_trial 1321
+1
+1
+1
+end_trial
+start_trial 1322
+-4
+-4
+-5
+end_trial
+start_trial 1323
+-4
+-4
+-4
+end_trial
+start_trial 1324
+-5
+-5
+0
+end_trial
+start_trial 1325
+-4
+-4
+-4
+end_trial
+start_trial 1326
+-4
+-4
+-4
+end_trial
+start_trial 1327
+0
+0
+0
+end_trial
+start_trial 1328
+0
+0
+0
+end_trial
+start_trial 1329
+0
+0
+0
+end_trial
+start_trial 1330
+0
+0
+0
+end_trial
+start_trial 1331
+0
+0
+0
+end_trial
+start_trial 1332
+-4
+-4
+-4
+end_trial
+start_trial 1333
+0
+-4
+0
+end_trial
+start_trial 1334
+-4
+-4
+-4
+end_trial
+start_trial 1335
+-4
+-4
+-4
+end_trial
+start_trial 1336
+-4
+-4
+-4
+end_trial
+start_trial 1337
+0
+0
+0
+end_trial
+start_trial 1338
+0
+0
+0
+end_trial
+start_trial 1339
+-4
+-4
+-4
+end_trial
+start_trial 1340
+-4
+-4
+-4
+end_trial
+start_trial 1341
+-4
+-4
+-4
+end_trial
+start_trial 1342
+-4
+-4
+-4
+end_trial
+start_trial 1343
+0
+0
+0
+end_trial
+start_trial 1344
+-4
+-4
+-4
+end_trial
+start_trial 1345
+0
+0
+0
+end_trial
+start_trial 1346
+-4
+-4
+-4
+end_trial
+start_trial 1347
+-4
+-4
+-4
+end_trial
+start_trial 1348
+-4
+-4
+-4
+end_trial
+start_trial 1349
+0
+0
+0
+end_trial
+start_trial 1350
+0
+0
+0
+end_trial
+start_trial 1351
+0
+0
+0
+end_trial
+start_trial 1352
+-4
+-4
+-4
+end_trial
+start_trial 1353
+-5
+-5
+0
+end_trial
+start_trial 1354
+-4
+-4
+-4
+end_trial
+start_trial 1355
+0
+0
+0
+end_trial
+start_trial 1356
+-4
+-4
+-4
+end_trial
+start_trial 1357
+0
+0
+0
+end_trial
+start_trial 1358
+0
+0
+0
+end_trial
+start_trial 1359
+0
+0
+0
+end_trial
+start_trial 1360
+-4
+-4
+-4
+end_trial
+start_trial 1361
+-4
+-4
+-4
+end_trial
+start_trial 1362
+-4
+-4
+-4
+end_trial
+start_trial 1363
+0
+0
+0
+end_trial
+start_trial 1364
+0
+0
+0
+end_trial
+start_trial 1365
+0
+0
+0
+end_trial
+start_trial 1366
+-4
+-4
+-4
+end_trial
+start_trial 1367
+-4
+-4
+-4
+end_trial
+start_trial 1368
+-4
+-4
+-4
+end_trial
+start_trial 1369
+0
+0
+0
+end_trial
+start_trial 1370
+0
+0
+0
+end_trial
+start_trial 1371
+0
+0
+0
+end_trial
+start_trial 1372
+-4
+-4
+-4
+end_trial
+start_trial 1373
+-4
+-4
+-4
+end_trial
+start_trial 1374
+-5
+-5
+-5
+end_trial
+start_trial 1375
+-4
+-4
+-4
+end_trial
+start_trial 1376
+-4
+-4
+-4
+end_trial
+start_trial 1377
+0
+0
+0
+end_trial
+start_trial 1378
+0
+0
+0
+end_trial
+start_trial 1379
+0
+0
+0
+end_trial
+start_trial 1380
+-4
+-4
+-4
+end_trial
+start_trial 1381
+0
+0
+0
+end_trial
+start_trial 1382
+0
+0
+0
+end_trial
+start_trial 1383
+0
+0
+0
+end_trial
+start_trial 1384
+-4
+-4
+-4
+end_trial
+start_trial 1385
+0
+0
+0
+end_trial
+start_trial 1386
+-4
+-4
+-4
+end_trial
+start_trial 1387
+0
+0
+0
+end_trial
+start_trial 1388
+0
+0
+0
+end_trial
+start_trial 1389
+0
+1
+0
+end_trial
+start_trial 1390
+-4
+-4
+-4
+end_trial
+start_trial 1391
+-4
+-4
+-4
+end_trial
+start_trial 1392
+0
+0
+0
+end_trial
+start_trial 1393
+-4
+-4
+-4
+end_trial
+start_trial 1394
+-4
+-4
+-4
+end_trial
+start_trial 1395
+0
+0
+0
+end_trial
+start_trial 1396
+-4
+-4
+-4
+end_trial
+start_trial 1397
+0
+0
+0
+end_trial
+start_trial 1398
+-4
+-4
+-4
+end_trial
+start_trial 1399
+0
+0
+0
+end_trial
+start_trial 1400
+-4
+-4
+-4
+end_trial
+start_trial 1401
+0
+0
+0
+end_trial
+start_trial 1402
+-4
+-4
+-4
+end_trial
+start_trial 1403
+0
+0
+0
+end_trial
+start_trial 1404
+0
+0
+0
+end_trial
+start_trial 1405
+-4
+-4
+-4
+end_trial
+start_trial 1406
+0
+0
+0
+end_trial
+start_trial 1407
+0
+0
+0
+end_trial
+start_trial 1408
+-4
+-4
+-4
+end_trial
+start_trial 1409
+-4
+-4
+-4
+end_trial
+start_trial 1410
+0
+0
+0
+end_trial
+start_trial 1411
+-4
+-4
+-4
+end_trial
+start_trial 1412
+-4
+-4
+-4
+end_trial
+start_trial 1413
+-4
+-4
+-4
+end_trial
+start_trial 1414
+0
+0
+0
+end_trial
+start_trial 1415
+-4
+-4
+-4
+end_trial
+start_trial 1416
+0
+0
+0
+end_trial
+start_trial 1417
+-4
+-4
+-4
+end_trial
+start_trial 1418
+-4
+-4
+-4
+end_trial
+start_trial 1419
+0
+0
+0
+end_trial
+start_trial 1420
+-4
+-4
+-4
+end_trial
+start_trial 1421
+-4
+-4
+-4
+end_trial
+start_trial 1422
+-4
+-4
+-4
+end_trial
+start_trial 1423
+-4
+-4
+-4
+end_trial
+start_trial 1424
+-4
+-4
+-4
+end_trial
+start_trial 1425
+-4
+-4
+-4
+end_trial
+start_trial 1426
+-4
+-4
+-4
+end_trial
+start_trial 1427
+-4
+-4
+-4
+end_trial
+start_trial 1428
+0
+0
+0
+end_trial
+start_trial 1429
+-4
+-4
+-4
+end_trial
+start_trial 1430
+-4
+-4
+-4
+end_trial
+start_trial 1431
+0
+0
+0
+end_trial
+start_trial 1432
+0
+0
+0
+end_trial
+start_trial 1433
+-4
+-4
+0
+end_trial
+start_trial 1434
+-4
+-4
+-4
+end_trial
+start_trial 1435
+0
+0
+0
+end_trial
+start_trial 1436
+0
+0
+0
+end_trial
+start_trial 1437
+0
+0
+0
+end_trial
+start_trial 1438
+0
+0
+0
+end_trial
+start_trial 1439
+-4
+-4
+-4
+end_trial
+start_trial 1440
+-4
+-4
+-4
+end_trial
+start_trial 1441
+0
+0
+0
+end_trial
+start_trial 1442
+0
+0
+0
+end_trial
+start_trial 1443
+-4
+-4
+-4
+end_trial
+start_trial 1444
+0
+0
+0
+end_trial
+start_trial 1445
+0
+0
+0
+end_trial
+start_trial 1446
+0
+0
+0
+end_trial
+start_trial 1447
+0
+0
+0
+end_trial
+start_trial 1448
+-4
+-4
+-4
+end_trial
+start_trial 1449
+0
+0
+0
+end_trial
+start_trial 1450
+0
+0
+0
+end_trial
+start_trial 1451
+0
+0
+0
+end_trial
+start_trial 1452
+-4
+-4
+-4
+end_trial
+start_trial 1453
+0
+0
+0
+end_trial
+start_trial 1454
+0
+0
+0
+end_trial
+start_trial 1455
+0
+0
+0
+end_trial
+start_trial 1456
+-4
+-4
+-4
+end_trial
+start_trial 1457
+0
+0
+0
+end_trial
+start_trial 1458
+0
+0
+0
+end_trial
+start_trial 1459
+0
+0
+0
+end_trial
+start_trial 1460
+-4
+-4
+-4
+end_trial
+start_trial 1461
+0
+0
+0
+end_trial
+start_trial 1462
+-4
+-4
+-4
+end_trial
+start_trial 1463
+0
+0
+0
+end_trial
+start_trial 1464
+0
+0
+0
+end_trial
+start_trial 1465
+-4
+-4
+-4
+end_trial
+start_trial 1466
+-4
+-4
+-4
+end_trial
+start_trial 1467
+-4
+-4
+-4
+end_trial
+start_trial 1468
+-4
+-4
+-4
+end_trial
+start_trial 1469
+-4
+-4
+-4
+end_trial
+start_trial 1470
+-4
+-4
+-4
+end_trial
+start_trial 1471
+-4
+-4
+-4
+end_trial
+start_trial 1472
+0
+0
+0
+end_trial
+start_trial 1473
+-4
+-4
+-4
+end_trial
+start_trial 1474
+0
+0
+0
+end_trial
+start_trial 1475
+-4
+-4
+-4
+end_trial
+start_trial 1476
+0
+0
+0
+end_trial
+start_trial 1477
+-4
+-4
+-4
+end_trial
+start_trial 1478
+0
+0
+0
+end_trial
+start_trial 1479
+-4
+-4
+-4
+end_trial
+start_trial 1480
+-5
+-5
+-5
+end_trial
+start_trial 1481
+-4
+-4
+-4
+end_trial
+start_trial 1482
+-5
+-5
+-5
+end_trial
+start_trial 1483
+-4
+-4
+-4
+end_trial
+start_trial 1484
+-4
+0
+-4
+end_trial
+start_trial 1485
+-4
+-4
+-4
+end_trial
+start_trial 1486
+-4
+-4
+-4
+end_trial
+start_trial 1487
+-4
+-4
+-4
+end_trial
+start_trial 1488
+-4
+-4
+-4
+end_trial
+start_trial 1489
+-4
+-4
+-4
+end_trial
+start_trial 1490
+-4
+-4
+-4
+end_trial
+start_trial 1491
+0
+0
+0
+end_trial
+start_trial 1492
+-4
+-4
+-4
+end_trial
+start_trial 1493
+0
+0
+0
+end_trial
+start_trial 1494
+-4
+-4
+-4
+end_trial
+start_trial 1495
+-5
+3
+-5
+end_trial
+start_trial 1496
+-4
+-4
+-4
+end_trial
+start_trial 1497
+-5
+-5
+-5
+end_trial
+start_trial 1498
+-4
+-4
+-4
+end_trial
+start_trial 1499
+-5
+-5
+-5
+end_trial
+start_trial 1500
+-4
+-4
+-4
+end_trial
+start_trial 1501
+-5
+-5
+2
+end_trial
+start_trial 1502
+-4
+-4
+-4
+end_trial
+start_trial 1503
+-5
+-5
+-5
+end_trial
+start_trial 1504
+-4
+-4
+-4
+end_trial
+start_trial 1505
+-4
+-4
+-4
+end_trial
+start_trial 1506
+-4
+-4
+-4
+end_trial
+start_trial 1507
+-4
+-4
+-4
+end_trial
+start_trial 1508
+0
+0
+0
+end_trial
+start_trial 1509
+0
+0
+0
+end_trial
+start_trial 1510
+-4
+-4
+-4
+end_trial
+start_trial 1511
+0
+0
+0
+end_trial
+start_trial 1512
+-4
+-4
+-4
+end_trial
+start_trial 1513
+0
+0
+0
+end_trial
+start_trial 1514
+-4
+-4
+-4
+end_trial
+start_trial 1515
+0
+0
+0
+end_trial
+start_trial 1516
+0
+0
+0
+end_trial
+start_trial 1517
+-4
+-4
+-4
+end_trial
+start_trial 1518
+-4
+-4
+-5
+end_trial
+start_trial 1519
+0
+0
+0
+end_trial
+start_trial 1520
+-4
+-4
+-4
+end_trial
+start_trial 1521
+0
+0
+0
+end_trial
+start_trial 1522
+-4
+-4
+-4
+end_trial
+start_trial 1523
+-4
+-4
+-4
+end_trial
+start_trial 1524
+-4
+-4
+-4
+end_trial
+start_trial 1525
+-4
+-4
+-4
+end_trial
+start_trial 1526
+-4
+-4
+-4
+end_trial
+start_trial 1527
+-4
+-4
+-4
+end_trial
+start_trial 1528
+-4
+-4
+-4
+end_trial
+start_trial 1529
+0
+0
+0
+end_trial
+start_trial 1530
+0
+0
+0
+end_trial
+start_trial 1531
+-4
+-4
+-4
+end_trial
+start_trial 1532
+-4
+-4
+-4
+end_trial
+start_trial 1533
+0
+0
+0
+end_trial
+start_trial 1534
+-5
+-4
+-4
+end_trial
+start_trial 1535
+-4
+-4
+-4
+end_trial
+start_trial 1536
+-4
+-4
+-4
+end_trial
+start_trial 1537
+-4
+-4
+-4
+end_trial
+start_trial 1538
+0
+0
+0
+end_trial
+start_trial 1539
+-5
+-5
+-4
+end_trial
+start_trial 1540
+-4
+-4
+-4
+end_trial
+start_trial 1541
+0
+0
+0
+end_trial
+start_trial 1542
+-4
+-4
+-4
+end_trial
+start_trial 1543
+0
+0
+0
+end_trial
+start_trial 1544
+0
+0
+0
+end_trial
+start_trial 1545
+-4
+-4
+-4
+end_trial
+start_trial 1546
+-4
+-4
+-4
+end_trial
+start_trial 1547
+-4
+-4
+-4
+end_trial
+start_trial 1548
+0
+0
+0
+end_trial
+start_trial 1549
+-5
+-4
+-4
+end_trial
+start_trial 1550
+-4
+-4
+-4
+end_trial
+start_trial 1551
+-4
+-4
+-4
+end_trial
+start_trial 1552
+-4
+-4
+-4
+end_trial
+start_trial 1553
+0
+0
+0
+end_trial
+start_trial 1554
+-4
+-4
+-4
+end_trial
+start_trial 1555
+-4
+-4
+-4
+end_trial
+start_trial 1556
+-4
+-4
+-4
+end_trial
+start_trial 1557
+-4
+-4
+-4
+end_trial
+start_trial 1558
+-4
+-4
+-4
+end_trial
+start_trial 1559
+-4
+-5
+-4
+end_trial
+start_trial 1560
+-4
+-4
+-4
+end_trial
+start_trial 1561
+0
+0
+0
+end_trial
+start_trial 1562
+-4
+-4
+-4
+end_trial
+start_trial 1563
+-4
+-4
+-4
+end_trial
+start_trial 1564
+-4
+-4
+-4
+end_trial
