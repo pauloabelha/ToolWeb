@@ -1,0 +1,7707 @@
+task cutting_lasagna
+n_trials 3
+start_trial 1
+0.503298
+0.474939
+0.541503
+end_trial
+start_trial 2
+0.155067
+0.155157
+0.15511
+end_trial
+start_trial 3
+0.474969
+0.570049
+0.570052
+end_trial
+start_trial 4
+0.155133
+0.155116
+0.155122
+end_trial
+start_trial 5
+0.573004
+0.572965
+0.572956
+end_trial
+start_trial 6
+0.383027
+0.383127
+0.383115
+end_trial
+start_trial 7
+0.56268
+0.552838
+0.562623
+end_trial
+start_trial 8
+0.387865
+0.38785
+0.38782
+end_trial
+start_trial 9
+0.541833
+0.522567
+0.503042
+end_trial
+start_trial 10
+0.100666
+0.100728
+0.108606
+end_trial
+start_trial 11
+0.493669
+0.503427
+0.484443
+end_trial
+start_trial 12
+0.15646
+0.0509539
+end_trial
+start_trial 13
+0.315275
+0.316954
+0.316905
+end_trial
+start_trial 14
+0.148379
+0.1484
+0.148405
+end_trial
+start_trial 15
+0.150679
+0.155333
+0.137016
+end_trial
+start_trial 16
+0.148505
+0.148495
+0.148625
+end_trial
+start_trial 17
+0.474951
+0.560536
+0.474958
+end_trial
+start_trial 18
+0.571774
+0.571782
+0.571755
+end_trial
+start_trial 19
+0.570231
+0.570135
+0.570146
+end_trial
+start_trial 20
+0.571955
+0.571725
+0.571709
+end_trial
+start_trial 21
+-1
+-1
+-1
+end_trial
+start_trial 22
+-1
+-1
+-1
+end_trial
+start_trial 23
+-1
+-1
+-1
+end_trial
+start_trial 24
+0.552714
+0.571669
+0.552704
+end_trial
+start_trial 25
+0.571775
+0.571727
+0.571696
+end_trial
+start_trial 26
+0.46939
+0.470429
+0.470482
+end_trial
+start_trial 27
+0.493726
+-nan
+0.51334
+end_trial
+start_trial 28
+0.382564
+0.387043
+0.387027
+end_trial
+start_trial 29
+0.746667
+0.745775
+0.745668
+end_trial
+start_trial 30
+0.774652
+0.769797
+0.76492
+end_trial
+start_trial 31
+0.571744
+0.571657
+0.571701
+end_trial
+start_trial 32
+0.250835
+0.240984
+0.233433
+end_trial
+start_trial 33
+0.552654
+0.552608
+0.552683
+end_trial
+start_trial 34
+0.370234
+0.377872
+0.370208
+end_trial
+start_trial 35
+0.25772
+0.276193
+0.276054
+end_trial
+start_trial 36
+0.15213
+0.15189
+0.152116
+end_trial
+start_trial 37
+0.541762
+0.513047
+0.512902
+end_trial
+start_trial 38
+0.22094
+0.220778
+0.220906
+end_trial
+start_trial 39
+0.484055
+0.551192
+0.570383
+end_trial
+start_trial 40
+0.213851
+0.216751
+0.221099
+end_trial
+start_trial 41
+0.970475
+0.970375
+0.970397
+end_trial
+start_trial 42
+0.467822
+0.467192
+0.467753
+end_trial
+start_trial 43
+0.0842065
+0.0841995
+0.0701059
+end_trial
+start_trial 44
+0.467649
+0.468398
+0.467331
+end_trial
+start_trial 45
+0.982755
+0.981698
+0.98184
+end_trial
+start_trial 46
+0.979879
+0.979468
+0.980139
+end_trial
+start_trial 47
+0.554069
+0.572569
+0.56245
+end_trial
+start_trial 48
+0.468369
+0.467956
+0.467992
+end_trial
+start_trial 49
+0.493814
+0.474838
+0.47485
+end_trial
+start_trial 50
+0.210881
+0.210171
+0.210778
+end_trial
+start_trial 51
+0.20985
+0.209848
+0.209862
+end_trial
+start_trial 52
+0.209718
+0.209691
+0.209677
+end_trial
+start_trial 53
+0.209758
+0.208818
+0.208823
+end_trial
+start_trial 54
+-1
+-1
+-1
+end_trial
+start_trial 55
+-1
+-1
+-1
+end_trial
+start_trial 56
+-1
+-1
+-1
+end_trial
+start_trial 57
+-1
+-1
+-1
+end_trial
+start_trial 58
+0.311621
+0.311266
+0.31149
+end_trial
+start_trial 59
+0.390822
+0.392239
+0.391105
+end_trial
+start_trial 60
+0.474979
+0.570026
+0.522501
+end_trial
+start_trial 61
+0.232734
+0.232773
+0.23276
+end_trial
+start_trial 62
+0.56051
+0.503498
+0.474956
+end_trial
+start_trial 63
+0.277755
+0.261884
+0.285667
+end_trial
+start_trial 64
+0.232309
+0.232413
+0.23327
+end_trial
+start_trial 65
+0.415333
+0.415552
+0.415466
+end_trial
+start_trial 66
+0.484416
+0.474922
+0.474922
+end_trial
+start_trial 67
+0.5514
+0.561049
+0.561012
+end_trial
+start_trial 68
+0.565902
+0.575453
+0.556298
+end_trial
+start_trial 69
+0.153661
+0.153621
+0.153619
+end_trial
+start_trial 70
+0.380667
+0.380948
+0.380927
+end_trial
+start_trial 71
+0.380878
+0.381329
+0.381049
+end_trial
+start_trial 72
+0.388004
+0.389018
+0.388572
+end_trial
+start_trial 73
+0.383334
+0.382981
+0.383284
+end_trial
+start_trial 74
+0.154599
+0.153813
+0.153285
+end_trial
+start_trial 75
+0.461116
+0.460579
+0.460683
+end_trial
+start_trial 76
+0.455479
+0.455565
+0.455546
+end_trial
+start_trial 77
+0.313467
+0.298435
+0.320933
+end_trial
+start_trial 78
+0.0356397
+0.0659932
+0.0565631
+end_trial
+start_trial 79
+0.0541754
+0.0736194
+0.0657684
+end_trial
+start_trial 80
+0.222389
+0.222608
+0.221914
+end_trial
+start_trial 81
+0.453184
+0.453057
+0.453183
+end_trial
+start_trial 82
+0.532737
+0.551218
+0.522772
+end_trial
+start_trial 83
+0.789195
+0.746994
+0.759807
+end_trial
+start_trial 84
+0.49545
+0.54173
+0.513194
+end_trial
+start_trial 85
+0.639628
+0.650193
+0.607444
+end_trial
+start_trial 86
+0.570044
+0.474019
+0.560543
+end_trial
+start_trial 87
+0.782854
+0.771556
+0.782841
+end_trial
+start_trial 88
+0.503409
+0.503455
+0.55104
+end_trial
+start_trial 89
+0.738888
+0.741138
+0.737967
+end_trial
+start_trial 90
+-1
+-1
+-1
+end_trial
+start_trial 91
+0.620698
+0.605531
+0.611937
+end_trial
+start_trial 92
+-1
+-1
+-1
+end_trial
+start_trial 93
+0.60233
+0.620501
+0.620328
+end_trial
+start_trial 94
+0.513372
+0.542544
+0.551364
+end_trial
+start_trial 95
+0.825636
+0.853237
+0.834301
+end_trial
+start_trial 96
+0.523531
+0.543453
+0.551773
+end_trial
+start_trial 97
+0.978062
+0.97974
+0.967787
+end_trial
+start_trial 98
+0.573128
+0.554019
+0.573123
+end_trial
+start_trial 99
+0.573878
+0.554744
+0.564312
+end_trial
+start_trial 100
+-1
+-1
+-1
+end_trial
+start_trial 101
+0.549502
+0.547959
+0.550736
+end_trial
+start_trial 102
+-1
+-1
+-1
+end_trial
+start_trial 103
+0.631779
+0.627185
+0.632818
+end_trial
+start_trial 104
+end_trial
+start_trial 105
+end_trial
+start_trial 106
+end_trial
+start_trial 107
+end_trial
+start_trial 108
+end_trial
+start_trial 109
+end_trial
+start_trial 110
+end_trial
+start_trial 111
+0.312758
+0.307156
+0.30295
+end_trial
+start_trial 112
+0.437229
+0.430328
+0.428422
+end_trial
+start_trial 113
+0.503735
+0.560664
+0.564762
+end_trial
+start_trial 114
+0.552928
+0.563785
+0.556671
+end_trial
+start_trial 115
+0.515431
+0.494325
+0.551203
+end_trial
+start_trial 116
+0.564759
+0.56308
+0.563433
+end_trial
+start_trial 117
+0.21567
+0.215763
+0.215773
+end_trial
+start_trial 118
+-1
+-1
+-1
+end_trial
+start_trial 119
+0.563145
+0.555898
+0.547882
+end_trial
+start_trial 120
+-1
+-1
+-1
+end_trial
+start_trial 121
+0.580181
+0.579696
+0.578202
+end_trial
+start_trial 122
+0.372403
+0.373822
+0.372511
+end_trial
+start_trial 123
+0.520401
+0.528668
+0.516499
+end_trial
+start_trial 124
+0.642023
+0.636027
+0.628012
+end_trial
+start_trial 125
+0.523291
+0.55292
+0.554257
+end_trial
+start_trial 126
+0.515849
+0.5549
+0.495447
+end_trial
+start_trial 127
+0.371529
+0.371183
+0.373666
+end_trial
+start_trial 128
+0.542611
+0.504054
+0.517124
+end_trial
+start_trial 129
+0.895025
+0.8951
+0.895506
+end_trial
+start_trial 130
+0.896344
+0.896363
+0.89648
+end_trial
+start_trial 131
+0.293028
+0.292742
+0.294082
+end_trial
+start_trial 132
+0.552857
+0.504728
+0.493918
+end_trial
+start_trial 133
+0.858332
+0.858795
+0.838585
+end_trial
+start_trial 134
+0.513816
+0.50497
+0.524624
+end_trial
+start_trial 135
+0.817077
+0.807822
+0.797939
+end_trial
+start_trial 136
+0.293846
+0.294071
+0.294086
+end_trial
+start_trial 137
+0.293275
+0.293282
+0.293279
+end_trial
+start_trial 138
+0.473904
+0.474735
+0.532734
+end_trial
+start_trial 139
+0.667211
+0.659076
+0.675736
+end_trial
+start_trial 140
+0.484097
+0.50522
+0.514022
+end_trial
+start_trial 141
+0.683515
+0.730072
+0.665147
+end_trial
+start_trial 142
+0.605872
+0.586495
+0.604813
+end_trial
+start_trial 143
+0.672675
+0.682245
+0.657795
+end_trial
+start_trial 144
+0.774956
+0.756512
+0.711895
+end_trial
+start_trial 145
+0.573621
+0.56458
+0.554282
+end_trial
+start_trial 146
+0.563523
+0.566199
+0.566004
+end_trial
+start_trial 147
+0.505028
+0.506114
+0.573835
+end_trial
+start_trial 148
+0.564243
+0.573194
+0.568202
+end_trial
+start_trial 149
+0.429904
+0.440661
+0.438727
+end_trial
+start_trial 150
+0.39561
+-nan
+0.393467
+end_trial
+start_trial 151
+0.438385
+0.437689
+0.43605
+end_trial
+start_trial 152
+0.410279
+0.41192
+0.41359
+end_trial
+start_trial 153
+0.432943
+0.454494
+0.484222
+end_trial
+start_trial 154
+0.890396
+0.89021
+0.890486
+end_trial
+start_trial 155
+0.484139
+0.584183
+0.562693
+end_trial
+start_trial 156
+0.892189
+0.892322
+0.892179
+end_trial
+start_trial 157
+0.513865
+0.523038
+0.562048
+end_trial
+start_trial 158
+0.856541
+0.876255
+0.876545
+end_trial
+start_trial 159
+0.514763
+0.56402
+0.545733
+end_trial
+start_trial 160
+0.664335
+0.674095
+0.69518
+end_trial
+start_trial 161
+0.443268
+0.445361
+0.44499
+end_trial
+start_trial 162
+0.440306
+0.438991
+0.439588
+end_trial
+start_trial 163
+0.432012
+0.431738
+0.422065
+end_trial
+start_trial 164
+0.404347
+0.399364
+0.40425
+end_trial
+start_trial 165
+0.555592
+0.554929
+0.533759
+end_trial
+start_trial 166
+0.757996
+0.749281
+0.758514
+end_trial
+start_trial 167
+0.563387
+0.514188
+0.553502
+end_trial
+start_trial 168
+0.771492
+0.721482
+0.747503
+end_trial
+start_trial 169
+0.576346
+0.585947
+0.58455
+end_trial
+start_trial 170
+0.650823
+0.66938
+0.652129
+end_trial
+start_trial 171
+0.619496
+0.659527
+0.661447
+end_trial
+start_trial 172
+0.45381
+0.453765
+0.447524
+end_trial
+start_trial 173
+0.402529
+0.401441
+0.400684
+end_trial
+start_trial 174
+-nan
+0.432932
+0.430953
+end_trial
+start_trial 175
+0.396128
+0.395813
+0.398027
+end_trial
+start_trial 176
+0.513478
+0.525809
+0.513589
+end_trial
+start_trial 177
+0.643685
+0.658841
+0.649554
+end_trial
+start_trial 178
+0.544091
+0.582295
+0.483582
+end_trial
+start_trial 179
+0.807385
+0.823285
+0.817008
+end_trial
+start_trial 180
+0.555081
+0.575531
+0.544979
+end_trial
+start_trial 181
+0.66851
+0.681085
+0.681649
+end_trial
+start_trial 182
+0.61508
+0.624481
+0.620694
+end_trial
+start_trial 183
+0.56175
+0.474692
+0.534149
+end_trial
+start_trial 184
+0.570142
+0.55842
+end_trial
+start_trial 185
+0.514943
+0.572516
+0.526491
+end_trial
+start_trial 186
+0.590359
+0.589492
+0.581904
+end_trial
+start_trial 187
+-1
+-1
+-1
+end_trial
+start_trial 188
+-1
+-1
+-1
+end_trial
+start_trial 189
+-1
+-1
+-1
+end_trial
+start_trial 190
+0.387377
+0.389606
+0.382931
+end_trial
+start_trial 191
+-1
+-1
+-1
+end_trial
+start_trial 192
+0.381612
+0.38068
+0.381021
+end_trial
+start_trial 193
+0.405285
+0.405192
+0.405009
+end_trial
+start_trial 194
+0.686047
+0.687068
+0.686387
+end_trial
+start_trial 195
+0.408898
+0.423183
+0.413583
+end_trial
+start_trial 196
+0.686087
+0.685951
+0.685767
+end_trial
+start_trial 197
+0.570423
+0.560803
+0.560828
+end_trial
+start_trial 198
+0.383548
+0.383443
+0.383955
+end_trial
+start_trial 199
+0.551491
+0.551488
+0.551522
+end_trial
+start_trial 200
+0.382532
+0.382359
+0.381845
+end_trial
+start_trial 201
+0.687229
+0.686497
+0.686654
+end_trial
+start_trial 202
+0.686873
+0.686587
+0.686532
+end_trial
+start_trial 203
+0.696471
+0.686988
+0.698775
+end_trial
+start_trial 204
+0.68606
+0.686708
+0.687687
+end_trial
+start_trial 205
+0.543315
+0.553737
+0.575422
+end_trial
+start_trial 206
+0.565762
+0.503687
+0.484018
+end_trial
+start_trial 207
+0.1581
+0.157779
+0.158097
+end_trial
+start_trial 208
+0.513578
+0.552796
+0.55255
+end_trial
+start_trial 209
+0.551602
+0.551177
+0.551526
+end_trial
+start_trial 210
+0.57824
+0.57845
+0.57862
+end_trial
+start_trial 211
+0.532346
+0.513975
+0.505476
+end_trial
+start_trial 212
+0.404942
+0.442594
+0.451536
+end_trial
+start_trial 213
+0.51324
+0.524341
+0.542415
+end_trial
+start_trial 214
+0.574954
+0.575997
+0.573992
+end_trial
+start_trial 215
+0.668771
+0.651809
+0.650342
+end_trial
+start_trial 216
+0.536798
+0.561322
+0.553218
+end_trial
+start_trial 217
+0.640149
+0.648735
+0.644365
+end_trial
+start_trial 218
+0.570808
+0.570504
+0.57079
+end_trial
+start_trial 219
+0.264067
+0.134989
+0.55314
+end_trial
+start_trial 220
+0.0524792
+0.231153
+0.0341881
+end_trial
+start_trial 221
+0.523548
+0.532782
+0.544751
+end_trial
+start_trial 222
+0.486324
+0.51749
+0.525138
+end_trial
+start_trial 223
+0.52417
+0.524048
+0.524029
+end_trial
+start_trial 224
+0.474252
+0.524563
+0.572773
+end_trial
+start_trial 225
+0.49577
+0.489461
+0.502102
+end_trial
+start_trial 226
+0.474273
+0.523394
+0.571128
+end_trial
+start_trial 227
+0.508831
+0.511059
+0.510793
+end_trial
+start_trial 228
+0.727493
+0.71345
+0.734136
+end_trial
+start_trial 229
+0.478494
+0.462381
+0.454294
+end_trial
+start_trial 230
+0.724318
+0.827758
+0.707175
+end_trial
+start_trial 231
+0.4307
+0.430672
+0.471504
+end_trial
+start_trial 232
+0.159686
+0.159765
+0.161488
+end_trial
+start_trial 233
+0.158426
+0.158607
+0.160961
+end_trial
+start_trial 234
+0.155063
+0.154975
+0.153804
+end_trial
+start_trial 235
+0.494347
+0.473753
+0.553386
+end_trial
+start_trial 236
+0.584563
+0.582964
+0.586567
+end_trial
+start_trial 237
+0.524573
+0.543211
+0.493785
+end_trial
+start_trial 238
+0.461257
+0.460449
+0.460286
+end_trial
+start_trial 239
+0.713374
+0.708717
+0.708175
+end_trial
+start_trial 240
+0.503944
+0.511545
+0.503102
+end_trial
+start_trial 241
+0.704727
+0.727954
+0.7269
+end_trial
+start_trial 242
+0.500053
+0.524482
+0.484484
+end_trial
+start_trial 243
+0.157308
+0.157811
+0.157931
+end_trial
+start_trial 244
+0.157933
+0.156411
+0.157909
+end_trial
+start_trial 245
+0.156303
+0.156031
+0.156414
+end_trial
+start_trial 246
+0.524127
+0.562375
+0.494307
+end_trial
+start_trial 247
+0.578253
+0.578143
+0.577946
+end_trial
+start_trial 248
+0.546141
+0.546538
+0.547006
+end_trial
+start_trial 249
+0.574089
+0.574114
+0.594782
+end_trial
+start_trial 250
+0.871015
+0.874921
+0.875374
+end_trial
+start_trial 251
+0.523477
+0.533995
+0.563424
+end_trial
+start_trial 252
+0.871655
+0.870949
+0.873701
+end_trial
+start_trial 253
+0.442513
+0.434557
+0.41102
+end_trial
+start_trial 254
+0.488236
+0.506135
+0.527538
+end_trial
+start_trial 255
+0.510801
+0.486716
+0.479287
+end_trial
+start_trial 256
+0.483841
+0.541027
+0.484324
+end_trial
+start_trial 257
+0.162803
+0.162067
+0.161551
+end_trial
+start_trial 258
+0.56371
+0.565149
+0.567487
+end_trial
+start_trial 259
+0.496278
+0.496215
+0.519613
+end_trial
+start_trial 260
+0.154989
+0.155165
+0.154528
+end_trial
+start_trial 261
+0.622518
+0.622378
+0.598472
+end_trial
+start_trial 262
+0.169178
+0.177438
+0.168658
+end_trial
+start_trial 263
+0.442919
+0.434254
+0.434029
+end_trial
+start_trial 264
+0.480384
+0.464863
+0.460574
+end_trial
+start_trial 265
+0.416744
+0.415781
+0.447518
+end_trial
+start_trial 266
+0.528067
+0.528837
+0.54339
+end_trial
+start_trial 267
+0.735115
+0.747773
+0.761973
+end_trial
+start_trial 268
+0.544827
+0.543929
+0.544801
+end_trial
+start_trial 269
+0.535745
+0.503585
+0.511112
+end_trial
+start_trial 270
+0.233714
+0.202597
+0.233041
+end_trial
+start_trial 271
+0.729669
+0.73399
+0.745635
+end_trial
+start_trial 272
+0.216261
+0.208589
+0.193142
+end_trial
+start_trial 273
+0.544439
+0.564266
+0.473513
+end_trial
+start_trial 274
+0.866788
+0.86312
+0.868311
+end_trial
+start_trial 275
+0.473572
+0.573105
+0.504818
+end_trial
+start_trial 276
+0.860637
+0.848138
+0.847732
+end_trial
+start_trial 277
+0.155138
+0.155688
+0.157106
+end_trial
+start_trial 278
+0.546471
+0.540008
+0.532362
+end_trial
+start_trial 279
+0.5553
+0.555979
+0.555732
+end_trial
+start_trial 280
+0.162682
+0.170572
+0.163023
+end_trial
+start_trial 281
+0.768647
+0.75009
+0.752296
+end_trial
+start_trial 282
+0.172021
+0.186599
+0.171286
+end_trial
+start_trial 283
+0.565624
+0.576566
+0.615087
+end_trial
+start_trial 284
+0.893735
+0.895217
+0.893972
+end_trial
+start_trial 285
+0.515673
+0.577015
+0.575784
+end_trial
+start_trial 286
+0.899487
+0.899262
+0.899487
+end_trial
+start_trial 287
+0.479694
+0.511318
+0.471722
+end_trial
+start_trial 288
+0.373371
+0.380936
+0.380839
+end_trial
+start_trial 289
+0.507912
+0.467489
+0.492205
+end_trial
+start_trial 290
+0.265076
+0.269837
+0.256076
+end_trial
+start_trial 291
+0.474878
+0.542502
+0.533299
+end_trial
+start_trial 292
+0.504304
+0.504289
+0.50429
+end_trial
+start_trial 293
+0.493952
+0.48445
+0.474948
+end_trial
+start_trial 294
+0.565861
+0.574741
+0.572286
+end_trial
+start_trial 295
+0.471171
+0.479121
+0.486589
+end_trial
+start_trial 296
+0.503593
+0.487746
+0.50394
+end_trial
+start_trial 297
+0.526812
+0.503115
+0.486948
+end_trial
+start_trial 298
+0.495406
+0.487155
+0.535037
+end_trial
+start_trial 299
+0.404191
+0.0180151
+0.412571
+end_trial
+start_trial 300
+0.673624
+0.681682
+0.674171
+end_trial
+start_trial 301
+0.105679
+0.0456143
+0.250071
+end_trial
+start_trial 302
+0.479473
+0.470113
+0.4706
+end_trial
+start_trial 303
+0.475817
+0.477504
+0.485315
+end_trial
+start_trial 304
+0.487249
+0.468783
+0.478679
+end_trial
+start_trial 305
+0.511795
+0.463529
+0.471897
+end_trial
+start_trial 306
+0.227555
+0.227589
+0.211036
+end_trial
+start_trial 307
+0.756473
+0.754271
+0.75671
+end_trial
+start_trial 308
+0.745373
+0.776076
+0.778507
+end_trial
+start_trial 309
+0.551297
+0.551293
+0.560804
+end_trial
+start_trial 310
+0.604502
+0.60457
+0.60301
+end_trial
+start_trial 311
+0.551445
+0.55149
+0.560986
+end_trial
+start_trial 312
+0.511227
+0.517486
+0.518066
+end_trial
+start_trial 313
+0.233547
+0.233048
+0.233384
+end_trial
+start_trial 314
+0.233805
+0.233852
+0.233853
+end_trial
+start_trial 315
+0.159755
+0.157824
+0.158851
+end_trial
+start_trial 316
+0.157041
+0.159573
+0.158777
+end_trial
+start_trial 317
+0.514334
+0.538425
+0.538372
+end_trial
+start_trial 318
+0.240329
+0.232662
+0.232547
+end_trial
+start_trial 319
+0.523948
+0.524232
+0.517745
+end_trial
+start_trial 320
+0.23457
+0.242351
+0.234528
+end_trial
+start_trial 321
+0.155221
+0.154802
+0.155365
+end_trial
+start_trial 322
+0.155269
+0.15505
+0.155441
+end_trial
+start_trial 323
+0.484816
+0.523689
+0.484306
+end_trial
+start_trial 324
+0.564617
+0.567356
+0.564144
+end_trial
+start_trial 325
+0.564644
+0.533874
+0.484437
+end_trial
+start_trial 326
+0.568739
+0.563605
+0.566522
+end_trial
+start_trial 327
+0.529058
+0.528804
+0.545295
+end_trial
+start_trial 328
+0.53783
+0.551397
+0.551286
+end_trial
+start_trial 329
+0.543197
+0.542019
+0.541165
+end_trial
+start_trial 330
+0.561987
+0.562553
+0.562562
+end_trial
+start_trial 331
+0.427321
+0.294387
+0.144379
+end_trial
+start_trial 332
+0.717271
+0.737652
+0.746087
+end_trial
+start_trial 333
+0.376941
+0.361153
+0.376864
+end_trial
+start_trial 334
+0.737539
+0.738634
+0.709816
+end_trial
+start_trial 335
+0.369423
+0.369407
+0.369392
+end_trial
+start_trial 336
+0.359618
+0.368508
+0.368482
+end_trial
+start_trial 337
+0.157434
+0.156685
+0.158776
+end_trial
+start_trial 338
+0.572918
+0.493504
+0.574988
+end_trial
+start_trial 339
+0.482887
+0.506372
+0.436187
+end_trial
+start_trial 340
+0.236517
+0.236587
+0.236625
+end_trial
+start_trial 341
+0.551022
+0.550873
+0.550841
+end_trial
+start_trial 342
+0.23988
+0.239901
+0.239914
+end_trial
+start_trial 343
+0.156344
+0.155476
+0.155727
+end_trial
+start_trial 344
+0.15558
+0.155877
+0.157037
+end_trial
+start_trial 345
+0.532572
+0.485861
+0.565674
+end_trial
+start_trial 346
+0.521523
+0.529809
+0.539893
+end_trial
+start_trial 347
+0.473559
+0.473634
+0.523669
+end_trial
+start_trial 348
+0.565116
+0.564712
+0.562231
+end_trial
+start_trial 349
+0.536675
+0.512633
+0.505058
+end_trial
+start_trial 350
+0.560656
+0.560722
+0.560341
+end_trial
+start_trial 351
+0.528559
+0.528943
+0.521092
+end_trial
+start_trial 352
+0.552329
+0.552213
+0.544164
+end_trial
+start_trial 353
+0.39391
+0.378492
+0.394385
+end_trial
+start_trial 354
+0.715031
+0.70093
+0.682388
+end_trial
+start_trial 355
+0.357453
+0.36261
+0.379103
+end_trial
+start_trial 356
+0.767095
+0.747174
+0.710116
+end_trial
+start_trial 357
+0.463051
+0.471099
+0.455112
+end_trial
+start_trial 358
+0.463101
+0.479129
+0.471087
+end_trial
+start_trial 359
+0.241785
+0.233948
+0.233957
+end_trial
+start_trial 360
+0.504271
+0.534056
+0.534578
+end_trial
+start_trial 361
+0.520739
+0.528273
+0.536254
+end_trial
+start_trial 362
+0.230288
+0.245557
+0.230259
+end_trial
+start_trial 363
+0.528927
+0.52892
+0.521361
+end_trial
+start_trial 364
+0.617186
+0.608689
+0.544462
+end_trial
+start_trial 365
+0.154959
+0.155933
+0.156515
+end_trial
+start_trial 366
+0.154985
+0.154503
+0.154882
+end_trial
+start_trial 367
+0.49404
+0.504891
+0.562728
+end_trial
+start_trial 368
+0.567856
+0.564299
+0.564976
+end_trial
+start_trial 369
+0.552763
+0.544995
+0.493937
+end_trial
+start_trial 370
+0.50076
+0.525849
+0.506688
+end_trial
+start_trial 371
+0.558628
+0.550666
+0.558724
+end_trial
+start_trial 372
+0.563306
+0.564267
+0.563059
+end_trial
+start_trial 373
+0.565406
+0.561209
+0.566357
+end_trial
+start_trial 374
+0.566675
+0.565311
+0.565203
+end_trial
+start_trial 375
+0.391768
+0.383867
+0.38382
+end_trial
+start_trial 376
+0.784145
+0.727257
+0.750367
+end_trial
+start_trial 377
+0.396755
+0.396883
+0.397275
+end_trial
+start_trial 378
+0.0603194
+0.113497
+0.0980601
+end_trial
+start_trial 379
+-nan
+0.413991
+0.413976
+end_trial
+start_trial 380
+0.443425
+0.40291
+0.467597
+end_trial
+start_trial 381
+0.236507
+0.236503
+0.236469
+end_trial
+start_trial 382
+0.317743
+0.315129
+0.316548
+end_trial
+start_trial 383
+0.155938
+0.157399
+0.156124
+end_trial
+start_trial 384
+0.47975
+0.435036
+0.485218
+end_trial
+start_trial 385
+0.492989
+0.502733
+0.493425
+end_trial
+start_trial 386
+0.558527
+0.560146
+0.558341
+end_trial
+start_trial 387
+0.494063
+0.504175
+0.533438
+end_trial
+start_trial 388
+0.556768
+0.554942
+0.555657
+end_trial
+start_trial 389
+0.553017
+0.553311
+0.544952
+end_trial
+start_trial 390
+0.55774
+0.544942
+0.563918
+end_trial
+start_trial 391
+0.560679
+0.552859
+0.536574
+end_trial
+start_trial 392
+0.552272
+0.553408
+0.5525
+end_trial
+start_trial 393
+0.394252
+0.394361
+0.395036
+end_trial
+start_trial 394
+0.764924
+0.764174
+0.79647
+end_trial
+start_trial 395
+0.392153
+0.3939
+0.392867
+end_trial
+start_trial 396
+0.869356
+0.864001
+0.866007
+end_trial
+start_trial 397
+0.483626
+0.501468
+0.476872
+end_trial
+start_trial 398
+0.421037
+0.420021
+0.427056
+end_trial
+start_trial 399
+0.233347
+0.233809
+0.232978
+end_trial
+start_trial 400
+0.234093
+0.233066
+0.233447
+end_trial
+start_trial 401
+0.574193
+0.615024
+0.557964
+end_trial
+start_trial 402
+0.15832
+0.158136
+0.157862
+end_trial
+start_trial 403
+0.518523
+0.542211
+0.525897
+end_trial
+start_trial 404
+0.247542
+0.232496
+0.232651
+end_trial
+start_trial 405
+0.536248
+0.53608
+0.511322
+end_trial
+start_trial 406
+0.244809
+0.252611
+0.252058
+end_trial
+start_trial 407
+0.155155
+0.154549
+0.155285
+end_trial
+start_trial 408
+0.154777
+0.153911
+0.154004
+end_trial
+start_trial 409
+0.560776
+0.559438
+0.54958
+end_trial
+start_trial 410
+0.564643
+0.563473
+0.557744
+end_trial
+start_trial 411
+0.556369
+0.560344
+0.566634
+end_trial
+start_trial 412
+0.55864
+0.557322
+0.556756
+end_trial
+start_trial 413
+0.393175
+0.389996
+0.392419
+end_trial
+start_trial 414
+0.676098
+0.677135
+0.671444
+end_trial
+start_trial 415
+0.392356
+0.392343
+0.392339
+end_trial
+start_trial 416
+0.70183
+0.700255
+0.70714
+end_trial
+start_trial 417
+0.445129
+0.44527
+0.460952
+end_trial
+start_trial 418
+0.437439
+0.445538
+0.485268
+end_trial
+start_trial 419
+0.234269
+0.234247
+0.234231
+end_trial
+start_trial 420
+0.234394
+0.234372
+0.234339
+end_trial
+start_trial 421
+0.158794
+0.159451
+0.159503
+end_trial
+start_trial 422
+0.159273
+0.158299
+0.159286
+end_trial
+start_trial 423
+0.555458
+0.523728
+0.539464
+end_trial
+start_trial 424
+0.237947
+0.237817
+0.237978
+end_trial
+start_trial 425
+0.552274
+0.551662
+0.552247
+end_trial
+start_trial 426
+0.238458
+0.238582
+0.238656
+end_trial
+start_trial 427
+0.159217
+-nan
+0.159166
+end_trial
+start_trial 428
+0.158853
+0.160451
+0.158688
+end_trial
+start_trial 429
+0.514275
+0.474163
+0.496421
+end_trial
+start_trial 430
+0.586716
+0.585743
+0.585097
+end_trial
+start_trial 431
+0.574115
+0.483651
+0.600816
+end_trial
+start_trial 432
+0.57605
+0.577563
+0.576013
+end_trial
+start_trial 433
+0.473995
+0.474337
+0.553678
+end_trial
+start_trial 434
+0.401358
+0.401311
+0.401464
+end_trial
+start_trial 435
+0.417719
+0.409648
+0.449898
+end_trial
+start_trial 436
+0.320997
+0.351497
+0.320869
+end_trial
+start_trial 437
+0.499772
+0.508145
+-nan
+end_trial
+start_trial 438
+0.575173
+0.494877
+0.555162
+end_trial
+start_trial 439
+0.561809
+0.559876
+0.559886
+end_trial
+start_trial 440
+0.591544
+0.535213
+0.542871
+end_trial
+start_trial 441
+0.563901
+0.563976
+0.557839
+end_trial
+start_trial 442
+0.474848
+0.505454
+0.494559
+end_trial
+start_trial 443
+0.813655
+0.832781
+0.832781
+end_trial
+start_trial 444
+0.563218
+0.55335
+0.536969
+end_trial
+start_trial 445
+0.76659
+0.722937
+0.712148
+end_trial
+start_trial 446
+0.573906
+0.533272
+0.573624
+end_trial
+start_trial 447
+0.643281
+0.63683
+0.632502
+end_trial
+start_trial 448
+0.494216
+0.553132
+0.572396
+end_trial
+start_trial 449
+0.632505
+0.63176
+0.633538
+end_trial
+start_trial 450
+0.463577
+0.484477
+0.505144
+end_trial
+start_trial 451
+0.568629
+0.568926
+0.563688
+end_trial
+start_trial 452
+0.472641
+0.544319
+0.525837
+end_trial
+start_trial 453
+0.56419
+0.56371
+0.564736
+end_trial
+start_trial 454
+0.532724
+0.572713
+0.572253
+end_trial
+start_trial 455
+0.417276
+0.431849
+0.440265
+end_trial
+start_trial 456
+-nan
+0.40898
+0.40151
+end_trial
+start_trial 457
+0.453647
+0.533522
+0.431107
+end_trial
+start_trial 458
+0.555188
+0.554099
+0.555215
+end_trial
+start_trial 459
+0.384389
+0.383618
+0.382311
+end_trial
+start_trial 460
+0.544638
+0.545379
+0.546046
+end_trial
+start_trial 461
+0.474555
+0.504493
+0.522522
+end_trial
+start_trial 462
+0.521368
+0.546187
+0.530381
+end_trial
+start_trial 463
+0.5135
+0.525108
+0.487322
+end_trial
+start_trial 464
+0.578545
+0.589691
+0.574382
+end_trial
+start_trial 465
+0.624307
+0.555714
+0.516547
+end_trial
+start_trial 466
+0.554134
+0.554348
+0.550541
+end_trial
+start_trial 467
+0.523899
+0.474984
+0.484105
+end_trial
+start_trial 468
+0.658151
+0.6511
+0.666928
+end_trial
+start_trial 469
+0.592986
+0.416957
+0.554081
+end_trial
+start_trial 470
+0.708403
+0.679521
+0.67946
+end_trial
+start_trial 471
+0.544131
+0.544472
+0.496079
+end_trial
+start_trial 472
+0.701151
+0.720204
+0.747032
+end_trial
+start_trial 473
+0.731063
+0.669435
+0.714696
+end_trial
+start_trial 474
+0.571607
+0.474791
+0.484572
+end_trial
+start_trial 475
+0.665028
+0.682229
+0.693378
+end_trial
+start_trial 476
+0.493538
+0.51398
+0.513547
+end_trial
+start_trial 477
+0.364914
+0.365048
+0.365412
+end_trial
+start_trial 478
+0.367177
+0.369472
+0.36944
+end_trial
+start_trial 479
+0.52275
+0.474102
+0.542848
+end_trial
+start_trial 480
+0.523357
+0.553112
+0.564261
+end_trial
+start_trial 481
+0.556718
+0.575653
+0.575705
+end_trial
+start_trial 482
+0.567386
+0.572989
+0.574324
+end_trial
+start_trial 483
+0.158517
+0.157264
+0.158685
+end_trial
+start_trial 484
+0.803255
+0.787199
+0.806828
+end_trial
+start_trial 485
+0.513183
+0.571496
+0.542809
+end_trial
+start_trial 486
+0.484247
+0.551938
+0.551423
+end_trial
+start_trial 487
+0.553244
+0.572091
+0.553043
+end_trial
+start_trial 488
+0.777217
+0.789469
+0.780544
+end_trial
+start_trial 489
+0.168895
+0.166726
+0.170257
+end_trial
+start_trial 490
+0.873606
+0.872183
+0.873708
+end_trial
+start_trial 491
+0.164978
+0.155064
+0.143426
+end_trial
+start_trial 492
+0.588132
+0.575744
+0.584877
+end_trial
+start_trial 493
+0.555985
+0.585146
+0.554828
+end_trial
+start_trial 494
+0.587305
+0.589438
+0.580007
+end_trial
+start_trial 495
+0.877188
+0.878574
+0.87894
+end_trial
+start_trial 496
+0.493844
+0.484494
+0.495173
+end_trial
+start_trial 497
+0.882206
+0.882803
+0.882264
+end_trial
+start_trial 498
+0.503499
+0.5035
+0.512998
+end_trial
+start_trial 499
+0.162285
+0.168917
+0.170189
+end_trial
+start_trial 500
+0.5508
+0.549413
+0.557071
+end_trial
+start_trial 501
+0.118067
+0.155178
+0.15668
+end_trial
+start_trial 502
+0.743087
+0.733303
+0.675705
+end_trial
+start_trial 503
+0.884451
+0.885664
+0.884843
+end_trial
+start_trial 504
+0.512861
+0.551162
+0.474533
+end_trial
+start_trial 505
+0.889684
+0.8892
+0.888664
+end_trial
+start_trial 506
+0.541907
+0.503428
+0.541894
+end_trial
+start_trial 507
+0.833224
+0.579886
+0.492043
+end_trial
+start_trial 508
+0.716382
+0.717657
+0.745272
+end_trial
+start_trial 509
+0.168137
+0.170768
+0.168362
+end_trial
+start_trial 510
+0.850163
+0.84149
+0.830575
+end_trial
+start_trial 511
+0.533266
+0.571971
+0.542214
+end_trial
+start_trial 512
+0.638662
+0.638731
+0.640136
+end_trial
+start_trial 513
+0.532775
+0.495186
+0.571721
+end_trial
+start_trial 514
+0.804643
+0.797544
+0.832308
+end_trial
+start_trial 515
+0.562653
+0.553211
+0.563837
+end_trial
+start_trial 516
+0.56335
+0.573378
+0.572856
+end_trial
+start_trial 517
+0.574264
+0.564318
+0.554755
+end_trial
+start_trial 518
+0.960605
+0.980045
+0.979655
+end_trial
+start_trial 519
+0.564629
+0.564661
+0.564707
+end_trial
+start_trial 520
+0.852483
+0.852402
+0.852397
+end_trial
+start_trial 521
+0.522632
+0.522671
+0.532218
+end_trial
+start_trial 522
+0.727357
+0.736035
+0.736452
+end_trial
+start_trial 523
+0.503475
+0.503587
+0.503485
+end_trial
+start_trial 524
+0.900812
+0.887103
+0.890304
+end_trial
+start_trial 525
+0.571821
+0.561526
+0.562163
+end_trial
+start_trial 526
+0.874258
+0.874544
+0.873821
+end_trial
+start_trial 527
+0.551637
+0.57208
+0.553389
+end_trial
+start_trial 528
+0.867723
+0.863124
+0.868203
+end_trial
+start_trial 529
+0.513181
+0.551435
+0.560929
+end_trial
+start_trial 530
+0.643769
+0.644223
+0.644253
+end_trial
+start_trial 531
+0.570148
+0.57014
+0.551112
+end_trial
+start_trial 532
+0.657646
+0.672431
+0.647729
+end_trial
+start_trial 533
+0.572984
+0.561934
+0.570811
+end_trial
+start_trial 534
+0.84843
+0.869505
+0.857821
+end_trial
+start_trial 535
+0.571786
+0.5718
+0.571787
+end_trial
+start_trial 536
+0.864974
+0.867057
+0.869183
+end_trial
+start_trial 537
+0.546378
+0.546367
+0.53687
+end_trial
+start_trial 538
+0.870856
+0.860046
+0.862542
+end_trial
+start_trial 539
+0.571526
+0.39574
+0.552299
+end_trial
+start_trial 540
+0.866442
+0.867235
+0.867737
+end_trial
+start_trial 541
+-nan
+0.394794
+0.394887
+end_trial
+start_trial 542
+0.460561
+0.468957
+0.477398
+end_trial
+start_trial 543
+0.553111
+0.554168
+0.552479
+end_trial
+start_trial 544
+0.56542
+0.555836
+0.565427
+end_trial
+start_trial 545
+0.968613
+0.98301
+0.95951
+end_trial
+start_trial 546
+0.234278
+0.234389
+0.23432
+end_trial
+start_trial 547
+0.877687
+0.877833
+0.881902
+end_trial
+start_trial 548
+0.564623
+0.575038
+0.553854
+end_trial
+start_trial 549
+0.157543
+0.158537
+0.15944
+end_trial
+start_trial 550
+0.575458
+0.563163
+0.555351
+end_trial
+start_trial 551
+0.157715
+0.159396
+0.166932
+end_trial
+start_trial 552
+0.156901
+0.159727
+0.15639
+end_trial
+start_trial 553
+0.157159
+0.155901
+0.155297
+end_trial
+start_trial 554
+0.50382
+0.514795
+0.574347
+end_trial
+start_trial 555
+0.568067
+0.568692
+0.568059
+end_trial
+start_trial 556
+0.565282
+0.494548
+0.513177
+end_trial
+start_trial 557
+0.5368
+0.543381
+0.527665
+end_trial
+start_trial 558
+0.47415
+0.494733
+0.523884
+end_trial
+start_trial 559
+0.658844
+0.648499
+0.668181
+end_trial
+start_trial 560
+0.570121
+0.571301
+0.473752
+end_trial
+start_trial 561
+0.866122
+0.827806
+0.854719
+end_trial
+start_trial 562
+0.552582
+0.571655
+0.571652
+end_trial
+start_trial 563
+0.551493
+0.551482
+0.561022
+end_trial
+start_trial 564
+0.632062
+0.631484
+0.632324
+end_trial
+start_trial 565
+0.503588
+0.484498
+0.494006
+end_trial
+start_trial 566
+0.99772
+0.997837
+0.997734
+end_trial
+start_trial 567
+0.484382
+0.476566
+0.476199
+end_trial
+start_trial 568
+0.992704
+0.992717
+0.99274
+end_trial
+start_trial 569
+0.524236
+0.499554
+0.499541
+end_trial
+start_trial 570
+0.532337
+0.515759
+0.514479
+end_trial
+start_trial 571
+0.193376
+0.176573
+0.184553
+end_trial
+start_trial 572
+0.993606
+0.993554
+0.99353
+end_trial
+start_trial 573
+0.154432
+0.154259
+0.154429
+end_trial
+start_trial 574
+0.992328
+0.992586
+0.992277
+end_trial
+start_trial 575
+0.570055
+0.560542
+0.560544
+end_trial
+start_trial 576
+0.996315
+0.996261
+0.996299
+end_trial
+start_trial 577
+0.55107
+0.551074
+0.560579
+end_trial
+start_trial 578
+0.957761
+0.957717
+0.967845
+end_trial
+start_trial 579
+0.160982
+0.163756
+0.164003
+end_trial
+start_trial 580
+0.991936
+0.992265
+0.992058
+end_trial
+start_trial 581
+0.15761
+0.157191
+0.157868
+end_trial
+start_trial 582
+0.802052
+0.802527
+0.807527
+end_trial
+start_trial 583
+0.512999
+0.484482
+0.5623
+end_trial
+start_trial 584
+0.881599
+0.878762
+0.880976
+end_trial
+start_trial 585
+0.563505
+0.573024
+0.563522
+end_trial
+start_trial 586
+0.876897
+0.877917
+0.877416
+end_trial
+start_trial 587
+0.310376
+0.310674
+0.310382
+end_trial
+start_trial 588
+0.987254
+0.985671
+0.985994
+end_trial
+start_trial 589
+0.535391
+0.53438
+0.55567
+end_trial
+start_trial 590
+0.958107
+0.937694
+0.958157
+end_trial
+start_trial 591
+0.312564
+0.312448
+0.312422
+end_trial
+start_trial 592
+0.389988
+0.390087
+0.390049
+end_trial
+start_trial 593
+0.1551
+0.154795
+0.155348
+end_trial
+start_trial 594
+0.154368
+0.153515
+0.154506
+end_trial
+start_trial 595
+0.404204
+0.413622
+0.41408
+end_trial
+start_trial 596
+0.538499
+0.538723
+0.546464
+end_trial
+start_trial 597
+0.155028
+0.154259
+0.154223
+end_trial
+start_trial 598
+0.15497
+0.121451
+0.143821
+end_trial
+start_trial 599
+0.574657
+0.574734
+0.575417
+end_trial
+start_trial 600
+0.979892
+0.978578
+0.980198
+end_trial
+start_trial 601
+0.232342
+0.232298
+0.232283
+end_trial
+start_trial 602
+0.552746
+0.552773
+0.557542
+end_trial
+start_trial 603
+0.15995
+0.154131
+0.153866
+end_trial
+start_trial 604
+0.542145
+0.571024
+0.532542
+end_trial
+start_trial 605
+0.144767
+0.145876
+0.144746
+end_trial
+start_trial 606
+0.44305
+0.424136
+0.443009
+end_trial
+start_trial 607
+0.157104
+0.157078
+0.157075
+end_trial
+start_trial 608
+0.384844
+0.374139
+0.374148
+end_trial
+start_trial 609
+0.194691
+0.202398
+0.186929
+end_trial
+start_trial 610
+0.271392
+0.24952
+0.207094
+end_trial
+start_trial 611
+0.140791
+0.112271
+0.0854838
+end_trial
+start_trial 612
+0.554084
+0.563933
+0.554094
+end_trial
+start_trial 613
+0.169879
+0.170734
+0.16854
+end_trial
+start_trial 614
+0.56433
+0.549104
+0.579732
+end_trial
+start_trial 615
+0.158657
+0.153374
+0.172676
+end_trial
+start_trial 616
+0.565534
+0.565685
+0.573193
+end_trial
+start_trial 617
+0.226992
+0.225949
+0.226212
+end_trial
+start_trial 618
+0.226072
+0.225957
+0.225962
+end_trial
+start_trial 619
+0.226225
+0.226362
+0.228175
+end_trial
+start_trial 620
+0.153341
+0.153703
+0.153393
+end_trial
+start_trial 621
+0.155478
+0.154703
+0.154932
+end_trial
+start_trial 622
+0.394317
+0.394601
+0.394631
+end_trial
+start_trial 623
+end_trial
+start_trial 624
+end_trial
+start_trial 625
+end_trial
+start_trial 626
+end_trial
+start_trial 627
+end_trial
+start_trial 628
+end_trial
+start_trial 629
+end_trial
+start_trial 630
+end_trial
+start_trial 631
+end_trial
+start_trial 632
+end_trial
+start_trial 633
+end_trial
+start_trial 634
+end_trial
+start_trial 635
+end_trial
+start_trial 636
+end_trial
+start_trial 637
+end_trial
+start_trial 638
+end_trial
+start_trial 639
+end_trial
+start_trial 640
+end_trial
+start_trial 641
+end_trial
+start_trial 642
+end_trial
+start_trial 643
+end_trial
+start_trial 644
+end_trial
+start_trial 645
+end_trial
+start_trial 646
+end_trial
+start_trial 647
+end_trial
+start_trial 648
+end_trial
+start_trial 649
+end_trial
+start_trial 650
+0.771751
+0.772968
+0.771386
+end_trial
+start_trial 651
+0.536496
+0.535974
+0.536736
+end_trial
+start_trial 652
+0.773578
+0.773851
+0.774219
+end_trial
+start_trial 653
+0.523113
+0.532856
+0.51355
+end_trial
+start_trial 654
+0.236047
+0.234134
+0.235389
+end_trial
+start_trial 655
+0.503906
+0.513778
+0.473928
+end_trial
+start_trial 656
+0.234968
+0.234325
+0.234725
+end_trial
+start_trial 657
+0.158669
+0.158372
+0.158455
+end_trial
+start_trial 658
+0.638087
+0.638616
+0.635609
+end_trial
+start_trial 659
+0.639317
+-nan
+0.640099
+end_trial
+start_trial 660
+0.16038
+0.15918
+0.15814
+end_trial
+start_trial 661
+0.63315
+0.632312
+0.640134
+end_trial
+start_trial 662
+0.347073
+0.413944
+0.385771
+end_trial
+start_trial 663
+0.635879
+0.633875
+0.633472
+end_trial
+start_trial 664
+0.465205
+0.426258
+0.494291
+end_trial
+start_trial 665
+0.627778
+0.633628
+0.620666
+end_trial
+start_trial 666
+0.591645
+0.593289
+0.597637
+end_trial
+start_trial 667
+0.160882
+0.161216
+0.161543
+end_trial
+start_trial 668
+0.619641
+0.621583
+0.621246
+end_trial
+start_trial 669
+0.159859
+0.160344
+0.159914
+end_trial
+start_trial 670
+0.612662
+0.623353
+0.617593
+end_trial
+start_trial 671
+0.543047
+0.514376
+0.493838
+end_trial
+start_trial 672
+0.240722
+0.240697
+0.243929
+end_trial
+start_trial 673
+0.474675
+0.473944
+0.493735
+end_trial
+start_trial 674
+0.227366
+0.224771
+0.227025
+end_trial
+start_trial 675
+0.570162
+0.570182
+0.570196
+end_trial
+start_trial 676
+0.394002
+0.394095
+0.394736
+end_trial
+start_trial 677
+0.48918
+0.513474
+0.522912
+end_trial
+start_trial 678
+0.398376
+0.398789
+0.398749
+end_trial
+start_trial 679
+-1
+-1
+-1
+end_trial
+start_trial 680
+0.578655
+0.576744
+0.578763
+end_trial
+start_trial 681
+-1
+-1
+-1
+end_trial
+start_trial 682
+0.583729
+0.586403
+0.586049
+end_trial
+start_trial 683
+0.352364
+0.366985
+0.360278
+end_trial
+start_trial 684
+0.570411
+0.586965
+0.592673
+end_trial
+start_trial 685
+0.375141
+0.365954
+0.404209
+end_trial
+start_trial 686
+0.635282
+0.617723
+0.625413
+end_trial
+start_trial 687
+0.310443
+0.311937
+0.312194
+end_trial
+start_trial 688
+0.634549
+0.603255
+0.61029
+end_trial
+start_trial 689
+0.442786
+0.423495
+0.394889
+end_trial
+start_trial 690
+0.634418
+0.633878
+0.610277
+end_trial
+start_trial 691
+-1
+-1
+-1
+end_trial
+start_trial 692
+0.577514
+0.576021
+0.568832
+end_trial
+start_trial 693
+-1
+-1
+-1
+end_trial
+start_trial 694
+0.561743
+0.577847
+0.578341
+end_trial
+start_trial 695
+0.560613
+0.570115
+0.560612
+end_trial
+start_trial 696
+0.394029
+0.39443
+0.393863
+end_trial
+start_trial 697
+0.565505
+0.565489
+0.546537
+end_trial
+start_trial 698
+0.394532
+0.394533
+0.394562
+end_trial
+start_trial 699
+0.522885
+0.493832
+0.523666
+end_trial
+start_trial 700
+0.364647
+0.364629
+0.364701
+end_trial
+start_trial 701
+0.494081
+0.47391
+0.513861
+end_trial
+start_trial 702
+0.417893
+0.417967
+0.418248
+end_trial
+start_trial 703
+0.310227
+0.310585
+0.3104
+end_trial
+start_trial 704
+0.310337
+0.311017
+0.310296
+end_trial
+start_trial 705
+0.468494
+0.467117
+0.468927
+end_trial
+start_trial 706
+0.309956
+0.310268
+0.310143
+end_trial
+start_trial 707
+0.478589
+0.487559
+0.470771
+end_trial
+start_trial 708
+0.526388
+0.533899
+0.519891
+end_trial
+start_trial 709
+0.30981
+0.309613
+0.310046
+end_trial
+start_trial 710
+0.474776
+0.494285
+0.485404
+end_trial
+start_trial 711
+0.469756
+0.470314
+0.461122
+end_trial
+start_trial 712
+0.369241
+0.38469
+0.369238
+end_trial
+start_trial 713
+0.454613
+0.422442
+0.486934
+end_trial
+start_trial 714
+0.478368
+0.479816
+0.486184
+end_trial
+start_trial 715
+0.570439
+0.542398
+0.503459
+end_trial
+start_trial 716
+0.393694
+0.397118
+0.393782
+end_trial
+start_trial 717
+0.570803
+0.543548
+0.503801
+end_trial
+start_trial 718
+0.394256
+0.394405
+0.394163
+end_trial
+start_trial 719
+0.542089
+0.503197
+0.56154
+end_trial
+start_trial 720
+0.365108
+0.360263
+0.36507
+end_trial
+start_trial 721
+0.563655
+0.552824
+0.561002
+end_trial
+start_trial 722
+0.413392
+0.413706
+0.413423
+end_trial
+start_trial 723
+0.23426
+0.234541
+0.234449
+end_trial
+start_trial 724
+0.683384
+0.670682
+0.664878
+end_trial
+start_trial 725
+0.638597
+0.629135
+0.633958
+end_trial
+start_trial 726
+0.235374
+0.236158
+0.234487
+end_trial
+start_trial 727
+0.786312
+0.789238
+0.803961
+end_trial
+start_trial 728
+0.86507
+0.866088
+0.867747
+end_trial
+start_trial 729
+0.817001
+0.787569
+0.818042
+end_trial
+start_trial 730
+0.86184
+0.848597
+0.85042
+end_trial
+start_trial 731
+0.494693
+0.49425
+0.494306
+end_trial
+start_trial 732
+0.742369
+0.742067
+0.745746
+end_trial
+start_trial 733
+0.715846
+0.703602
+0.706164
+end_trial
+start_trial 734
+0.235709
+0.235902
+0.236457
+end_trial
+start_trial 735
+0.806729
+0.838846
+0.817563
+end_trial
+start_trial 736
+0.853606
+0.861006
+0.852375
+end_trial
+start_trial 737
+0.796261
+0.784099
+0.78202
+end_trial
+start_trial 738
+0.755138
+0.794643
+0.764281
+end_trial
+start_trial 739
+0.513418
+0.494102
+0.542279
+end_trial
+start_trial 740
+0.410572
+-nan
+0.410876
+end_trial
+start_trial 741
+0.493949
+0.551537
+0.541945
+end_trial
+start_trial 742
+0.370533
+0.370629
+0.370696
+end_trial
+start_trial 743
+0.541639
+0.56078
+0.560785
+end_trial
+start_trial 744
+0.235047
+0.234959
+0.235082
+end_trial
+start_trial 745
+0.565267
+0.565267
+0.57002
+end_trial
+start_trial 746
+0.234994
+0.235066
+0.235029
+end_trial
+start_trial 747
+-1
+-1
+-1
+end_trial
+start_trial 748
+0.472631
+0.470433
+0.470886
+end_trial
+start_trial 749
+0.470374
+0.471173
+0.472845
+end_trial
+start_trial 750
+0.310989
+0.310169
+0.309915
+end_trial
+start_trial 751
+0.565515
+0.564655
+0.565278
+end_trial
+start_trial 752
+0.476879
+0.477906
+0.477949
+end_trial
+start_trial 753
+0.311363
+0.309272
+0.311604
+end_trial
+start_trial 754
+0.478552
+0.48408
+0.477318
+end_trial
+start_trial 755
+0.550147
+0.55102
+0.551959
+end_trial
+start_trial 756
+-1
+-1
+-1
+end_trial
+start_trial 757
+0.471489
+0.473036
+0.471899
+end_trial
+start_trial 758
+0.471675
+0.471674
+0.470935
+end_trial
+start_trial 759
+0.50364
+0.541749
+0.49424
+end_trial
+start_trial 760
+0.266266
+0.27417
+0.245914
+end_trial
+start_trial 761
+0.560693
+0.551104
+0.551156
+end_trial
+start_trial 762
+0.231839
+0.232195
+0.232155
+end_trial
+start_trial 763
+0.668386
+0.676446
+0.674516
+end_trial
+start_trial 764
+0.484383
+0.473636
+0.49426
+end_trial
+start_trial 765
+0.474666
+0.464725
+0.464286
+end_trial
+start_trial 766
+0.501592
+0.515396
+0.50818
+end_trial
+start_trial 767
+0.573597
+0.570777
+0.560496
+end_trial
+start_trial 768
+0.55128
+0.532261
+0.53226
+end_trial
+start_trial 769
+0.561144
+0.542115
+end_trial
+start_trial 770
+0.415603
+0.536022
+0.576314
+end_trial
+start_trial 771
+0.461204
+0.475829
+0.488926
+end_trial
+start_trial 772
+0.656119
+0.645713
+0.64614
+end_trial
+start_trial 773
+0.532994
+0.542748
+0.537701
+end_trial
+start_trial 774
+0.885996
+0.888015
+0.889232
+end_trial
+start_trial 775
+0.297238
+0.304852
+0.298601
+end_trial
+start_trial 776
+0.846356
+0.897367
+0.841071
+end_trial
+start_trial 777
+0.497424
+0.501978
+0.487474
+end_trial
+start_trial 778
+0.15284
+0.152957
+0.152781
+end_trial
+start_trial 779
+0.230516
+0.238558
+0.238156
+end_trial
+start_trial 780
+0.880725
+0.878555
+0.878185
+end_trial
+start_trial 781
+0.306336
+0.305978
+0.329465
+end_trial
+start_trial 782
+0.885418
+0.885054
+0.884362
+end_trial
+start_trial 783
+0.250872
+0.313563
+0.274769
+end_trial
+start_trial 784
+0.636926
+0.562154
+0.608577
+end_trial
+start_trial 785
+0.674908
+0.677952
+0.688505
+end_trial
+start_trial 786
+0.245597
+0.242892
+0.242729
+end_trial
+start_trial 787
+0.994528
+0.994624
+0.994663
+end_trial
+start_trial 788
+0.310819
+0.302413
+0.310043
+end_trial
+start_trial 789
+0.991479
+0.991556
+0.991511
+end_trial
+start_trial 790
+0.561518
+0.54191
+0.522859
+end_trial
+start_trial 791
+0.627176
+0.619244
+0.61926
+end_trial
+start_trial 792
+0.523651
+0.50423
+0.571712
+end_trial
+start_trial 793
+0.627459
+0.632452
+0.627729
+end_trial
+start_trial 794
+0.552996
+0.55256
+0.553443
+end_trial
+start_trial 795
+0.571377
+0.561847
+0.57145
+end_trial
+start_trial 796
+0.403027
+0.405659
+0.405055
+end_trial
+start_trial 797
+0.937166
+0.946992
+0.966872
+end_trial
+start_trial 798
+0.513207
+0.513374
+0.517323
+end_trial
+start_trial 799
+0.892157
+0.900549
+0.912688
+end_trial
+start_trial 800
+0.563596
+0.571623
+0.560861
+end_trial
+start_trial 801
+0.602011
+0.609664
+0.611072
+end_trial
+start_trial 802
+0.494686
+0.543593
+0.494348
+end_trial
+start_trial 803
+0.643493
+0.641573
+0.637569
+end_trial
+start_trial 804
+0.474383
+0.533384
+0.542224
+end_trial
+start_trial 805
+0.572338
+0.484249
+0.542824
+end_trial
+start_trial 806
+0.881933
+0.881594
+0.882441
+end_trial
+start_trial 807
+0.394185
+0.3861
+0.394132
+end_trial
+start_trial 808
+0.856131
+0.844238
+0.853303
+end_trial
+start_trial 809
+0.394076
+0.385676
+0.393855
+end_trial
+start_trial 810
+0.561721
+0.55641
+0.556986
+end_trial
+start_trial 811
+0.567917
+0.566089
+0.570492
+end_trial
+start_trial 812
+0.513593
+0.483828
+0.494225
+end_trial
+start_trial 813
+0.631216
+0.621223
+0.626802
+end_trial
+start_trial 814
+0.495519
+0.514532
+0.473972
+end_trial
+start_trial 815
+0.623293
+0.631413
+0.628338
+end_trial
+start_trial 816
+0.523361
+0.575083
+0.574995
+end_trial
+start_trial 817
+0.554124
+0.562258
+0.571909
+end_trial
+start_trial 818
+0.767692
+0.768177
+0.762638
+end_trial
+start_trial 819
+0.289039
+0.281178
+0.289065
+end_trial
+start_trial 820
+0.657862
+0.65754
+0.650071
+end_trial
+start_trial 821
+0.532806
+0.532727
+0.435901
+end_trial
+start_trial 822
+0.637312
+0.629763
+0.629609
+end_trial
+start_trial 823
+0.585946
+0.590161
+0.587081
+end_trial
+start_trial 824
+0.426216
+-nan
+0.431878
+end_trial
+start_trial 825
+0.987884
+0.981096
+0.988504
+end_trial
+start_trial 826
+0.513765
+0.505063
+0.522091
+end_trial
+start_trial 827
+0.991661
+0.99158
+0.991539
+end_trial
+start_trial 828
+0.658014
+0.666689
+0.662688
+end_trial
+start_trial 829
+0.156105
+0.155874
+0.15585
+end_trial
+start_trial 830
+0.880349
+0.881404
+0.880218
+end_trial
+start_trial 831
+0.551982
+0.542465
+0.561499
+end_trial
+start_trial 832
+0.572338
+0.564193
+0.572434
+end_trial
+start_trial 833
+0.572524
+0.572467
+0.572255
+end_trial
+start_trial 834
+0.977986
+0.985146
+0.979585
+end_trial
+start_trial 835
+0.503234
+0.493738
+0.503241
+end_trial
+start_trial 836
+0.978264
+0.977445
+0.978026
+end_trial
+start_trial 837
+0.233305
+0.233692
+0.233753
+end_trial
+start_trial 838
+0.389901
+0.389912
+0.389765
+end_trial
+start_trial 839
+0.389994
+0.389766
+0.389911
+end_trial
+start_trial 840
+0.493562
+0.484068
+0.493568
+end_trial
+start_trial 841
+0.802844
+0.747342
+0.788716
+end_trial
+start_trial 842
+0.570173
+0.560659
+0.551154
+end_trial
+start_trial 843
+0.880508
+0.881529
+0.879629
+end_trial
+start_trial 844
+0.34687
+0.323157
+0.331071
+end_trial
+start_trial 845
+0.641487
+0.639632
+0.641583
+end_trial
+start_trial 846
+0.489233
+0.498644
+0.479818
+end_trial
+start_trial 847
+0.641573
+0.638963
+0.641013
+end_trial
+start_trial 848
+0.161449
+0.161444
+0.161491
+end_trial
+start_trial 849
+0.848968
+0.870999
+0.829766
+end_trial
+start_trial 850
+0.474823
+0.47488
+0.546712
+end_trial
+start_trial 851
+0.676122
+0.765169
+0.677454
+end_trial
+start_trial 852
+0.888781
+0.889471
+0.888704
+end_trial
+start_trial 853
+0.46062
+0.432401
+0.432402
+end_trial
+start_trial 854
+0.887186
+0.888196
+end_trial
+start_trial 855
+0.283689
+0.291542
+0.291605
+end_trial
+start_trial 856
+0.560834
+0.560746
+0.571187
+end_trial
+start_trial 857
+0.565558
+0.562488
+0.565367
+end_trial
+start_trial 858
+0.154784
+0.13687
+0.137443
+end_trial
+start_trial 859
+0.740883
+0.772399
+0.752679
+end_trial
+start_trial 860
+0.494803
+0.494588
+0.494685
+end_trial
+start_trial 861
+0.655492
+0.756125
+0.679522
+end_trial
+start_trial 862
+0.875238
+0.873452
+0.874423
+end_trial
+start_trial 863
+-nan
+0.392514
+0.392541
+end_trial
+start_trial 864
+0.873681
+0.873949
+0.875461
+end_trial
+start_trial 865
+0.404197
+0.423007
+0.394782
+end_trial
+start_trial 866
+0.846929
+0.827692
+0.848046
+end_trial
+start_trial 867
+0.849594
+0.840183
+0.850357
+end_trial
+start_trial 868
+0.573304
+0.573308
+0.573307
+end_trial
+start_trial 869
+0.762509
+0.781196
+0.753507
+end_trial
+start_trial 870
+0.160225
+0.160239
+0.15763
+end_trial
+start_trial 871
+0.855728
+0.829185
+0.854045
+end_trial
+start_trial 872
+0.403552
+0.401569
+0.404805
+end_trial
+start_trial 873
+0.638733
+0.640005
+0.638879
+end_trial
+start_trial 874
+0.399861
+0.395748
+-nan
+end_trial
+start_trial 875
+0.841498
+0.821491
+0.821305
+end_trial
+start_trial 876
+-nan
+0.477517
+0.482039
+end_trial
+start_trial 877
+0.483023
+0.478442
+0.477678
+end_trial
+start_trial 878
+0.874555
+0.874559
+0.876677
+end_trial
+start_trial 879
+0.394201
+-nan
+0.394235
+end_trial
+start_trial 880
+0.873888
+0.875538
+0.874775
+end_trial
+start_trial 881
+0.404199
+0.4136
+0.404196
+end_trial
+start_trial 882
+0.746011
+0.727025
+0.757817
+end_trial
+start_trial 883
+0.79438
+0.795666
+0.813318
+end_trial
+start_trial 884
+0.482369
+0.482827
+0.483252
+end_trial
+start_trial 885
+0.860516
+0.841724
+0.86024
+end_trial
+start_trial 886
+0.362708
+0.362729
+0.344095
+end_trial
+start_trial 887
+0.796168
+0.792208
+0.720116
+end_trial
+start_trial 888
+0.39201
+0.392586
+0.39246
+end_trial
+start_trial 889
+0.389721
+0.38957
+0.389963
+end_trial
+start_trial 890
+0.66018
+0.66803
+0.68764
+end_trial
+start_trial 891
+0.479947
+0.48127
+0.482814
+end_trial
+start_trial 892
+0.878093
+0.87859
+0.877471
+end_trial
+start_trial 893
+0.479049
+0.497799
+0.478801
+end_trial
+start_trial 894
+0.62295
+0.642544
+0.637961
+end_trial
+start_trial 895
+0.73402
+0.692884
+0.732644
+end_trial
+start_trial 896
+0.160495
+0.160514
+0.160719
+end_trial
+start_trial 897
+0.87322
+0.872117
+0.871854
+end_trial
+start_trial 898
+0.161358
+0.163783
+0.162731
+end_trial
+start_trial 899
+0.87621
+0.8761
+0.876768
+end_trial
+start_trial 900
+0.158905
+0.158889
+0.159065
+end_trial
+start_trial 901
+0.994516
+0.994518
+0.994509
+end_trial
+start_trial 902
+0.514128
+0.514287
+0.514233
+end_trial
+start_trial 903
+0.994481
+0.994244
+0.994404
+end_trial
+start_trial 904
+0.871619
+0.873575
+0.874119
+end_trial
+start_trial 905
+0.319072
+0.311227
+0.320453
+end_trial
+start_trial 906
+0.983504
+0.994409
+0.993754
+end_trial
+start_trial 907
+0.523395
+0.504141
+0.504139
+end_trial
+start_trial 908
+0.778999
+0.781313
+0.802543
+end_trial
+start_trial 909
+0.78886
+0.789377
+-nan
+end_trial
+start_trial 910
+0.909737
+0.910899
+0.91114
+end_trial
+start_trial 911
+0.347993
+0.355903
+0.362541
+end_trial
+start_trial 912
+0.968432
+0.946122
+0.925595
+end_trial
+start_trial 913
+0.432604
+0.4232
+0.413793
+end_trial
+start_trial 914
+0.875258
+0.875599
+0.874573
+end_trial
+start_trial 915
+0.875939
+-nan
+0.878909
+end_trial
+start_trial 916
+0.626892
+0.595642
+0.625901
+end_trial
+start_trial 917
+0.89949
+0.920426
+0.911418
+end_trial
+start_trial 918
+0.236832
+0.236928
+0.236851
+end_trial
+start_trial 919
+0.947279
+0.946874
+0.937322
+end_trial
+start_trial 920
+0.315658
+0.315552
+0.315537
+end_trial
+start_trial 921
+0.872993
+0.872882
+0.87268
+end_trial
+start_trial 922
+0.464545
+0.473963
+0.464308
+end_trial
+start_trial 923
+0.873312
+0.875
+0.874702
+end_trial
+start_trial 924
+0.920023
+0.953608
+0.91281
+end_trial
+start_trial 925
+0.37892
+0.386462
+0.389426
+end_trial
+start_trial 926
+0.956108
+0.934553
+0.932342
+end_trial
+start_trial 927
+0.48544
+0.473188
+0.462758
+end_trial
+start_trial 928
+0.872461
+0.873066
+0.871657
+end_trial
+start_trial 929
+0.85022
+0.859346
+0.849567
+end_trial
+start_trial 930
+0.355279
+0.374673
+0.384956
+end_trial
+start_trial 931
+0.989465
+0.989474
+0.989434
+end_trial
+start_trial 932
+0.313723
+0.313718
+0.322331
+end_trial
+start_trial 933
+0.989457
+0.98944
+0.989405
+end_trial
+start_trial 934
+0.882456
+0.894207
+0.884777
+end_trial
+start_trial 935
+0.364924
+0.373092
+0.356545
+end_trial
+start_trial 936
+0.895895
+0.905416
+0.88652
+end_trial
+start_trial 937
+0.413623
+0.413615
+0.413638
+end_trial
+start_trial 938
+-nan
+0.853065
+0.850188
+end_trial
+start_trial 939
+0.830776
+0.843754
+0.832699
+end_trial
+start_trial 940
+0.327303
+0.327337
+0.327298
+end_trial
+start_trial 941
+0.989538
+0.989547
+0.989536
+end_trial
+start_trial 942
+0.492506
+0.492669
+0.492961
+end_trial
+start_trial 943
+0.936425
+0.953032
+-nan
+end_trial
+start_trial 944
+0.454221
+0.454332
+0.454234
+end_trial
+start_trial 945
+0.87743
+0.876746
+0.876497
+end_trial
+start_trial 946
+0.313788
+0.31383
+0.313905
+end_trial
+start_trial 947
+0.875554
+0.874691
+0.874714
+end_trial
+start_trial 948
+0.158913
+0.15944
+0.159451
+end_trial
+start_trial 949
+0.950789
+0.92174
+0.927137
+end_trial
+start_trial 950
+0.156613
+0.156616
+0.156653
+end_trial
+start_trial 951
+0.989414
+0.989603
+0.989443
+end_trial
+start_trial 952
+0.374617
+0.374285
+0.365225
+end_trial
+start_trial 953
+0.848286
+0.806536
+0.84208
+end_trial
+start_trial 954
+0.483882
+0.474416
+0.483833
+end_trial
+start_trial 955
+0.8628
+0.854027
+0.850724
+end_trial
+start_trial 956
+0.442797
+0.433375
+0.433376
+end_trial
+start_trial 957
+0.845091
+0.84722
+0.835397
+end_trial
+start_trial 958
+0.307322
+0.31519
+0.307324
+end_trial
+start_trial 959
+0.841309
+0.854552
+0.86194
+end_trial
+start_trial 960
+0.880958
+0.880322
+0.879727
+end_trial
+start_trial 961
+0.944489
+0.943378
+0.902954
+end_trial
+start_trial 962
+0.87824
+0.879401
+0.879196
+end_trial
+start_trial 963
+0.986514
+0.98661
+0.973327
+end_trial
+start_trial 964
+0.64655
+0.659601
+0.656632
+end_trial
+start_trial 965
+0.88786
+0.888807
+0.889237
+end_trial
+start_trial 966
+0.577991
+0.568996
+0.572279
+end_trial
+start_trial 967
+0.99755
+0.997957
+0.997613
+end_trial
+start_trial 968
+0.828923
+0.807351
+0.777782
+end_trial
+start_trial 969
+0.874605
+0.864845
+0.862486
+end_trial
+start_trial 970
+0.97914
+0.966474
+0.968305
+end_trial
+start_trial 971
+0.393966
+0.393956
+0.393986
+end_trial
+start_trial 972
+0.936808
+0.888706
+0.94326
+end_trial
+start_trial 973
+0.404198
+0.404199
+0.404198
+end_trial
+start_trial 974
+0.852624
+0.841258
+0.862501
+end_trial
+start_trial 975
+0.857088
+0.866886
+0.867672
+end_trial
+start_trial 976
+end_trial
+start_trial 977
+0.886416
+0.886431
+0.88645
+end_trial
+start_trial 978
+0.428456
+0.436453
+0.428424
+end_trial
+start_trial 979
+0.646722
+0.646471
+0.649263
+end_trial
+start_trial 980
+0.410514
+0.420561
+0.404335
+end_trial
+start_trial 981
+0.987399
+-nan
+0.986895
+end_trial
+start_trial 982
+0.397139
+0.397314
+0.413277
+end_trial
+start_trial 983
+0.891647
+0.893806
+0.891657
+end_trial
+start_trial 984
+0.822998
+0.818382
+0.783633
+end_trial
+start_trial 985
+0.715417
+0.645041
+0.624073
+end_trial
+start_trial 986
+0.872529
+0.858421
+0.869564
+end_trial
+start_trial 987
+0.566548
+0.566419
+0.56657
+end_trial
+start_trial 988
+0.868317
+0.866761
+0.867929
+end_trial
+start_trial 989
+0.566577
+0.566583
+0.56636
+end_trial
+start_trial 990
+0.807666
+0.752168
+end_trial
+start_trial 991
+0.848578
+0.849964
+0.848531
+end_trial
+start_trial 992
+0.315025
+0.315097
+0.315025
+end_trial
+start_trial 993
+0.830561
+0.826994
+0.840092
+end_trial
+start_trial 994
+0.23905
+0.239069
+0.239047
+end_trial
+start_trial 995
+0.828794
+0.81771
+0.797535
+end_trial
+start_trial 996
+0.45329
+0.45729
+0.441534
+end_trial
+start_trial 997
+0.987849
+0.987799
+0.987596
+end_trial
+start_trial 998
+0.391575
+0.391837
+0.392921
+end_trial
+start_trial 999
+0.888252
+0.887857
+0.888729
+end_trial
+start_trial 1000
+0.475276
+0.474963
+0.475285
+end_trial
+start_trial 1001
+0.446259
+0.459098
+0.451235
+end_trial
+start_trial 1002
+0.874403
+0.872679
+0.874907
+end_trial
+start_trial 1003
+0.566418
+0.566432
+0.566452
+end_trial
+start_trial 1004
+0.977252
+0.96792
+0.936232
+end_trial
+start_trial 1005
+0.566731
+0.56674
+0.566399
+end_trial
+start_trial 1006
+0.878135
+0.87915
+0.879223
+end_trial
+start_trial 1007
+0.852493
+0.861196
+0.872226
+end_trial
+start_trial 1008
+0.398931
+0.390806
+0.398843
+end_trial
+start_trial 1009
+0.86785
+0.868947
+0.870308
+end_trial
+start_trial 1010
+0.398974
+0.398687
+0.398788
+end_trial
+start_trial 1011
+0.840013
+0.829257
+0.842448
+end_trial
+start_trial 1012
+0.393509
+0.393452
+0.393437
+end_trial
+start_trial 1013
+0.997131
+0.997116
+0.997127
+end_trial
+start_trial 1014
+0.490879
+0.491777
+0.489434
+end_trial
+start_trial 1015
+0.987086
+0.986731
+0.977388
+end_trial
+start_trial 1016
+0.165003
+0.157267
+0.165088
+end_trial
+start_trial 1017
+0.993289
+0.99393
+0.983331
+end_trial
+start_trial 1018
+0.574047
+0.545348
+0.564484
+end_trial
+start_trial 1019
+0.997423
+0.997436
+0.997427
+end_trial
+start_trial 1020
+0.982548
+0.981833
+0.980597
+end_trial
+start_trial 1021
+0.398933
+0.398347
+0.399375
+end_trial
+start_trial 1022
+0.98411
+0.981973
+0.983207
+end_trial
+start_trial 1023
+0.433323
+0.433301
+0.442714
+end_trial
+start_trial 1024
+0.580209
+0.585979
+0.586756
+end_trial
+start_trial 1025
+0.571277
+0.570631
+0.570791
+end_trial
+start_trial 1026
+0.167402
+0.167557
+0.167583
+end_trial
+start_trial 1027
+0.666351
+0.69412
+0.689831
+end_trial
+start_trial 1028
+0.47482
+0.474866
+0.474828
+end_trial
+start_trial 1029
+0.879205
+0.874725
+0.88166
+end_trial
+start_trial 1030
+0.484293
+0.465047
+0.47481
+end_trial
+start_trial 1031
+0.734636
+0.735592
+0.755084
+end_trial
+start_trial 1032
+0.313849
+0.314931
+0.314038
+end_trial
+start_trial 1033
+0.754055
+0.734156
+0.763733
+end_trial
+start_trial 1034
+0.50381
+0.474998
+0.494003
+end_trial
+start_trial 1035
+0.878717
+0.879439
+0.880613
+end_trial
+start_trial 1036
+0.866322
+0.865833
+0.863879
+end_trial
+start_trial 1037
+0.712154
+0.711598
+0.716656
+end_trial
+start_trial 1038
+0.167185
+0.161454
+0.161819
+end_trial
+start_trial 1039
+0.15657
+0.162856
+0.164285
+end_trial
+start_trial 1040
+0.551499
+0.551424
+0.551493
+end_trial
+start_trial 1041
+0.561753
+0.564907
+0.568346
+end_trial
+start_trial 1042
+0.570712
+0.561201
+0.561202
+end_trial
+start_trial 1043
+0.546945
+0.546526
+0.550455
+end_trial
+start_trial 1044
+0.627482
+0.631979
+0.567066
+end_trial
+start_trial 1045
+0.580969
+0.577784
+-nan
+end_trial
+start_trial 1046
+0.54789
+0.547135
+0.540109
+end_trial
+start_trial 1047
+0.625527
+0.612914
+0.587833
+end_trial
+start_trial 1048
+0.485731
+0.470546
+0.491233
+end_trial
+start_trial 1049
+0.48329
+0.48455
+0.464035
+end_trial
+start_trial 1050
+0.577815
+0.623065
+0.62908
+end_trial
+start_trial 1051
+0.390052
+0.390021
+0.389625
+end_trial
+start_trial 1052
+0.764649
+0.784439
+0.761131
+end_trial
+start_trial 1053
+0.856312
+0.856326
+0.85633
+end_trial
+start_trial 1054
+0.259157
+0.251586
+0.264778
+end_trial
+start_trial 1055
+0.786005
+0.816752
+0.750905
+end_trial
+start_trial 1056
+0.738243
+0.753089
+0.753813
+end_trial
+start_trial 1057
+0.485899
+0.48587
+0.486019
+end_trial
+start_trial 1058
+0.806535
+0.783121
+0.795989
+end_trial
+start_trial 1059
+0.468053
+0.467706
+0.468143
+end_trial
+start_trial 1060
+-1
+-1
+-1
+end_trial
+start_trial 1061
+0.503806
+0.50382
+0.503838
+end_trial
+start_trial 1062
+-1
+-1
+-1
+end_trial
+start_trial 1063
+0.560618
+0.560511
+0.556762
+end_trial
+start_trial 1064
+0.1571
+0.157181
+0.157275
+end_trial
+start_trial 1065
+0.887904
+0.887532
+0.887027
+end_trial
+start_trial 1066
+0.6055
+0.62466
+0.605631
+end_trial
+start_trial 1067
+0.872626
+0.870008
+0.871285
+end_trial
+start_trial 1068
+0.443487
+0.443352
+0.452954
+end_trial
+start_trial 1069
+0.643287
+0.64263
+0.64323
+end_trial
+start_trial 1070
+0.329467
+0.329453
+0.321512
+end_trial
+start_trial 1071
+0.578634
+0.58699
+0.586891
+end_trial
+start_trial 1072
+0.364653
+0.333046
+0.348804
+end_trial
+start_trial 1073
+0.819414
+0.817231
+0.827187
+end_trial
+start_trial 1074
+0.309167
+0.340637
+0.325149
+end_trial
+start_trial 1075
+0.854355
+0.850785
+0.87047
+end_trial
+start_trial 1076
+0.514955
+0.062013
+0.00466397
+end_trial
+start_trial 1077
+0.903671
+0.927426
+-nan
+end_trial
+start_trial 1078
+0.898066
+0.928174
+0.918135
+end_trial
+start_trial 1079
+0.392361
+0.392742
+0.39373
+end_trial
+start_trial 1080
+0.711853
+0.725704
+0.654114
+end_trial
+start_trial 1081
+0.474488
+0.464976
+0.474484
+end_trial
+start_trial 1082
+0.683692
+0.661792
+0.663421
+end_trial
+start_trial 1083
+0.281727
+0.313094
+0.313198
+end_trial
+start_trial 1084
+0.699145
+0.695686
+0.714033
+end_trial
+start_trial 1085
+0.484449
+0.504292
+0.503854
+end_trial
+start_trial 1086
+0.650768
+0.649391
+0.651102
+end_trial
+start_trial 1087
+0.573638
+0.564075
+0.573639
+end_trial
+start_trial 1088
+0.897877
+0.917867
+0.92782
+end_trial
+start_trial 1089
+0.897974
+0.89779
+0.898097
+end_trial
+start_trial 1090
+0.156894
+0.156791
+0.156826
+end_trial
+start_trial 1091
+0.879796
+0.877362
+0.879085
+end_trial
+start_trial 1092
+0.542174
+0.55173
+0.542155
+end_trial
+start_trial 1093
+0.883661
+0.884343
+0.884367
+end_trial
+start_trial 1094
+0.313229
+0.313069
+0.313142
+end_trial
+start_trial 1095
+0.693658
+0.694642
+0.693021
+end_trial
+start_trial 1096
+0.513171
+0.494194
+0.513145
+end_trial
+start_trial 1097
+0.734602
+0.726701
+0.737618
+end_trial
+start_trial 1098
+0.153858
+0.153905
+0.153846
+end_trial
+start_trial 1099
+0.958196
+0.958037
+0.97767
+end_trial
+start_trial 1100
+0.898246
+0.898267
+0.898261
+end_trial
+start_trial 1101
+0.164277
+0.166642
+0.165326
+end_trial
+start_trial 1102
+0.894386
+0.893864
+0.895057
+end_trial
+start_trial 1103
+0.160063
+0.167287
+0.158825
+end_trial
+start_trial 1104
+0.885151
+0.884149
+0.884229
+end_trial
+start_trial 1105
+0.31392
+0.313896
+0.313988
+end_trial
+start_trial 1106
+0.635123
+0.643101
+0.635054
+end_trial
+start_trial 1107
+0.444953
+0.444965
+0.435485
+end_trial
+start_trial 1108
+0.570743
+0.562659
+0.570954
+end_trial
+start_trial 1109
+0.551444
+0.570454
+0.570469
+end_trial
+start_trial 1110
+0.841361
+0.851323
+0.848721
+end_trial
+start_trial 1111
+0.570437
+0.551412
+0.570434
+end_trial
+start_trial 1112
+0.84123
+0.850267
+0.850864
+end_trial
+start_trial 1113
+0.868606
+0.86826
+0.869424
+end_trial
+start_trial 1114
+0.87555
+0.873961
+0.8734
+end_trial
+start_trial 1115
+0.570576
+0.570488
+0.570572
+end_trial
+start_trial 1116
+0.541844
+0.551868
+0.561465
+end_trial
+start_trial 1117
+0.786861
+-nan
+0.796234
+end_trial
+start_trial 1118
+0.767088
+0.765721
+0.760732
+end_trial
+start_trial 1119
+0.277015
+0.295113
+0.276523
+end_trial
+start_trial 1120
+0.874798
+0.876529
+0.874685
+end_trial
+start_trial 1121
+0.235409
+0.235384
+end_trial
+start_trial 1122
+0.881548
+-nan
+0.879645
+end_trial
+start_trial 1123
+0.38381
+0.393284
+0.366262
+end_trial
+start_trial 1124
+0.592168
+0.612173
+0.624878
+end_trial
+start_trial 1125
+0.388231
+0.390723
+0.388973
+end_trial
+start_trial 1126
+0.562849
+0.563187
+0.562689
+end_trial
+start_trial 1127
+0.358352
+0.363153
+0.353851
+end_trial
+start_trial 1128
+0.413621
+0.39479
+0.404187
+end_trial
+start_trial 1129
+0.570733
+0.570737
+0.57073
+end_trial
+start_trial 1130
+0.817475
+0.782201
+0.807306
+end_trial
+start_trial 1131
+0.570742
+0.551634
+0.551658
+end_trial
+start_trial 1132
+0.745535
+0.746349
+0.748014
+end_trial
+start_trial 1133
+0.712927
+0.725832
+0.72966
+end_trial
+start_trial 1134
+0.398092
+0.398139
+0.398115
+end_trial
+start_trial 1135
+0.744046
+0.753983
+0.759774
+end_trial
+start_trial 1136
+0.398124
+0.398174
+0.398218
+end_trial
+start_trial 1137
+0.741207
+0.761368
+0.77986
+end_trial
+start_trial 1138
+0.647981
+0.661297
+0.677547
+end_trial
+start_trial 1139
+0.22797
+0.227938
+0.235844
+end_trial
+start_trial 1140
+0.612377
+0.603909
+0.604293
+end_trial
+start_trial 1141
+0.235506
+0.23551
+0.235439
+end_trial
+start_trial 1142
+0.565936
+0.565877
+0.565931
+end_trial
+start_trial 1143
+0.156192
+0.156224
+0.156176
+end_trial
+start_trial 1144
+0.998255
+0.998242
+0.998235
+end_trial
+start_trial 1145
+0.998368
+0.998375
+0.998334
+end_trial
+start_trial 1146
+0.994258
+0.99433
+0.994333
+end_trial
+start_trial 1147
+0.887753
+0.887711
+0.897584
+end_trial
+start_trial 1148
+0.0327339
+0.0328628
+0.0165298
+end_trial
+start_trial 1149
+0.998542
+0.998537
+0.998548
+end_trial
+start_trial 1150
+0.154631
+0.153275
+0.153291
+end_trial
+start_trial 1151
+0.978635
+0.988631
+0.988632
+end_trial
+start_trial 1152
+0.570543
+0.57055
+0.551518
+end_trial
+start_trial 1153
+-nan
+0.85156
+0.848492
+end_trial
+start_trial 1154
+0.570723
+0.551618
+0.570695
+end_trial
+start_trial 1155
+0.861167
+0.851613
+0.850474
+end_trial
+start_trial 1156
+0.863985
+0.874072
+0.876018
+end_trial
+start_trial 1157
+0.400225
+-nan
+0.396555
+end_trial
+start_trial 1158
+0.742778
+0.747906
+0.745217
+end_trial
+start_trial 1159
+0.399815
+0.398864
+0.399465
+end_trial
+start_trial 1160
+0.543721
+0.549826
+0.543794
+end_trial
+start_trial 1161
+0.595979
+0.604051
+0.604064
+end_trial
+start_trial 1162
+0.212629
+0.220535
+0.204719
+end_trial
+start_trial 1163
+0.625158
+0.625259
+0.625372
+end_trial
+start_trial 1164
+0.212316
+0.204477
+0.212294
+end_trial
+start_trial 1165
+0.623241
+0.623306
+0.623549
+end_trial
+start_trial 1166
+0.156915
+0.157015
+0.156867
+end_trial
+start_trial 1167
+0.988269
+0.988529
+0.988428
+end_trial
+start_trial 1168
+0.987562
+0.987348
+0.988361
+end_trial
+start_trial 1169
+0.753412
+0.75354
+0.753242
+end_trial
+start_trial 1170
+0.777465
+-nan
+0.775977
+end_trial
+start_trial 1171
+0.605414
+0.605441
+0.605377
+end_trial
+start_trial 1172
+0.978316
+0.988308
+0.988365
+end_trial
+start_trial 1173
+0.15602
+0.156056
+0.156001
+end_trial
+start_trial 1174
+0.987749
+0.987693
+0.987694
+end_trial
+start_trial 1175
+0.451956
+0.475678
+0.467735
+end_trial
+start_trial 1176
+0.626189
+0.641442
+0.651036
+end_trial
+start_trial 1177
+0.366038
+0.375424
+0.347264
+end_trial
+start_trial 1178
+0.816268
+0.81375
+0.846706
+end_trial
+start_trial 1179
+0.451148
+0.451959
+0.451987
+end_trial
+start_trial 1180
+0.435704
+0.451558
+0.443643
+end_trial
+start_trial 1181
+0.699632
+0.715413
+0.694952
+end_trial
+start_trial 1182
+0.312058
+0.312111
+0.312154
+end_trial
+start_trial 1183
+0.739318
+0.733057
+end_trial
+start_trial 1184
+0.481676
+0.481675
+0.472233
+end_trial
+start_trial 1185
+0.537724
+0.538411
+0.538258
+end_trial
+start_trial 1186
+0.579943
+0.589226
+0.581584
+end_trial
+start_trial 1187
+0.551303
+0.560809
+0.551302
+end_trial
+start_trial 1188
+0.848457
+0.850587
+0.8495
+end_trial
+start_trial 1189
+0.158621
+0.160393
+0.160364
+end_trial
+start_trial 1190
+0.555198
+-nan
+0.551612
+end_trial
+start_trial 1191
+0.636636
+0.612735
+0.629318
+end_trial
+start_trial 1192
+0.970251
+0.961641
+0.980307
+end_trial
+start_trial 1193
+0.805633
+0.820009
+0.828412
+end_trial
+start_trial 1194
+0.578591
+0.578385
+0.578493
+end_trial
+start_trial 1195
+0.620894
+0.578522
+0.625722
+end_trial
+start_trial 1196
+0.157825
+0.157828
+0.157756
+end_trial
+start_trial 1197
+0.948596
+0.988506
+0.978546
+end_trial
+start_trial 1198
+0.158675
+0.158664
+0.158714
+end_trial
+start_trial 1199
+0.898735
+0.898743
+0.898743
+end_trial
+start_trial 1200
+0.665224
+0.646667
+0.639041
+end_trial
+start_trial 1201
+0.761372
+0.761068
+0.752762
+end_trial
+start_trial 1202
+0.653761
+0.643475
+0.626742
+end_trial
+start_trial 1203
+0.858716
+0.839463
+0.850744
+end_trial
+start_trial 1204
+0.712932
+0.708963
+0.725546
+end_trial
+start_trial 1205
+0.768299
+0.791449
+0.759976
+end_trial
+start_trial 1206
+0.570996
+0.570991
+0.571004
+end_trial
+start_trial 1207
+0.797342
+0.849973
+0.841534
+end_trial
+start_trial 1208
+0.570844
+0.570789
+0.570841
+end_trial
+start_trial 1209
+0.784778
+0.766084
+0.793965
+end_trial
+start_trial 1210
+0.236373
+0.236121
+0.236198
+end_trial
+start_trial 1211
+0.548795
+0.549015
+0.554703
+end_trial
+start_trial 1212
+0.157117
+0.157094
+0.157161
+end_trial
+start_trial 1213
+0.634891
+0.63533
+0.635124
+end_trial
+start_trial 1214
+0.180469
+0.196859
+0.204797
+end_trial
+start_trial 1215
+0.975501
+0.973446
+0.975113
+end_trial
+start_trial 1216
+0.984277
+0.983887
+0.974264
+end_trial
+start_trial 1217
+0.664571
+0.66455
+0.665972
+end_trial
+start_trial 1218
+0.749176
+0.746302
+0.748623
+end_trial
+start_trial 1219
+0.152847
+0.152846
+0.152854
+end_trial
+start_trial 1220
+0.927882
+0.948424
+0.938172
+end_trial
+start_trial 1221
+0.152859
+0.152915
+0.152918
+end_trial
+start_trial 1222
+0.895133
+0.914982
+0.895483
+end_trial
+start_trial 1223
+0.630402
+0.630699
+0.648539
+end_trial
+start_trial 1224
+0.867215
+0.863814
+0.853208
+end_trial
+start_trial 1225
+0.184096
+0.182322
+0.187032
+end_trial
+start_trial 1226
+0.753584
+0.758566
+0.759912
+end_trial
+start_trial 1227
+0.750291
+0.754861
+0.770949
+end_trial
+start_trial 1228
+0.743303
+0.72413
+0.661758
+end_trial
+start_trial 1229
+0.570359
+-nan
+0.551349
+end_trial
+start_trial 1230
+0.74244
+0.741635
+0.744563
+end_trial
+start_trial 1231
+0.551326
+0.570353
+0.560844
+end_trial
+start_trial 1232
+0.872693
+0.86655
+0.870398
+end_trial
+start_trial 1233
+0.868896
+0.838597
+0.856839
+end_trial
+start_trial 1234
+0.313565
+0.31348
+0.313598
+end_trial
+start_trial 1235
+0.885762
+0.881536
+0.884405
+end_trial
+start_trial 1236
+0.498637
+0.489197
+0.493894
+end_trial
+start_trial 1237
+0.674907
+0.644958
+0.668767
+end_trial
+start_trial 1238
+0.63226
+0.632415
+0.640216
+end_trial
+start_trial 1239
+0.624279
+0.608754
+0.60987
+end_trial
+start_trial 1240
+0.964587
+0.966631
+0.965436
+end_trial
+start_trial 1241
+0.987541
+0.987524
+0.987514
+end_trial
+start_trial 1242
+0.860578
+0.859207
+0.857221
+end_trial
+start_trial 1243
+0.833144
+0.839048
+end_trial
+start_trial 1244
+0.153117
+0.153175
+0.153098
+end_trial
+start_trial 1245
+0.987087
+0.987127
+0.987244
+end_trial
+start_trial 1246
+0.236445
+0.22857
+0.236268
+end_trial
+start_trial 1247
+0.894475
+0.89857
+0.9084
+end_trial
+start_trial 1248
+0.616985
+0.618651
+0.573638
+end_trial
+start_trial 1249
+0.806852
+0.807453
+0.80515
+end_trial
+start_trial 1250
+0.649327
+0.646353
+0.675333
+end_trial
+start_trial 1251
+0.818428
+0.837148
+0.828515
+end_trial
+start_trial 1252
+0.729183
+0.700906
+0.738194
+end_trial
+start_trial 1253
+0.561441
+0.561582
+0.561691
+end_trial
+start_trial 1254
+0.570425
+0.5514
+0.570425
+end_trial
+start_trial 1255
+0.67918
+0.671372
+0.672619
+end_trial
+start_trial 1256
+0.560898
+0.560873
+0.570434
+end_trial
+start_trial 1257
+0.615115
+0.615384
+0.607408
+end_trial
+start_trial 1258
+0.545158
+0.537114
+0.545264
+end_trial
+start_trial 1259
+0.398466
+0.39855
+0.390619
+end_trial
+start_trial 1260
+0.569339
+0.5695
+0.569249
+end_trial
+start_trial 1261
+0.398696
+0.398439
+0.398659
+end_trial
+start_trial 1262
+0.570693
+0.577345
+0.591472
+end_trial
+start_trial 1263
+0.557641
+0.557388
+0.557538
+end_trial
+start_trial 1264
+0.235445
+0.235449
+0.235429
+end_trial
+start_trial 1265
+0.645771
+0.646148
+0.645918
+end_trial
+start_trial 1266
+0.23535
+0.227528
+0.227516
+end_trial
+start_trial 1267
+0.589493
+0.589768
+0.597348
+end_trial
+start_trial 1268
+0.391077
+0.390995
+0.390705
+end_trial
+start_trial 1269
+0.989441
+0.98939
+0.98941
+end_trial
+start_trial 1270
+0.454799
+0.478782
+0.450425
+end_trial
+start_trial 1271
+0.988846
+0.987011
+0.987369
+end_trial
+start_trial 1272
+0.833122
+0.795083
+0.823956
+end_trial
+start_trial 1273
+0.558287
+0.558204
+0.558164
+end_trial
+start_trial 1274
+0.470632
+0.454637
+0.454498
+end_trial
+start_trial 1275
+0.888971
+0.888932
+0.888976
+end_trial
+start_trial 1276
+0.393686
+0.393594
+0.393388
+end_trial
+start_trial 1277
+0.993962
+0.993961
+0.993966
+end_trial
+start_trial 1278
+0.843682
+0.853864
+0.853786
+end_trial
+start_trial 1279
+0.618438
+0.651571
+0.611383
+end_trial
+start_trial 1280
+0.648777
+0.648486
+0.64876
+end_trial
+start_trial 1281
+0.551392
+0.570406
+0.570413
+end_trial
+start_trial 1282
+0.645594
+0.64528
+0.645344
+end_trial
+start_trial 1283
+0.560862
+0.560851
+0.570372
+end_trial
+start_trial 1284
+0.609805
+0.610223
+0.610516
+end_trial
+start_trial 1285
+0.626764
+0.630943
+0.647325
+end_trial
+start_trial 1286
+0.235007
+0.234953
+0.234978
+end_trial
+start_trial 1287
+0.881012
+0.882541
+0.882863
+end_trial
+start_trial 1288
+0.394167
+0.394588
+0.394838
+end_trial
+start_trial 1289
+0.891011
+0.890693
+0.89207
+end_trial
+start_trial 1290
+0.394434
+0.394354
+0.393706
+end_trial
+start_trial 1291
+0.984994
+0.984527
+0.98542
+end_trial
+start_trial 1292
+0.402364
+0.410294
+0.402376
+end_trial
+start_trial 1293
+0.99694
+0.997047
+0.997034
+end_trial
+start_trial 1294
+0.473919
+0.475667
+0.475805
+end_trial
+start_trial 1295
+0.785553
+0.785734
+0.785759
+end_trial
+start_trial 1296
+0.470414
+0.478469
+0.470369
+end_trial
+start_trial 1297
+0.996433
+0.996447
+0.996446
+end_trial
+start_trial 1298
+0.394163
+0.39386
+0.402034
+end_trial
+start_trial 1299
+0.994506
+0.992672
+0.993754
+end_trial
+start_trial 1300
+0.731304
+0.720355
+0.724375
+end_trial
+start_trial 1301
+0.781257
+0.784362
+0.79449
+end_trial
+start_trial 1302
+0.631451
+0.639094
+0.638733
+end_trial
+start_trial 1303
+0.560991
+0.560994
+0.551479
+end_trial
+start_trial 1304
+0.646897
+0.646757
+0.646421
+end_trial
+start_trial 1305
+0.560875
+0.560864
+0.560866
+end_trial
+start_trial 1306
+0.692263
+0.694615
+0.698666
+end_trial
+start_trial 1307
+0.621893
+0.622052
+0.622092
+end_trial
+start_trial 1308
+0.244314
+0.260186
+0.252373
+end_trial
+start_trial 1309
+0.882131
+0.88241
+0.882259
+end_trial
+start_trial 1310
+0.39462
+0.394679
+0.394633
+end_trial
+start_trial 1311
+0.994871
+0.992603
+0.994635
+end_trial
+start_trial 1312
+0.430625
+0.414593
+0.422623
+end_trial
+start_trial 1313
+0.994769
+0.994775
+0.994764
+end_trial
+start_trial 1314
+0.394896
+0.39481
+0.395806
+end_trial
+start_trial 1315
+0.997924
+0.997898
+0.997946
+end_trial
+start_trial 1316
+0.624376
+0.620912
+0.630747
+end_trial
+start_trial 1317
+0.660728
+0.660805
+0.659344
+end_trial
+start_trial 1318
+-nan
+0.462547
+0.462377
+end_trial
+start_trial 1319
+0.998011
+0.998014
+0.998006
+end_trial
+start_trial 1320
+0.431593
+-nan
+0.466167
+end_trial
+start_trial 1321
+0.993254
+0.993205
+0.993232
+end_trial
+start_trial 1322
+0.560199
+0.544262
+0.528187
+end_trial
+start_trial 1323
+0.48757
+0.485858
+0.485847
+end_trial
+start_trial 1324
+0.644531
+0.644976
+0.644598
+end_trial
+start_trial 1325
+0.570326
+0.551301
+0.560812
+end_trial
+start_trial 1326
+0.64368
+0.643327
+0.643619
+end_trial
+start_trial 1327
+0.551279
+0.570301
+0.551282
+end_trial
+start_trial 1328
+0.610467
+0.610246
+0.610304
+end_trial
+start_trial 1329
+0.609099
+0.609229
+0.609057
+end_trial
+start_trial 1330
+0.237412
+0.237545
+0.237544
+end_trial
+start_trial 1331
+0.994493
+0.994872
+0.994708
+end_trial
+start_trial 1332
+0.394129
+0.394073
+0.394069
+end_trial
+start_trial 1333
+0.996568
+0.996473
+0.996582
+end_trial
+start_trial 1334
+0.590325
+0.590423
+0.590393
+end_trial
+start_trial 1335
+0.997583
+0.99759
+0.99758
+end_trial
+start_trial 1336
+0.561776
+0.561674
+0.561881
+end_trial
+start_trial 1337
+0.890466
+0.891445
+0.892078
+end_trial
+start_trial 1338
+0.966995
+0.966941
+0.97691
+end_trial
+start_trial 1339
+0.89367
+0.894457
+0.894621
+end_trial
+start_trial 1340
+0.445549
+0.27954
+0.448394
+end_trial
+start_trial 1341
+0.997668
+0.99768
+0.997657
+end_trial
+start_trial 1342
+0.5878
+0.58769
+0.587909
+end_trial
+start_trial 1343
+-nan
+0.887646
+0.890416
+end_trial
+start_trial 1344
+0.888125
+0.898433
+0.852602
+end_trial
+start_trial 1345
+0.862274
+0.86177
+0.861463
+end_trial
+start_trial 1346
+0.485045
+0.485316
+0.495676
+end_trial
+start_trial 1347
+0.897319
+0.897346
+0.897029
+end_trial
+start_trial 1348
+0.571328
+0.571271
+0.571277
+end_trial
+start_trial 1349
+0.893538
+-nan
+0.893544
+end_trial
+start_trial 1350
+0.867187
+0.865932
+0.864631
+end_trial
+start_trial 1351
+0.840924
+0.853365
+0.845764
+end_trial
+start_trial 1352
+0.43462
+0.434509
+0.444
+end_trial
+start_trial 1353
+0.995118
+-nan
+0.994907
+end_trial
+start_trial 1354
+0.394994
+0.395021
+0.395216
+end_trial
+start_trial 1355
+0.994605
+0.994628
+0.994642
+end_trial
+start_trial 1356
+0.399161
+0.396239
+0.399118
+end_trial
+start_trial 1357
+0.885927
+0.886207
+0.885369
+end_trial
+start_trial 1358
+0.235059
+0.235084
+0.234571
+end_trial
+start_trial 1359
+0.889289
+0.88951
+0.890058
+end_trial
+start_trial 1360
+0.567504
+0.567768
+0.567752
+end_trial
+start_trial 1361
+0.475384
+0.475603
+0.476568
+end_trial
+start_trial 1362
+0.394978
+0.394886
+0.394755
+end_trial
+start_trial 1363
+0.990258
+0.980341
+0.98034
+end_trial
+start_trial 1364
+0.245088
+0.271334
+0.245732
+end_trial
+start_trial 1365
+0.893813
+0.893317
+0.893107
+end_trial
+start_trial 1366
+0.476131
+0.476154
+0.476311
+end_trial
+start_trial 1367
+0.476017
+0.47382
+0.476252
+end_trial
+start_trial 1368
+0.395589
+0.395679
+0.395605
+end_trial
+start_trial 1369
+0.779339
+0.761047
+0.775851
+end_trial
+start_trial 1370
+0.327224
+0.326281
+0.334167
+end_trial
+start_trial 1371
+0.884072
+0.885364
+0.88635
+end_trial
+start_trial 1372
+0.518675
+0.542387
+0.551103
+end_trial
+start_trial 1373
+0.559099
+0.542459
+0.567073
+end_trial
+start_trial 1374
+0.636486
+0.644307
+0.63626
+end_trial
+start_trial 1375
+0.570282
+0.570282
+0.551269
+end_trial
+start_trial 1376
+0.645164
+0.64488
+0.644787
+end_trial
+start_trial 1377
+0.551357
+0.570376
+0.570381
+end_trial
+start_trial 1378
+0.6128
+0.615448
+0.621846
+end_trial
+start_trial 1379
+0.622641
+0.627831
+0.622424
+end_trial
+start_trial 1380
+0.233915
+0.233974
+0.234001
+end_trial
+start_trial 1381
+0.813081
+0.811407
+0.853862
+end_trial
+start_trial 1382
+0.722463
+0.740257
+0.721444
+end_trial
+start_trial 1383
+0.154632
+0.154604
+0.154618
+end_trial
+start_trial 1384
+0.986146
+0.986136
+0.986149
+end_trial
+start_trial 1385
+0.15585
+0.155871
+0.155812
+end_trial
+start_trial 1386
+0.985388
+0.985502
+0.985517
+end_trial
+start_trial 1387
+0.545842
+0.545729
+0.545847
+end_trial
+start_trial 1388
+0.790057
+0.783673
+0.800167
+end_trial
+start_trial 1389
+0.638323
+0.638532
+0.638254
+end_trial
+start_trial 1390
+-nan
+0.287958
+0.287958
+end_trial
+start_trial 1391
+0.477296
+0.477586
+0.482945
+end_trial
+start_trial 1392
+0.494719
+0.56711
+0.515201
+end_trial
+start_trial 1393
+0.988772
+0.988715
+0.98855
+end_trial
+start_trial 1394
+0.235698
+0.235697
+0.235777
+end_trial
+start_trial 1395
+0.990168
+0.990172
+0.990152
+end_trial
+start_trial 1396
+0.478376
+0.478287
+0.478524
+end_trial
+start_trial 1397
+0.989387
+0.998177
+0.998193
+end_trial
+start_trial 1398
+0.989518
+0.989532
+0.989539
+end_trial
+start_trial 1399
+0.477898
+0.478006
+0.477803
+end_trial
+start_trial 1400
+0.572344
+0.57255
+0.571096
+end_trial
+start_trial 1401
+0.80667
+0.817254
+0.837142
+end_trial
+start_trial 1402
+-nan
+0.314572
+0.314857
+end_trial
+start_trial 1403
+0.817333
+0.81785
+0.848952
+end_trial
+start_trial 1404
+0.496828
+0.0440043
+0.5176
+end_trial
+start_trial 1405
+0.155735
+0.155805
+0.155731
+end_trial
+start_trial 1406
+0.989038
+0.993053
+0.989034
+end_trial
+start_trial 1407
+0.536428
+0.495734
+0.555642
+end_trial
+start_trial 1408
+0.998653
+0.998653
+0.99865
+end_trial
+start_trial 1409
+0.477971
+0.478074
+0.477939
+end_trial
+start_trial 1410
+0.989263
+0.989244
+0.989251
+end_trial
+start_trial 1411
+0.989068
+0.989059
+0.989058
+end_trial
+start_trial 1412
+0.495789
+0.51801
+0.487687
+end_trial
+start_trial 1413
+0.469534
+0.468921
+0.469141
+end_trial
+start_trial 1414
+0.86816
+0.8691
+0.86903
+end_trial
+start_trial 1415
+-nan
+0.387025
+0.379655
+end_trial
+start_trial 1416
+-nan
+0.752109
+0.751345
+end_trial
+start_trial 1417
+0.34412
+0.39374
+0.344453
+end_trial
+start_trial 1418
+0.443287
+0.452715
+0.452661
+end_trial
+start_trial 1419
+0.514833
+0.502499
+0.506415
+end_trial
+start_trial 1420
+0.57021
+0.571933
+0.578933
+end_trial
+start_trial 1421
+0.393213
+0.39344
+0.393205
+end_trial
+start_trial 1422
+0.452402
+0.44282
+0.443129
+end_trial
+start_trial 1423
+0.478305
+0.478361
+0.478492
+end_trial
+start_trial 1424
+0.98833
+0.988382
+0.988367
+end_trial
+start_trial 1425
+0.988288
+0.988041
+0.987931
+end_trial
+start_trial 1426
+0.312945
+0.312775
+0.312756
+end_trial
+start_trial 1427
+0.313752
+0.313748
+0.313836
+end_trial
+start_trial 1428
+0.830139
+0.848319
+0.827027
+end_trial
+start_trial 1429
+0.393683
+0.393624
+0.385822
+end_trial
+start_trial 1430
+0.817716
+0.783405
+0.786229
+end_trial
+start_trial 1431
+0.350021
+0.381848
+0.36576
+end_trial
+start_trial 1432
+0.545526
+0.545179
+0.545083
+end_trial
+start_trial 1433
+0.993848
+0.993848
+0.993684
+end_trial
+start_trial 1434
+0.99382
+0.998306
+0.998082
+end_trial
+start_trial 1435
+0.661573
+0.66211
+0.661057
+end_trial
+start_trial 1436
+0.776633
+0.807018
+0.806416
+end_trial
+start_trial 1437
+0.0328718
+0.0333684
+0.0413122
+end_trial
+start_trial 1438
+0.877434
+0.886
+0.875734
+end_trial
+start_trial 1439
+0.156331
+0.156256
+0.156284
+end_trial
+start_trial 1440
+0.989901
+0.989914
+0.989889
+end_trial
+start_trial 1441
+0.551168
+0.570176
+0.570172
+end_trial
+start_trial 1442
+0.863456
+0.864533
+0.862823
+end_trial
+start_trial 1443
+0.55124
+0.570299
+0.560747
+end_trial
+start_trial 1444
+0.884291
+0.886058
+0.885176
+end_trial
+start_trial 1445
+0.916944
+0.916851
+0.926774
+end_trial
+start_trial 1446
+0.493693
+0.493677
+0.49369
+end_trial
+start_trial 1447
+0.891155
+0.892394
+0.887973
+end_trial
+start_trial 1448
+0.220844
+0.220829
+0.205066
+end_trial
+start_trial 1449
+0.88405
+0.884168
+0.884502
+end_trial
+start_trial 1450
+0.884803
+0.884949
+0.884853
+end_trial
+start_trial 1451
+0.551429
+0.551446
+0.551429
+end_trial
+start_trial 1452
+0.570962
+0.571206
+0.571304
+end_trial
+start_trial 1453
+0.894628
+0.893759
+0.893848
+end_trial
+start_trial 1454
+0.551083
+0.541581
+0.560586
+end_trial
+start_trial 1455
+0.892675
+0.893188
+0.892959
+end_trial
+start_trial 1456
+0.15598
+0.155923
+0.155953
+end_trial
+start_trial 1457
+0.663357
+0.663167
+0.662837
+end_trial
+start_trial 1458
+0.857186
+0.85733
+0.857352
+end_trial
+start_trial 1459
+0.827651
+0.827997
+0.819975
+end_trial
+start_trial 1460
+0.551029
+0.551024
+0.570029
+end_trial
+start_trial 1461
+0.882022
+0.884938
+0.883676
+end_trial
+start_trial 1462
+0.560526
+0.560527
+0.565277
+end_trial
+start_trial 1463
+0.828232
+0.847296
+0.846882
+end_trial
+start_trial 1464
+0.588959
+0.581339
+0.580154
+end_trial
+start_trial 1465
+0.551076
+0.560617
+0.565356
+end_trial
+start_trial 1466
+0.876061
+0.876475
+0.875736
+end_trial
+start_trial 1467
+0.53203
+0.52251
+0.546284
+end_trial
+start_trial 1468
+0.85508
+0.865672
+0.866583
+end_trial
+start_trial 1469
+0.835067
+0.843436
+0.855177
+end_trial
+start_trial 1470
+0.995121
+0.994615
+0.994931
+end_trial
+start_trial 1471
+0.570843
+0.561338
+0.551811
+end_trial
+start_trial 1472
+0.98593
+0.966053
+0.984519
+end_trial
+start_trial 1473
+0.561355
+0.56612
+0.566112
+end_trial
+start_trial 1474
+0.900095
+0.888946
+0.898103
+end_trial
+start_trial 1475
+0.561367
+0.570879
+0.551859
+end_trial
+start_trial 1476
+0.851433
+0.867621
+0.866842
+end_trial
+start_trial 1477
+0.570926
+0.561437
+0.55189
+end_trial
+start_trial 1478
+0.86612
+0.867957
+0.868844
+end_trial
+start_trial 1479
+0.560799
+0.570296
+0.570304
+end_trial
+start_trial 1480
+0.602237
+0.602191
+0.618467
+end_trial
+start_trial 1481
+0.570369
+0.551343
+0.551345
+end_trial
+start_trial 1482
+0.62605
+0.610421
+0.610348
+end_trial
+start_trial 1483
+0.553688
+0.572784
+0.563235
+end_trial
+start_trial 1484
+0.988501
+0.987978
+0.988007
+end_trial
+start_trial 1485
+0.167621
+0.168167
+0.16692
+end_trial
+start_trial 1486
+0.997427
+0.997436
+0.99743
+end_trial
+start_trial 1487
+0.551002
+0.5225
+0.560502
+end_trial
+start_trial 1488
+0.794704
+0.791126
+0.805662
+end_trial
+start_trial 1489
+0.541514
+-nan
+0.484485
+end_trial
+start_trial 1490
+0.831766
+0.846651
+0.845457
+end_trial
+start_trial 1491
+0.527251
+0.484497
+0.493992
+end_trial
+start_trial 1492
+0.157299
+0.155101
+0.17768
+end_trial
+start_trial 1493
+0.64023
+0.640398
+0.640781
+end_trial
+start_trial 1494
+0.55208
+0.552092
+0.551717
+end_trial
+start_trial 1495
+0.640659
+0.640881
+0.640898
+end_trial
+start_trial 1496
+0.5607
+0.551194
+0.570203
+end_trial
+start_trial 1497
+0.608962
+0.633131
+0.632757
+end_trial
+start_trial 1498
+0.551162
+0.570171
+0.570169
+end_trial
+start_trial 1499
+0.641374
+0.633342
+0.641114
+end_trial
+start_trial 1500
+0.470041
+0.462082
+0.462176
+end_trial
+start_trial 1501
+0.735073
+0.73459
+0.734343
+end_trial
+start_trial 1502
+0.413554
+0.385321
+end_trial
+start_trial 1503
+0.637304
+0.637601
+0.637296
+end_trial
+start_trial 1504
+0.761406
+0.766557
+end_trial
+start_trial 1505
+0.5225
+0.570003
+0.503497
+end_trial
+start_trial 1506
+0.821488
+0.868279
+0.850356
+end_trial
+start_trial 1507
+0.551894
+0.551001
+0.570002
+end_trial
+start_trial 1508
+0.492283
+-nan
+0.491689
+end_trial
+start_trial 1509
+0.499261
+-nan
+0.499246
+end_trial
+start_trial 1510
+0.561489
+0.551927
+0.551965
+end_trial
+start_trial 1511
+0.988092
+0.988007
+0.988
+end_trial
+start_trial 1512
+0.551196
+0.560705
+0.570206
+end_trial
+start_trial 1513
+0.893758
+0.887071
+0.890227
+end_trial
+start_trial 1514
+0.167454
+0.167934
+0.165197
+end_trial
+start_trial 1515
+0.848655
+0.842103
+0.82089
+end_trial
+start_trial 1516
+0.662901
+0.713739
+0.663687
+end_trial
+start_trial 1517
+0.89589
+0.882978
+0.895173
+end_trial
+start_trial 1518
+0.157868
+0.158193
+0.158193
+end_trial
+start_trial 1519
+0.866532
+0.86718
+0.867262
+end_trial
+start_trial 1520
+0.23547
+0.226195
+0.232069
+end_trial
+start_trial 1521
+0.688159
+0.688366
+0.688014
+end_trial
+start_trial 1522
+0.68727
+0.687327
+0.6869
+end_trial
+start_trial 1523
+0.57163
+0.552574
+0.557338
+end_trial
+start_trial 1524
+0.562108
+0.562103
+0.571642
+end_trial
+start_trial 1525
+0.860867
+0.868179
+0.868976
+end_trial
+start_trial 1526
+0.233593
+0.233292
+0.233354
+end_trial
+start_trial 1527
+0.87077
+0.87015
+0.870035
+end_trial
+start_trial 1528
+0.232926
+0.22518
+0.232926
+end_trial
+start_trial 1529
+0.524599
+0.616924
+0.543872
+end_trial
+start_trial 1530
+0.657827
+0.656134
+0.647052
+end_trial
+start_trial 1531
+0.474901
+0.493901
+0.4844
+end_trial
+start_trial 1532
+0.484371
+0.493834
+0.474848
+end_trial
+start_trial 1533
+0.692159
+0.723
+0.690438
+end_trial
+start_trial 1534
+0.23452
+0.225669
+0.226643
+end_trial
+start_trial 1535
+0.744811
+0.733673
+0.746673
+end_trial
+start_trial 1536
+0.619281
+0.618989
+0.61935
+end_trial
+start_trial 1537
+0.551527
+0.561086
+0.57056
+end_trial
+start_trial 1538
+0.870771
+0.871818
+0.87109
+end_trial
+start_trial 1539
+0.560896
+0.551383
+0.570414
+end_trial
+start_trial 1540
+0.837291
+0.819235
+0.819971
+end_trial
+start_trial 1541
+0.414703
+0.431098
+0.431475
+end_trial
+start_trial 1542
+0.575909
+0.568576
+0.569087
+end_trial
+start_trial 1543
+0.61226
+0.58017
+0.569077
+end_trial
+start_trial 1544
+0.551836
+0.551833
+0.545853
+end_trial
+start_trial 1545
+0.493968
+0.474967
+0.48447
+end_trial
+start_trial 1546
+0.842629
+0.789506
+0.843948
+end_trial
+start_trial 1547
+0.551558
+0.551562
+0.55156
+end_trial
+start_trial 1548
+0.650326
+0.600907
+0.635935
+end_trial
+start_trial 1549
+0.551035
+0.570138
+0.570075
+end_trial
+start_trial 1550
+0.570071
+0.55107
+0.560577
+end_trial
+start_trial 1551
+0.726062
+0.705166
+0.717271
+end_trial
+start_trial 1552
+0.310465
+0.310306
+0.310453
+end_trial
+start_trial 1553
+0.714531
+0.713992
+0.684292
+end_trial
+start_trial 1554
+0.5035
+0.503538
+0.513038
+end_trial
+start_trial 1555
+0.594993
+0.567698
+0.577761
+end_trial
+start_trial 1556
+0.594228
+0.575181
+0.605076
+end_trial
+start_trial 1557
+-nan
+0.493994
+0.484489
+end_trial
+start_trial 1558
+0.555729
+0.562147
+0.562189
+end_trial
+start_trial 1559
+0.512998
+0.512997
+0.527251
+end_trial
+start_trial 1560
+0.541536
+0.541147
+0.541529
+end_trial
+start_trial 1561
+0.850019
+0.849715
+0.85136
+end_trial
+start_trial 1562
+0.156469
+0.163418
+0.187866
+end_trial
+start_trial 1563
+0.8643
+0.861407
+0.853283
+end_trial
+start_trial 1564
+0.546452
+0.556042
+0.565546
+end_trial

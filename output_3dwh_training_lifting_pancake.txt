@@ -1,0 +1,7798 @@
+task lifting_pancake
+n_trials 3
+start_trial 1
+-1
+-1
+-1
+end_trial
+start_trial 2
+-1
+-1
+-1
+end_trial
+start_trial 3
+-1
+-1
+-1
+end_trial
+start_trial 4
+-1
+-1
+-1
+end_trial
+start_trial 5
+-1
+-1
+-1
+end_trial
+start_trial 6
+-1
+-1
+-1
+end_trial
+start_trial 7
+-1
+-1
+-1
+end_trial
+start_trial 8
+-1
+-1
+-1
+end_trial
+start_trial 9
+-1
+-1
+-1
+end_trial
+start_trial 10
+-1
+-1
+-1
+end_trial
+start_trial 11
+-1
+-1
+-1
+end_trial
+start_trial 12
+-1
+-1
+-1
+end_trial
+start_trial 13
+-1
+-1
+-1
+end_trial
+start_trial 14
+-1
+-1
+-1
+end_trial
+start_trial 15
+-1
+-1
+-1
+end_trial
+start_trial 16
+-1
+-1
+-1
+end_trial
+start_trial 17
+-1
+-1
+-1
+end_trial
+start_trial 18
+-1
+-1
+-1
+end_trial
+start_trial 19
+-1
+-1
+-1
+end_trial
+start_trial 20
+-1
+-1
+-1
+end_trial
+start_trial 21
+-1
+-1
+-1
+end_trial
+start_trial 22
+-1
+-1
+-1
+end_trial
+start_trial 23
+-1
+-1
+-1
+end_trial
+start_trial 24
+-1
+-1
+-1
+end_trial
+start_trial 25
+-1
+-1
+-1
+end_trial
+start_trial 26
+0
+0
+0
+end_trial
+start_trial 27
+-1
+-1
+-1
+end_trial
+start_trial 28
+0
+0
+0
+end_trial
+start_trial 29
+0.400536
+0.39028
+0.349614
+end_trial
+start_trial 30
+-1
+-1
+-1
+end_trial
+start_trial 31
+-1
+-1
+-1
+end_trial
+start_trial 32
+-1
+-1
+-1
+end_trial
+start_trial 33
+-1
+-1
+-1
+end_trial
+start_trial 34
+-1
+-1
+-1
+end_trial
+start_trial 35
+-1
+-1
+-1
+end_trial
+start_trial 36
+0.374496
+0.425512
+0.392523
+end_trial
+start_trial 37
+-1
+-1
+0
+end_trial
+start_trial 38
+-1
+-1
+-1
+end_trial
+start_trial 39
+0
+0
+0.34952
+end_trial
+start_trial 40
+-1
+-1
+-1
+end_trial
+start_trial 41
+0.192092
+0
+0.317101
+end_trial
+start_trial 42
+0.898906
+0.275688
+2.96585
+end_trial
+start_trial 43
+-1
+-1
+-1
+end_trial
+start_trial 44
+0.187749
+0.444208
+0.315597
+end_trial
+start_trial 45
+0.0179238
+0.0651016
+0.0260887
+end_trial
+start_trial 46
+0.357434
+0.297673
+0.311541
+end_trial
+start_trial 47
+-1
+-1
+-1
+end_trial
+start_trial 48
+-1
+-1
+-1
+end_trial
+start_trial 49
+-1
+-1
+-1
+end_trial
+start_trial 50
+-1
+-1
+-1
+end_trial
+start_trial 51
+-1
+-1
+-1
+end_trial
+start_trial 52
+-1
+-1
+-1
+end_trial
+start_trial 53
+-1
+-1
+-1
+end_trial
+start_trial 54
+-1
+-1
+-1
+end_trial
+start_trial 55
+-1
+-1
+-1
+end_trial
+start_trial 56
+-1
+-1
+-1
+end_trial
+start_trial 57
+-1
+-1
+-1
+end_trial
+start_trial 58
+-1
+-1
+-1
+end_trial
+start_trial 59
+-1
+-1
+-1
+end_trial
+start_trial 60
+-1
+-1
+end_trial
+start_trial 61
+-1
+-1
+-1
+end_trial
+start_trial 62
+-1
+-1
+-1
+end_trial
+start_trial 63
+-1
+-1
+-1
+end_trial
+start_trial 64
+-1
+-1
+-1
+end_trial
+start_trial 65
+-1
+-1
+-1
+end_trial
+start_trial 66
+-1
+-1
+-1
+end_trial
+start_trial 67
+-1
+-1
+-1
+end_trial
+start_trial 68
+-1
+-1
+-1
+end_trial
+start_trial 69
+-1
+-1
+-1
+end_trial
+start_trial 70
+0.401365
+0.348083
+0.405795
+end_trial
+start_trial 71
+0.386865
+0.373801
+0.400115
+end_trial
+start_trial 72
+0.329286
+0.384646
+0.317782
+end_trial
+start_trial 73
+0.253613
+0.390598
+0.320228
+end_trial
+start_trial 74
+-1
+-1
+-1
+end_trial
+start_trial 75
+-1
+-1
+0
+end_trial
+start_trial 76
+-1
+-1
+-1
+end_trial
+start_trial 77
+-1
+-1
+-1
+end_trial
+start_trial 78
+-1
+-1
+-1
+end_trial
+start_trial 79
+-1
+-1
+-1
+end_trial
+start_trial 80
+-1
+-1
+-1
+end_trial
+start_trial 81
+-1
+-1
+-1
+end_trial
+start_trial 82
+-1
+-1
+-1
+end_trial
+start_trial 83
+1.6291
+1.78087
+-1
+end_trial
+start_trial 84
+-1
+-1
+-1
+end_trial
+start_trial 85
+-1
+2.35766
+2.11667
+end_trial
+start_trial 86
+-1
+-1
+-1
+end_trial
+start_trial 87
+2.64034
+0.827396
+1.75935
+end_trial
+start_trial 88
+-1
+-1
+-1
+end_trial
+start_trial 89
+1.38144
+0.922746
+0.905365
+end_trial
+start_trial 90
+0
+0
+0
+end_trial
+start_trial 91
+0
+0
+0
+end_trial
+start_trial 92
+0
+0
+0
+end_trial
+start_trial 93
+0
+0
+0
+end_trial
+start_trial 94
+0.321112
+0.239705
+0.308351
+end_trial
+start_trial 95
+2.3071
+2.82726
+2.82489
+end_trial
+start_trial 96
+0
+0
+0
+end_trial
+start_trial 97
+2.79646
+2.88059
+2.60577
+end_trial
+start_trial 98
+0
+0
+0
+end_trial
+start_trial 99
+0
+0
+0
+end_trial
+start_trial 100
+0.417935
+0.334781
+0.347405
+end_trial
+start_trial 101
+2.14527
+1.4229
+1.33612
+end_trial
+start_trial 102
+-1
+-1
+-1
+end_trial
+start_trial 103
+0
+1.44418
+1.66034
+end_trial
+start_trial 104
+-1
+-1
+-1
+end_trial
+start_trial 105
+-1
+-1
+-1
+end_trial
+start_trial 106
+-1
+-1
+-1
+end_trial
+start_trial 107
+-1
+-1
+-1
+end_trial
+start_trial 108
+-1
+-1
+-1
+end_trial
+start_trial 109
+-1
+-1
+-1
+end_trial
+start_trial 110
+-1
+-1
+-1
+end_trial
+start_trial 111
+-1
+-1
+-1
+end_trial
+start_trial 112
+-1
+-1
+-1
+end_trial
+start_trial 113
+0
+1.04282
+1.08815
+end_trial
+start_trial 114
+1.45697
+1.76273
+1.55702
+end_trial
+start_trial 115
+0
+0
+0
+end_trial
+start_trial 116
+2.0759
+2.00485
+1.88578
+end_trial
+start_trial 117
+-1
+-1
+-1
+end_trial
+start_trial 118
+-1
+-1
+-1
+end_trial
+start_trial 119
+2.30123
+1.89225
+1.88858
+end_trial
+start_trial 120
+0.359498
+0.380549
+0.352995
+end_trial
+start_trial 121
+0
+0
+0
+end_trial
+start_trial 122
+-1
+-1
+-1
+end_trial
+start_trial 123
+-1
+-1
+-1
+end_trial
+start_trial 124
+-1
+-1
+-1
+end_trial
+start_trial 125
+0.919672
+0.881127
+0
+end_trial
+start_trial 126
+2.7945
+2.7394
+1.99251
+end_trial
+start_trial 127
+-1
+-1
+-1
+end_trial
+start_trial 128
+0
+0
+0
+end_trial
+start_trial 129
+0.937696
+0.859556
+0.859193
+end_trial
+start_trial 130
+0.881073
+0.8733
+0.91266
+end_trial
+start_trial 131
+0
+0
+0
+end_trial
+start_trial 132
+0.12071
+0
+0
+end_trial
+start_trial 133
+1.69502
+1.39227
+1.11282
+end_trial
+start_trial 134
+-1
+-1
+-1
+end_trial
+start_trial 135
+1.28585
+1.7162
+1.21587
+end_trial
+start_trial 136
+-1
+-1
+-1
+end_trial
+start_trial 137
+-1
+-1
+-1
+end_trial
+start_trial 138
+-1
+-1
+0
+end_trial
+start_trial 139
+0
+0.0820549
+0
+end_trial
+start_trial 140
+-1
+-1
+-1
+end_trial
+start_trial 141
+0.402617
+0.439056
+0.436883
+end_trial
+start_trial 142
+0
+-1
+end_trial
+start_trial 143
+0.352673
+0.417457
+end_trial
+start_trial 144
+0
+-1
+-1
+end_trial
+start_trial 145
+0
+0.129477
+0
+end_trial
+start_trial 146
+2.14579
+1.30084
+0.58517
+end_trial
+start_trial 147
+0.00623536
+0.203576
+end_trial
+start_trial 148
+2.57835
+2.64331
+2.14813
+end_trial
+start_trial 149
+0
+0
+0
+end_trial
+start_trial 150
+0
+0
+0
+end_trial
+start_trial 151
+0
+0
+0
+end_trial
+start_trial 152
+0
+0.145653
+0.193967
+end_trial
+start_trial 153
+0
+-1
+0
+end_trial
+start_trial 154
+0.591638
+1.10398
+end_trial
+start_trial 155
+0
+0.270689
+0.416102
+end_trial
+start_trial 156
+0
+0
+0
+end_trial
+start_trial 157
+-1
+-1
+-1
+end_trial
+start_trial 158
+-1
+-1
+-1
+end_trial
+start_trial 159
+0
+0
+0
+end_trial
+start_trial 160
+-1
+-1
+-1
+end_trial
+start_trial 161
+0.409535
+0.415493
+0.401391
+end_trial
+start_trial 162
+2.08253
+0
+2.01525
+end_trial
+start_trial 163
+0.430336
+0.391875
+0.390074
+end_trial
+start_trial 164
+-1
+0
+0
+end_trial
+start_trial 165
+0.28604
+0.396049
+0.238374
+end_trial
+start_trial 166
+2.55753
+1.82917
+2.55514
+end_trial
+start_trial 167
+0
+0
+0.0919514
+end_trial
+start_trial 168
+1.29325
+2.22552
+2.41246
+end_trial
+start_trial 169
+0
+0.114695
+0
+end_trial
+start_trial 170
+0
+0
+0
+end_trial
+start_trial 171
+0
+0
+0
+end_trial
+start_trial 172
+0
+0
+0
+end_trial
+start_trial 173
+1.57916
+1.50549
+0
+end_trial
+start_trial 174
+-1
+-1
+-1
+end_trial
+start_trial 175
+2.06258
+1.01965
+2.51899
+end_trial
+start_trial 176
+-1
+-1
+-1
+end_trial
+start_trial 177
+0
+0.0222976
+0
+end_trial
+start_trial 178
+0
+0
+0
+end_trial
+start_trial 179
+-1
+-1
+0
+end_trial
+start_trial 180
+0
+0
+-1
+end_trial
+start_trial 181
+1.74859
+2.77713
+2.14479
+end_trial
+start_trial 182
+-1
+-1
+0
+end_trial
+start_trial 183
+-1
+-1
+-1
+end_trial
+start_trial 184
+0
+0
+0.0899961
+end_trial
+start_trial 185
+0
+0.138661
+0.0577688
+end_trial
+start_trial 186
+0
+0
+0
+end_trial
+start_trial 187
+-1
+-1
+1.96575
+end_trial
+start_trial 188
+-1
+-1
+-1
+end_trial
+start_trial 189
+0
+0
+0.139377
+end_trial
+start_trial 190
+0
+0.0372336
+0.0297725
+end_trial
+start_trial 191
+-1
+-1
+-1
+end_trial
+start_trial 192
+0
+0
+0.208902
+end_trial
+start_trial 193
+0
+0
+0
+end_trial
+start_trial 194
+-1
+-1
+-1
+end_trial
+start_trial 195
+-1
+-1
+-1
+end_trial
+start_trial 196
+-1
+-1
+-1
+end_trial
+start_trial 197
+0
+0
+0
+end_trial
+start_trial 198
+0.397214
+0.402974
+0.407009
+end_trial
+start_trial 199
+0
+0
+0
+end_trial
+start_trial 200
+0
+0
+0
+end_trial
+start_trial 201
+-1
+-1
+-1
+end_trial
+start_trial 202
+-1
+-1
+-1
+end_trial
+start_trial 203
+0
+0
+0
+end_trial
+start_trial 204
+-1
+-1
+0
+end_trial
+start_trial 205
+0
+0
+0
+end_trial
+start_trial 206
+1.09981
+0.828072
+0.920256
+end_trial
+start_trial 207
+-1
+-1
+end_trial
+start_trial 208
+1.71198
+1.2323
+1.61885
+end_trial
+start_trial 209
+0
+0
+0
+end_trial
+start_trial 210
+2.73056
+0.0803173
+0.197839
+end_trial
+start_trial 211
+0.113933
+0
+0
+end_trial
+start_trial 212
+0.270584
+0.437262
+0
+end_trial
+start_trial 213
+0.218512
+0
+1.28305
+end_trial
+start_trial 214
+0
+0.497363
+0.34768
+end_trial
+start_trial 215
+-1
+-1
+-1
+end_trial
+start_trial 216
+-1
+-1
+-1
+end_trial
+start_trial 217
+0
+0
+0
+end_trial
+start_trial 218
+0
+-1
+0
+end_trial
+start_trial 219
+-1
+-1
+-1
+end_trial
+start_trial 220
+-1
+-1
+-1
+end_trial
+start_trial 221
+-1
+-1
+-1
+end_trial
+start_trial 222
+-1
+-1
+-1
+end_trial
+start_trial 223
+-1
+-1
+-1
+end_trial
+start_trial 224
+0.29166
+0.390375
+end_trial
+start_trial 225
+0
+0
+0
+end_trial
+start_trial 226
+0
+0
+0
+end_trial
+start_trial 227
+0.0726547
+0.208027
+0
+end_trial
+start_trial 228
+-1
+-1
+-1
+end_trial
+start_trial 229
+0
+0
+0
+end_trial
+start_trial 230
+2.09711
+0
+0.0833874
+end_trial
+start_trial 231
+1.01808
+2.92348
+0.849327
+end_trial
+start_trial 232
+0
+0
+0
+end_trial
+start_trial 233
+0
+-1
+0
+end_trial
+start_trial 234
+-1
+-1
+-1
+end_trial
+start_trial 235
+0.0527871
+0.0164676
+0.437221
+end_trial
+start_trial 236
+0
+0
+0
+end_trial
+start_trial 237
+0.175491
+0.0200148
+0.156101
+end_trial
+start_trial 238
+0.329111
+0.421919
+0.386998
+end_trial
+start_trial 239
+-1
+-1
+-1
+end_trial
+start_trial 240
+-1
+-1
+-1
+end_trial
+start_trial 241
+-1
+-1
+-1
+end_trial
+start_trial 242
+0.880352
+1.14303
+1.50218
+end_trial
+start_trial 243
+0.0835958
+0.444073
+0
+end_trial
+start_trial 244
+0.135957
+0
+0
+end_trial
+start_trial 245
+-1
+-1
+-1
+end_trial
+start_trial 246
+-1
+-1
+-1
+end_trial
+start_trial 247
+0
+0
+0.0633967
+end_trial
+start_trial 248
+0
+0
+0.151206
+end_trial
+start_trial 249
+0
+0
+0
+end_trial
+start_trial 250
+0.240035
+0
+0
+end_trial
+start_trial 251
+0
+0
+0
+end_trial
+start_trial 252
+0.373762
+0.36084
+0.446022
+end_trial
+start_trial 253
+1.95728
+1.47061
+0
+end_trial
+start_trial 254
+-1
+-1
+0.0283599
+end_trial
+start_trial 255
+0
+0
+0
+end_trial
+start_trial 256
+0
+-1
+0.391808
+end_trial
+start_trial 257
+0
+0
+0.298902
+end_trial
+start_trial 258
+0
+0.0778213
+0
+end_trial
+start_trial 259
+-1
+-1
+-1
+end_trial
+start_trial 260
+-1
+-1
+-1
+end_trial
+start_trial 261
+-1
+-1
+-1
+end_trial
+start_trial 262
+0
+0.121202
+0.0646453
+end_trial
+start_trial 263
+-1
+-1
+-1
+end_trial
+start_trial 264
+0
+0
+0
+end_trial
+start_trial 265
+0.802166
+0
+0.700788
+end_trial
+start_trial 266
+0
+0.183983
+0
+end_trial
+start_trial 267
+0.14461
+0.0310435
+0
+end_trial
+start_trial 268
+0
+0.448339
+0
+end_trial
+start_trial 269
+0
+0
+0
+end_trial
+start_trial 270
+0
+0.0340135
+0.114018
+end_trial
+start_trial 271
+0
+0
+0
+end_trial
+start_trial 272
+0
+0.18785
+0
+end_trial
+start_trial 273
+0
+0
+0
+end_trial
+start_trial 274
+0
+0
+0
+end_trial
+start_trial 275
+-1
+-1
+-1
+end_trial
+start_trial 276
+0.0928767
+0
+0
+end_trial
+start_trial 277
+-1
+-1
+-1
+end_trial
+start_trial 278
+0.0493851
+-1
+0
+end_trial
+start_trial 279
+-1
+-1
+-1
+end_trial
+start_trial 280
+0.0999804
+0
+0.135469
+end_trial
+start_trial 281
+-1
+-1
+0
+end_trial
+start_trial 282
+0.257439
+0.285793
+0.304822
+end_trial
+start_trial 283
+0
+1.63915
+0
+end_trial
+start_trial 284
+-1
+-1
+-1
+end_trial
+start_trial 285
+0
+0
+0
+end_trial
+start_trial 286
+-1
+-1
+-1
+end_trial
+start_trial 287
+0.404194
+0.423903
+0.402438
+end_trial
+start_trial 288
+0.251452
+0
+0
+end_trial
+start_trial 289
+0
+0
+0.209305
+end_trial
+start_trial 290
+-1
+-1
+-1
+end_trial
+start_trial 291
+0
+0
+0
+end_trial
+start_trial 292
+0.395592
+0.393847
+0.387065
+end_trial
+start_trial 293
+0.355451
+0.137666
+0
+end_trial
+start_trial 294
+0.346459
+0.255332
+0.339346
+end_trial
+start_trial 295
+-1
+-1
+-1
+end_trial
+start_trial 296
+0
+0
+0
+end_trial
+start_trial 297
+0.261028
+0.230093
+0.288447
+end_trial
+start_trial 298
+-1
+-1
+-1
+end_trial
+start_trial 299
+0.371438
+0
+0
+end_trial
+start_trial 300
+0.369425
+0.371727
+0.36961
+end_trial
+start_trial 301
+0.30869
+0
+0.0559437
+end_trial
+start_trial 302
+0
+0
+0
+end_trial
+start_trial 303
+0.0899951
+0
+0
+end_trial
+start_trial 304
+-1
+-1
+-1
+end_trial
+start_trial 305
+0.399416
+0
+0
+end_trial
+start_trial 306
+0
+0
+0
+end_trial
+start_trial 307
+2.69871
+2.76807
+0.902158
+end_trial
+start_trial 308
+-1
+0
+0.320524
+end_trial
+start_trial 309
+0
+0
+0
+end_trial
+start_trial 310
+0.364223
+0.397642
+0.300884
+end_trial
+start_trial 311
+0
+0
+0
+end_trial
+start_trial 312
+0.448161
+0.43197
+0.404611
+end_trial
+start_trial 313
+-1
+-1
+-1
+end_trial
+start_trial 314
+0
+0.183275
+-1
+end_trial
+start_trial 315
+0
+0
+-1
+end_trial
+start_trial 316
+0
+0
+0
+end_trial
+start_trial 317
+-1
+-1
+-1
+end_trial
+start_trial 318
+0
+0
+0.122169
+end_trial
+start_trial 319
+-1
+-1
+-1
+end_trial
+start_trial 320
+0.362201
+0
+0
+end_trial
+start_trial 321
+0
+0
+0
+end_trial
+start_trial 322
+0.324256
+0.437401
+0.436707
+end_trial
+start_trial 323
+1.85939
+0
+0
+end_trial
+start_trial 324
+2.17885
+0.904557
+1.30683
+end_trial
+start_trial 325
+0
+0
+0
+end_trial
+start_trial 326
+0
+0
+0
+end_trial
+start_trial 327
+0.839778
+2.55278
+0
+end_trial
+start_trial 328
+-1
+-1
+0
+end_trial
+start_trial 329
+2.03084
+0
+0
+end_trial
+start_trial 330
+1.84578
+1.77417
+1.77286
+end_trial
+start_trial 331
+0.163013
+0.105581
+0.185487
+end_trial
+start_trial 332
+2.45889
+1.9127
+2.30926
+end_trial
+start_trial 333
+-1
+-1
+0
+end_trial
+start_trial 334
+0.385659
+0.322111
+0.291868
+end_trial
+start_trial 335
+0.175668
+0.154994
+0.0131867
+end_trial
+start_trial 336
+0.15942
+0.122221
+0.183451
+end_trial
+start_trial 337
+-1
+-1
+0
+end_trial
+start_trial 338
+1.09757
+1.37329
+end_trial
+start_trial 339
+2.11744
+0
+0
+end_trial
+start_trial 340
+-1
+0
+0
+end_trial
+start_trial 341
+-1
+-1
+-1
+end_trial
+start_trial 342
+-1
+0
+-1
+end_trial
+start_trial 343
+0
+0.487748
+0
+end_trial
+start_trial 344
+0
+0
+0
+end_trial
+start_trial 345
+0
+0
+end_trial
+start_trial 346
+0
+0
+0
+end_trial
+start_trial 347
+1.14275
+0.947135
+1.1223
+end_trial
+start_trial 348
+1.20712
+1.16739
+1.97619
+end_trial
+start_trial 349
+0.277447
+0.413944
+0.215756
+end_trial
+start_trial 350
+0
+0.680792
+0.802116
+end_trial
+start_trial 351
+0
+0
+0
+end_trial
+start_trial 352
+0
+0
+0
+end_trial
+start_trial 353
+0
+0
+0
+end_trial
+start_trial 354
+-1
+-1
+-1
+end_trial
+start_trial 355
+1.39177
+2.00094
+1.73725
+end_trial
+start_trial 356
+2.50996
+2.55634
+1.3067
+end_trial
+start_trial 357
+-1
+-1
+1.33166
+end_trial
+start_trial 358
+-1
+1.4975
+0
+end_trial
+start_trial 359
+0.546031
+1.001
+1.07702
+end_trial
+start_trial 360
+0.997708
+-1
+-1
+end_trial
+start_trial 361
+-1
+-1
+-1
+end_trial
+start_trial 362
+0
+0
+0
+end_trial
+start_trial 363
+-1
+-1
+-1
+end_trial
+start_trial 364
+1.7596
+1.44212
+1.53381
+end_trial
+start_trial 365
+0
+0
+0
+end_trial
+start_trial 366
+0
+0
+0
+end_trial
+start_trial 367
+0
+2.02581
+0
+end_trial
+start_trial 368
+1.73916
+2.59256
+2.62874
+end_trial
+start_trial 369
+0.364051
+0.310259
+0.365986
+end_trial
+start_trial 370
+0
+0
+0
+end_trial
+start_trial 371
+-1
+-1
+-1
+end_trial
+start_trial 372
+2.06988
+2.80239
+1.50949
+end_trial
+start_trial 373
+0.0789518
+0
+0
+end_trial
+start_trial 374
+-1
+-1
+-1
+end_trial
+start_trial 375
+-1
+-1
+-1
+end_trial
+start_trial 376
+-1
+-1
+-1
+end_trial
+start_trial 377
+0.179757
+0.292988
+0.344391
+end_trial
+start_trial 378
+0.230744
+0.241431
+0
+end_trial
+start_trial 379
+-1
+-1
+end_trial
+start_trial 380
+1.01319
+0.87681
+0.797591
+end_trial
+start_trial 381
+0
+-1
+0.417731
+end_trial
+start_trial 382
+-1
+-1
+-1
+end_trial
+start_trial 383
+0.852698
+2.34719
+2.00817
+end_trial
+start_trial 384
+0
+0
+0
+end_trial
+start_trial 385
+-1
+-1
+-1
+end_trial
+start_trial 386
+0.668673
+0.162705
+0.387572
+end_trial
+start_trial 387
+0
+0.152154
+0
+end_trial
+start_trial 388
+0
+0.225797
+0
+end_trial
+start_trial 389
+0.365774
+0.402231
+0.350174
+end_trial
+start_trial 390
+0.985484
+1.76757
+0.582382
+end_trial
+start_trial 391
+0
+0
+0.0580349
+end_trial
+start_trial 392
+0.303774
+0
+0
+end_trial
+start_trial 393
+0
+0
+0
+end_trial
+start_trial 394
+0.368221
+0.350601
+0.337488
+end_trial
+start_trial 395
+0.433752
+0
+0
+end_trial
+start_trial 396
+1.75828
+2.31035
+1.26425
+end_trial
+start_trial 397
+0
+0
+0
+end_trial
+start_trial 398
+0
+0
+0
+end_trial
+start_trial 399
+1.46871
+1.30879
+1.50892
+end_trial
+start_trial 400
+0
+0
+0
+end_trial
+start_trial 401
+0
+0
+2.27677
+end_trial
+start_trial 402
+1.60446
+1.84921
+0.848046
+end_trial
+start_trial 403
+-1
+-1
+-1
+end_trial
+start_trial 404
+0.0940375
+0
+0
+end_trial
+start_trial 405
+-1
+-1
+-1
+end_trial
+start_trial 406
+-1
+-1
+-1
+end_trial
+start_trial 407
+0.0123663
+0.433033
+0
+end_trial
+start_trial 408
+0.465843
+0
+0
+end_trial
+start_trial 409
+-1
+-1
+-1
+end_trial
+start_trial 410
+0.723955
+0
+0.747504
+end_trial
+start_trial 411
+0.844465
+2.87596
+end_trial
+start_trial 412
+0.406659
+0.401201
+end_trial
+start_trial 413
+-1
+0
+0
+end_trial
+start_trial 414
+1.46402
+-1
+2.49148
+end_trial
+start_trial 415
+0
+0
+0.103157
+end_trial
+start_trial 416
+1.57007
+1.5908
+1.66107
+end_trial
+start_trial 417
+1.88354
+1.78001
+1.81607
+end_trial
+start_trial 418
+0.965597
+0.841221
+0.517194
+end_trial
+start_trial 419
+-1
+-1
+-1
+end_trial
+start_trial 420
+-1
+-1
+1.3356
+end_trial
+start_trial 421
+-1
+-1
+-1
+end_trial
+start_trial 422
+0
+0
+0.111531
+end_trial
+start_trial 423
+2.26581
+2.14068
+2.649
+end_trial
+start_trial 424
+0
+0
+0
+end_trial
+start_trial 425
+1.91849
+1.68162
+1.54862
+end_trial
+start_trial 426
+0
+0
+0
+end_trial
+start_trial 427
+0
+0
+0
+end_trial
+start_trial 428
+0.196011
+0.309538
+0.355682
+end_trial
+start_trial 429
+0
+0
+0
+end_trial
+start_trial 430
+0
+0
+0
+end_trial
+start_trial 431
+0
+0
+0
+end_trial
+start_trial 432
+-1
+-1
+-1
+end_trial
+start_trial 433
+0
+0
+0
+end_trial
+start_trial 434
+-1
+-1
+-1
+end_trial
+start_trial 435
+-1
+-1
+-1
+end_trial
+start_trial 436
+0
+0
+2.41213
+end_trial
+start_trial 437
+-1
+-1
+-1
+end_trial
+start_trial 438
+0
+0
+0
+end_trial
+start_trial 439
+0.830686
+0
+0
+end_trial
+start_trial 440
+0
+0
+0
+end_trial
+start_trial 441
+1.02216
+1.16435
+0.796975
+end_trial
+start_trial 442
+0
+0.153625
+0
+end_trial
+start_trial 443
+0.363022
+1.54819
+1.64202
+end_trial
+start_trial 444
+0
+0
+0.0668416
+end_trial
+start_trial 445
+0
+0.909099
+0
+end_trial
+start_trial 446
+0
+0
+0
+end_trial
+start_trial 447
+-1
+-1
+-1
+end_trial
+start_trial 448
+0.212402
+0.0540195
+0
+end_trial
+start_trial 449
+-1
+-1
+-1
+end_trial
+start_trial 450
+0
+0
+0.142295
+end_trial
+start_trial 451
+2.00267
+2.04006
+1.91766
+end_trial
+start_trial 452
+0.0310886
+0.0838158
+0
+end_trial
+start_trial 453
+1.71546
+1.67783
+1.90992
+end_trial
+start_trial 454
+0
+0
+0
+end_trial
+start_trial 455
+2.2952
+2.22912
+2.5413
+end_trial
+start_trial 456
+2.42043
+1.09142
+1.39129
+end_trial
+start_trial 457
+0
+0
+0
+end_trial
+start_trial 458
+0
+0
+0
+end_trial
+start_trial 459
+-1
+-1
+-1
+end_trial
+start_trial 460
+-1
+-1
+-1
+end_trial
+start_trial 461
+0.205272
+0.43649
+0.174182
+end_trial
+start_trial 462
+-1
+-1
+-1
+end_trial
+start_trial 463
+2.93588
+2.59069
+2.60635
+end_trial
+start_trial 464
+2.50592
+1.96056
+2.06739
+end_trial
+start_trial 465
+0.0787387
+0.119737
+0.203908
+end_trial
+start_trial 466
+0.244462
+0.760905
+0.565932
+end_trial
+start_trial 467
+0
+0.0615387
+0.092813
+end_trial
+start_trial 468
+-1
+-1
+-1
+end_trial
+start_trial 469
+0
+0
+0
+end_trial
+start_trial 470
+-1
+-1
+-1
+end_trial
+start_trial 471
+0
+0
+0
+end_trial
+start_trial 472
+0
+0
+0
+end_trial
+start_trial 473
+0.938253
+2.69259
+0
+end_trial
+start_trial 474
+0
+0
+0
+end_trial
+start_trial 475
+0
+0
+0
+end_trial
+start_trial 476
+0.407731
+0.283551
+0.433045
+end_trial
+start_trial 477
+-1
+-1
+-1
+end_trial
+start_trial 478
+-1
+-1
+-1
+end_trial
+start_trial 479
+0
+0
+0
+end_trial
+start_trial 480
+0.429353
+0.423492
+0.40902
+end_trial
+start_trial 481
+0.124084
+-1
+0.395444
+end_trial
+start_trial 482
+1.46848
+1.69331
+1.31868
+end_trial
+start_trial 483
+-1
+-1
+-1
+end_trial
+start_trial 484
+-1
+-1
+-1
+end_trial
+start_trial 485
+0.224842
+0.193444
+0.409881
+end_trial
+start_trial 486
+-1
+-1
+-1
+end_trial
+start_trial 487
+0.396702
+0
+-1
+end_trial
+start_trial 488
+-1
+-1
+-1
+end_trial
+start_trial 489
+0.0924177
+0.0422573
+0
+end_trial
+start_trial 490
+-1
+1.52919
+-1
+end_trial
+start_trial 491
+-1
+-1
+-1
+end_trial
+start_trial 492
+-1
+-1
+-1
+end_trial
+start_trial 493
+0
+0
+0
+end_trial
+start_trial 494
+-1
+-1
+-1
+end_trial
+start_trial 495
+-1
+-1
+-1
+end_trial
+start_trial 496
+0
+0.404493
+0
+end_trial
+start_trial 497
+1.24953
+-1
+1.31974
+end_trial
+start_trial 498
+0.0115623
+0.0578172
+0.0138059
+end_trial
+start_trial 499
+-1
+-1
+-1
+end_trial
+start_trial 500
+-1
+-1
+-1
+end_trial
+start_trial 501
+-1
+-1
+-1
+end_trial
+start_trial 502
+-1
+-1
+-1
+end_trial
+start_trial 503
+0
+1.54116
+0
+end_trial
+start_trial 504
+0.42178
+0.384326
+0.398137
+end_trial
+start_trial 505
+1.52471
+0.771016
+1.13812
+end_trial
+start_trial 506
+-1
+-1
+-1
+end_trial
+start_trial 507
+-1
+-1
+-1
+end_trial
+start_trial 508
+-1
+-1
+-1
+end_trial
+start_trial 509
+-1
+-1
+-1
+end_trial
+start_trial 510
+-1
+-1
+-1
+end_trial
+start_trial 511
+-1
+-1
+-1
+end_trial
+start_trial 512
+2.10067
+2.19341
+0.881097
+end_trial
+start_trial 513
+-1
+-1
+-1
+end_trial
+start_trial 514
+1.76554
+1.45121
+1.1
+end_trial
+start_trial 515
+-1
+-1
+-1
+end_trial
+start_trial 516
+-1
+0
+0
+end_trial
+start_trial 517
+0.0223134
+0
+0
+end_trial
+start_trial 518
+1.91819
+0.93888
+0.954452
+end_trial
+start_trial 519
+0.341918
+0.425849
+0.420623
+end_trial
+start_trial 520
+2.22065
+1.16546
+0
+end_trial
+start_trial 521
+-1
+-1
+-1
+end_trial
+start_trial 522
+-1
+-1
+-1
+end_trial
+start_trial 523
+-1
+-1
+-1
+end_trial
+start_trial 524
+-1
+-1
+-1
+end_trial
+start_trial 525
+-1
+-1
+-1
+end_trial
+start_trial 526
+0.874705
+0.838115
+0.845036
+end_trial
+start_trial 527
+0.167776
+-1
+-1
+end_trial
+start_trial 528
+0.981442
+0.955621
+0.919442
+end_trial
+start_trial 529
+-1
+-1
+-1
+end_trial
+start_trial 530
+1.07985
+1.30069
+1.5492
+end_trial
+start_trial 531
+-1
+-1
+-1
+end_trial
+start_trial 532
+0
+0
+0.552834
+end_trial
+start_trial 533
+0
+0
+0
+end_trial
+start_trial 534
+0.99896
+0.917084
+0.863694
+end_trial
+start_trial 535
+-1
+-1
+-1
+end_trial
+start_trial 536
+0.94851
+0.784225
+0.922365
+end_trial
+start_trial 537
+-1
+-1
+-1
+end_trial
+start_trial 538
+-1
+0
+-1
+end_trial
+start_trial 539
+0
+-1
+-1
+end_trial
+start_trial 540
+0
+0
+0
+end_trial
+start_trial 541
+-1
+-1
+-1
+end_trial
+start_trial 542
+-1
+-1
+0
+end_trial
+start_trial 543
+-1
+-1
+-1
+end_trial
+start_trial 544
+-1
+-1
+-1
+end_trial
+start_trial 545
+-1
+-1
+-1
+end_trial
+start_trial 546
+-1
+-1
+-1
+end_trial
+start_trial 547
+0
+0
+0
+end_trial
+start_trial 548
+0.242207
+0
+0
+end_trial
+start_trial 549
+0
+0.0461574
+0
+end_trial
+start_trial 550
+0
+0
+0
+end_trial
+start_trial 551
+-1
+-1
+-1
+end_trial
+start_trial 552
+0
+0
+0.49965
+end_trial
+start_trial 553
+0
+0.200475
+0
+end_trial
+start_trial 554
+0
+0
+0
+end_trial
+start_trial 555
+0
+0
+0.327624
+end_trial
+start_trial 556
+0.0960112
+0
+0.0774214
+end_trial
+start_trial 557
+0.283818
+0
+0.0919485
+end_trial
+start_trial 558
+0
+0
+0
+end_trial
+start_trial 559
+0.867673
+0.961104
+0.943834
+end_trial
+start_trial 560
+0
+0
+0
+end_trial
+start_trial 561
+0.839726
+0.893007
+0.872258
+end_trial
+start_trial 562
+-1
+-1
+-1
+end_trial
+start_trial 563
+0.36314
+0
+0.230524
+end_trial
+start_trial 564
+1.29951
+1.43375
+1.45893
+end_trial
+start_trial 565
+-1
+-1
+-1
+end_trial
+start_trial 566
+-1
+-1
+-1
+end_trial
+start_trial 567
+-1
+-1
+-1
+end_trial
+start_trial 568
+0.646824
+0.662
+0.66368
+end_trial
+start_trial 569
+-1
+-1
+-1
+end_trial
+start_trial 570
+-1
+-1
+-1
+end_trial
+start_trial 571
+-1
+-1
+-1
+end_trial
+start_trial 572
+-1
+-1
+-1
+end_trial
+start_trial 573
+-1
+-1
+-1
+end_trial
+start_trial 574
+-1
+-1
+-1
+end_trial
+start_trial 575
+-1
+-1
+-1
+end_trial
+start_trial 576
+-1
+-1
+-1
+end_trial
+start_trial 577
+-1
+-1
+-1
+end_trial
+start_trial 578
+-1
+0
+-1
+end_trial
+start_trial 579
+0.297714
+0
+0
+end_trial
+start_trial 580
+-1
+-1
+-1
+end_trial
+start_trial 581
+-1
+-1
+-1
+end_trial
+start_trial 582
+-1
+-1
+-1
+end_trial
+start_trial 583
+-1
+-1
+-1
+end_trial
+start_trial 584
+0.875339
+0.866439
+0.843944
+end_trial
+start_trial 585
+-1
+-1
+-1
+end_trial
+start_trial 586
+0.939873
+0.904323
+1.06092
+end_trial
+start_trial 587
+-1
+-1
+-1
+end_trial
+start_trial 588
+0
+0
+0
+end_trial
+start_trial 589
+0.290345
+0.334121
+0.338818
+end_trial
+start_trial 590
+0.406205
+0.221758
+0.224023
+end_trial
+start_trial 591
+0.297111
+0.391361
+0.235111
+end_trial
+start_trial 592
+-1
+-1
+-1
+end_trial
+start_trial 593
+-1
+-1
+-1
+end_trial
+start_trial 594
+-1
+-1
+-1
+end_trial
+start_trial 595
+-1
+-1
+-1
+end_trial
+start_trial 596
+-1
+-1
+0
+end_trial
+start_trial 597
+-1
+-1
+-1
+end_trial
+start_trial 598
+-1
+-1
+-1
+end_trial
+start_trial 599
+-1
+-1
+-1
+end_trial
+start_trial 600
+0
+-1
+-1
+end_trial
+start_trial 601
+-1
+-1
+-1
+end_trial
+start_trial 602
+-1
+-1
+-1
+end_trial
+start_trial 603
+-1
+-1
+-1
+end_trial
+start_trial 604
+-1
+-1
+-1
+end_trial
+start_trial 605
+-1
+-1
+-1
+end_trial
+start_trial 606
+-1
+-1
+-1
+end_trial
+start_trial 607
+-1
+-1
+-1
+end_trial
+start_trial 608
+-1
+-1
+-1
+end_trial
+start_trial 609
+0
+-1
+-1
+end_trial
+start_trial 610
+0.316456
+0.267133
+-1
+end_trial
+start_trial 611
+0.317255
+0.342001
+0.361047
+end_trial
+start_trial 612
+-1
+-1
+-1
+end_trial
+start_trial 613
+-1
+-1
+-1
+end_trial
+start_trial 614
+-1
+0.340159
+-1
+end_trial
+start_trial 615
+1.92407
+1.81205
+1.7716
+end_trial
+start_trial 616
+0.285221
+0.430187
+0.295869
+end_trial
+start_trial 617
+-1
+-1
+-1
+end_trial
+start_trial 618
+-1
+-1
+-1
+end_trial
+start_trial 619
+-1
+-1
+-1
+end_trial
+start_trial 620
+-1
+-1
+-1
+end_trial
+start_trial 621
+-1
+-1
+-1
+end_trial
+start_trial 622
+-1
+-1
+-1
+end_trial
+start_trial 623
+-1
+-1
+-1
+end_trial
+start_trial 624
+-1
+-1
+-1
+end_trial
+start_trial 625
+-1
+-1
+-1
+end_trial
+start_trial 626
+-1
+-1
+-1
+end_trial
+start_trial 627
+-1
+-1
+-1
+end_trial
+start_trial 628
+-1
+-1
+-1
+end_trial
+start_trial 629
+-1
+-1
+-1
+end_trial
+start_trial 630
+-1
+-1
+-1
+end_trial
+start_trial 631
+-1
+-1
+-1
+end_trial
+start_trial 632
+-1
+-1
+-1
+end_trial
+start_trial 633
+-1
+-1
+-1
+end_trial
+start_trial 634
+-1
+-1
+-1
+end_trial
+start_trial 635
+-1
+-1
+-1
+end_trial
+start_trial 636
+-1
+-1
+-1
+end_trial
+start_trial 637
+-1
+-1
+-1
+end_trial
+start_trial 638
+-1
+-1
+-1
+end_trial
+start_trial 639
+-1
+-1
+-1
+end_trial
+start_trial 640
+-1
+-1
+-1
+end_trial
+start_trial 641
+-1
+-1
+-1
+end_trial
+start_trial 642
+-1
+-1
+-1
+end_trial
+start_trial 643
+-1
+-1
+-1
+end_trial
+start_trial 644
+-1
+-1
+-1
+end_trial
+start_trial 645
+-1
+-1
+-1
+end_trial
+start_trial 646
+-1
+-1
+-1
+end_trial
+start_trial 647
+-1
+-1
+-1
+end_trial
+start_trial 648
+-1
+-1
+-1
+end_trial
+start_trial 649
+-1
+-1
+-1
+end_trial
+start_trial 650
+-1
+-1
+-1
+end_trial
+start_trial 651
+-1
+-1
+-1
+end_trial
+start_trial 652
+-1
+-1
+-1
+end_trial
+start_trial 653
+0.138701
+0.125395
+0.118696
+end_trial
+start_trial 654
+-1
+-1
+-1
+end_trial
+start_trial 655
+-1
+-1
+-1
+end_trial
+start_trial 656
+-1
+-1
+-1
+end_trial
+start_trial 657
+-1
+-1
+-1
+end_trial
+start_trial 658
+2.73307
+1.72909
+1.08176
+end_trial
+start_trial 659
+1.81433
+1.86356
+2.38759
+end_trial
+start_trial 660
+0
+0
+0.288323
+end_trial
+start_trial 661
+0
+0
+0
+end_trial
+start_trial 662
+-1
+-1
+-1
+end_trial
+start_trial 663
+0
+0
+0
+end_trial
+start_trial 664
+-1
+-1
+-1
+end_trial
+start_trial 665
+2.09146
+2.79749
+1.46152
+end_trial
+start_trial 666
+0
+0
+0
+end_trial
+start_trial 667
+0
+0.0264082
+0
+end_trial
+start_trial 668
+2.26171
+1.79968
+2.77971
+end_trial
+start_trial 669
+-1
+-1
+-1
+end_trial
+start_trial 670
+2.124
+2.04879
+0
+end_trial
+start_trial 671
+-1
+-1
+-1
+end_trial
+start_trial 672
+0
+-1
+-1
+end_trial
+start_trial 673
+0
+0.117435
+0.437742
+end_trial
+start_trial 674
+0
+0
+0
+end_trial
+start_trial 675
+0
+0
+0
+end_trial
+start_trial 676
+0.329583
+0.296274
+0.272189
+end_trial
+start_trial 677
+0
+0
+-1
+end_trial
+start_trial 678
+0.287787
+0.452132
+0.425051
+end_trial
+start_trial 679
+0.31835
+0.403045
+0
+end_trial
+start_trial 680
+0.891379
+0.891914
+0.743601
+end_trial
+start_trial 681
+0
+0
+0
+end_trial
+start_trial 682
+0.892909
+0.736198
+0.754551
+end_trial
+start_trial 683
+1.75613
+1.88469
+1.65961
+end_trial
+start_trial 684
+0.256171
+0.465889
+0.479493
+end_trial
+start_trial 685
+0.311092
+0.476507
+0
+end_trial
+start_trial 686
+0.822261
+0.86684
+0.972121
+end_trial
+start_trial 687
+0.0559709
+0
+0
+end_trial
+start_trial 688
+1.20879
+1.12106
+1.01496
+end_trial
+start_trial 689
+-1
+0
+-1
+end_trial
+start_trial 690
+2.65212
+2.20186
+0.260589
+end_trial
+start_trial 691
+0
+0
+0
+end_trial
+start_trial 692
+0.911574
+0.737647
+0.737279
+end_trial
+start_trial 693
+0
+0
+0
+end_trial
+start_trial 694
+0.74586
+0.731114
+0.724073
+end_trial
+start_trial 695
+0
+0
+0
+end_trial
+start_trial 696
+0
+0
+0
+end_trial
+start_trial 697
+0.046226
+0.0593936
+0.00112343
+end_trial
+start_trial 698
+0.376758
+0.433584
+0.258523
+end_trial
+start_trial 699
+-1
+0
+-1
+end_trial
+start_trial 700
+0.461941
+0.30228
+0.423654
+end_trial
+start_trial 701
+-1
+-1
+-1
+end_trial
+start_trial 702
+0
+0
+0
+end_trial
+start_trial 703
+-1
+-1
+-1
+end_trial
+start_trial 704
+-1
+-1
+0
+end_trial
+start_trial 705
+-1
+-1
+1.9094
+end_trial
+start_trial 706
+-1
+-1
+-1
+end_trial
+start_trial 707
+-1
+-1
+-1
+end_trial
+start_trial 708
+-1
+-1
+-1
+end_trial
+start_trial 709
+0
+0.419267
+0
+end_trial
+start_trial 710
+-1
+-1
+-1
+end_trial
+start_trial 711
+-1
+-1
+-1
+end_trial
+start_trial 712
+-1
+-1
+-1
+end_trial
+start_trial 713
+-1
+-1
+-1
+end_trial
+start_trial 714
+-1
+-1
+-1
+end_trial
+start_trial 715
+-1
+-1
+-1
+end_trial
+start_trial 716
+-1
+-1
+-1
+end_trial
+start_trial 717
+0.333008
+0
+0.210104
+end_trial
+start_trial 718
+-1
+-1
+-1
+end_trial
+start_trial 719
+-1
+-1
+-1
+end_trial
+start_trial 720
+-1
+-1
+-1
+end_trial
+start_trial 721
+-1
+-1
+-1
+end_trial
+start_trial 722
+0
+0
+0
+end_trial
+start_trial 723
+-1
+-1
+-1
+end_trial
+start_trial 724
+-1
+-1
+-1
+end_trial
+start_trial 725
+-1
+-1
+-1
+end_trial
+start_trial 726
+0.0775433
+0.185613
+0.0407526
+end_trial
+start_trial 727
+-1
+-1
+-1
+end_trial
+start_trial 728
+-1
+-1
+-1
+end_trial
+start_trial 729
+-1
+-1
+-1
+end_trial
+start_trial 730
+-1
+-1
+-1
+end_trial
+start_trial 731
+-1
+-1
+-1
+end_trial
+start_trial 732
+-1
+-1
+-1
+end_trial
+start_trial 733
+0
+2.31225
+2.65845
+end_trial
+start_trial 734
+0.0157642
+0
+0.00971317
+end_trial
+start_trial 735
+-1
+-1
+0
+end_trial
+start_trial 736
+-1
+-1
+-1
+end_trial
+start_trial 737
+-1
+-1
+-1
+end_trial
+start_trial 738
+-1
+-1
+-1
+end_trial
+start_trial 739
+-1
+-1
+-1
+end_trial
+start_trial 740
+0
+0
+0
+end_trial
+start_trial 741
+-1
+-1
+0
+end_trial
+start_trial 742
+0.0690489
+0.0310464
+0
+end_trial
+start_trial 743
+0.346881
+0.362017
+0.404696
+end_trial
+start_trial 744
+0
+0
+0
+end_trial
+start_trial 745
+-1
+-1
+-1
+end_trial
+start_trial 746
+0
+0
+0
+end_trial
+start_trial 747
+-1
+-1
+-1
+end_trial
+start_trial 748
+1.76421
+2.51025
+2.14275
+end_trial
+start_trial 749
+2.3188
+2.076
+0.977795
+end_trial
+start_trial 750
+0.277188
+0.197692
+0.323617
+end_trial
+start_trial 751
+1.51134
+0.352192
+0.3973
+end_trial
+start_trial 752
+0.4429
+0.409172
+0.436764
+end_trial
+start_trial 753
+0.46088
+0.350479
+0.330479
+end_trial
+start_trial 754
+0.348484
+0.340212
+0.305601
+end_trial
+start_trial 755
+0.319795
+0.386552
+0.343502
+end_trial
+start_trial 756
+-1
+-1
+-1
+end_trial
+start_trial 757
+2.1326
+1.62616
+2.013
+end_trial
+start_trial 758
+0.991936
+2.02196
+1.62708
+end_trial
+start_trial 759
+-1
+-1
+-1
+end_trial
+start_trial 760
+0
+0
+0
+end_trial
+start_trial 761
+0.425129
+0.298301
+0.307196
+end_trial
+start_trial 762
+0.343388
+0.455065
+0.261618
+end_trial
+start_trial 763
+0
+0
+0
+end_trial
+start_trial 764
+0.0806935
+0.0966308
+0
+end_trial
+start_trial 765
+0.510411
+0
+0
+end_trial
+start_trial 766
+0
+0
+2.09445
+end_trial
+start_trial 767
+0
+0.647357
+0
+end_trial
+start_trial 768
+0
+0
+0
+end_trial
+start_trial 769
+0
+0
+0
+end_trial
+start_trial 770
+0.250913
+0
+0.120375
+end_trial
+start_trial 771
+0.66172
+0.459704
+0
+end_trial
+start_trial 772
+0
+0
+0
+end_trial
+start_trial 773
+-1
+-1
+-1
+end_trial
+start_trial 774
+2.98611
+0
+2.8919
+end_trial
+start_trial 775
+0
+0
+0
+end_trial
+start_trial 776
+2.8164
+2.83617
+2.89613
+end_trial
+start_trial 777
+0
+0
+0
+end_trial
+start_trial 778
+-1
+-1
+-1
+end_trial
+start_trial 779
+-1
+-1
+-1
+end_trial
+start_trial 780
+1.55258
+1.22556
+2.12617
+end_trial
+start_trial 781
+-1
+-1
+-1
+end_trial
+start_trial 782
+0.900866
+1.00793
+1.11891
+end_trial
+start_trial 783
+-1
+-1
+-1
+end_trial
+start_trial 784
+-1
+-1
+-1
+end_trial
+start_trial 785
+-1
+-1
+-1
+end_trial
+start_trial 786
+-1
+-1
+-1
+end_trial
+start_trial 787
+-1
+-1
+-1
+end_trial
+start_trial 788
+-1
+-1
+-1
+end_trial
+start_trial 789
+1.31959
+1.93321
+1.66931
+end_trial
+start_trial 790
+-1
+-1
+-1
+end_trial
+start_trial 791
+-1
+-1
+2.47389
+end_trial
+start_trial 792
+-1
+-1
+-1
+end_trial
+start_trial 793
+-1
+-1
+-1
+end_trial
+start_trial 794
+-1
+-1
+-1
+end_trial
+start_trial 795
+0
+-1
+-1
+end_trial
+start_trial 796
+0.374869
+0.394681
+0.394143
+end_trial
+start_trial 797
+-1
+-1
+-1
+end_trial
+start_trial 798
+-1
+-1
+-1
+end_trial
+start_trial 799
+0
+0.753654
+0
+end_trial
+start_trial 800
+-1
+-1
+-1
+end_trial
+start_trial 801
+-1
+-1
+-1
+end_trial
+start_trial 802
+-1
+-1
+0
+end_trial
+start_trial 803
+2.61915
+-1
+-1
+end_trial
+start_trial 804
+-1
+-1
+-1
+end_trial
+start_trial 805
+-1
+-1
+-1
+end_trial
+start_trial 806
+0
+0
+0
+end_trial
+start_trial 807
+-1
+-1
+0
+end_trial
+start_trial 808
+1.40679
+1.63897
+2.38234
+end_trial
+start_trial 809
+-1
+-1
+-1
+end_trial
+start_trial 810
+0
+0.317097
+0.25591
+end_trial
+start_trial 811
+0
+0
+0
+end_trial
+start_trial 812
+-1
+-1
+-1
+end_trial
+start_trial 813
+-1
+-1
+-1
+end_trial
+start_trial 814
+-1
+-1
+-1
+end_trial
+start_trial 815
+-1
+-1
+-1
+end_trial
+start_trial 816
+-1
+-1
+-1
+end_trial
+start_trial 817
+-1
+-1
+-1
+end_trial
+start_trial 818
+1.84913
+-1
+1.11918
+end_trial
+start_trial 819
+0
+0.0814543
+0.118915
+end_trial
+start_trial 820
+1.59272
+2.74598
+1.2201
+end_trial
+start_trial 821
+0
+-1
+0
+end_trial
+start_trial 822
+-1
+-1
+-1
+end_trial
+start_trial 823
+-1
+-1
+-1
+end_trial
+start_trial 824
+-1
+-1
+-1
+end_trial
+start_trial 825
+1.08843
+0
+1.41688
+end_trial
+start_trial 826
+-1
+-1
+-1
+end_trial
+start_trial 827
+-1
+-1
+-1
+end_trial
+start_trial 828
+-1
+-1
+-1
+end_trial
+start_trial 829
+-1
+-1
+-1
+end_trial
+start_trial 830
+-1
+-1
+-1
+end_trial
+start_trial 831
+0.266391
+0.302928
+0.26524
+end_trial
+start_trial 832
+-1
+-1
+-1
+end_trial
+start_trial 833
+-1
+-1
+-1
+end_trial
+start_trial 834
+-1
+-1
+-1
+end_trial
+start_trial 835
+-1
+-1
+-1
+end_trial
+start_trial 836
+-1
+-1
+-1
+end_trial
+start_trial 837
+0.274303
+0.208743
+0.277795
+end_trial
+start_trial 838
+0
+-1
+-1
+end_trial
+start_trial 839
+0.176969
+0
+0
+end_trial
+start_trial 840
+-1
+-1
+-1
+end_trial
+start_trial 841
+1.63409
+1.20413
+0.897957
+end_trial
+start_trial 842
+-1
+-1
+-1
+end_trial
+start_trial 843
+0.855868
+1.75452
+0.768268
+end_trial
+start_trial 844
+-1
+-1
+-1
+end_trial
+start_trial 845
+1.20564
+0.853427
+1.02244
+end_trial
+start_trial 846
+-1
+-1
+-1
+end_trial
+start_trial 847
+0.949034
+1.06135
+1.05386
+end_trial
+start_trial 848
+-1
+-1
+end_trial
+start_trial 849
+-1
+2.05135
+1.76334
+end_trial
+start_trial 850
+-1
+-1
+-1
+end_trial
+start_trial 851
+-1
+-1
+-1
+end_trial
+start_trial 852
+1.06216
+1.77273
+1.0598
+end_trial
+start_trial 853
+-1
+-1
+-1
+end_trial
+start_trial 854
+1.07401
+0.920082
+0
+end_trial
+start_trial 855
+-1
+-1
+-1
+end_trial
+start_trial 856
+-1
+-1
+-1
+end_trial
+start_trial 857
+-1
+-1
+-1
+end_trial
+start_trial 858
+-1
+-1
+-1
+end_trial
+start_trial 859
+2.29031
+2.28989
+0.807698
+end_trial
+start_trial 860
+-1
+-1
+-1
+end_trial
+start_trial 861
+0.844536
+-1
+0.784253
+end_trial
+start_trial 862
+-1
+-1
+-1
+end_trial
+start_trial 863
+-1
+-1
+-1
+end_trial
+start_trial 864
+-1
+-1
+-1
+end_trial
+start_trial 865
+-1
+-1
+-1
+end_trial
+start_trial 866
+-1
+-1
+-1
+end_trial
+start_trial 867
+-1
+-1
+-1
+end_trial
+start_trial 868
+-1
+-1
+-1
+end_trial
+start_trial 869
+-1
+-1
+-1
+end_trial
+start_trial 870
+-1
+-1
+-1
+end_trial
+start_trial 871
+-1
+-1
+-1
+end_trial
+start_trial 872
+-1
+-1
+-1
+end_trial
+start_trial 873
+-1
+-1
+-1
+end_trial
+start_trial 874
+-1
+-1
+-1
+end_trial
+start_trial 875
+-1
+-1
+-1
+end_trial
+start_trial 876
+0.271795
+0.423147
+0.358307
+end_trial
+start_trial 877
+-1
+-1
+-1
+end_trial
+start_trial 878
+-1
+-1
+-1
+end_trial
+start_trial 879
+-1
+-1
+-1
+end_trial
+start_trial 880
+-1
+-1
+-1
+end_trial
+start_trial 881
+-1
+-1
+-1
+end_trial
+start_trial 882
+-1
+-1
+-1
+end_trial
+start_trial 883
+-1
+-1
+-1
+end_trial
+start_trial 884
+-1
+-1
+-1
+end_trial
+start_trial 885
+-1
+-1
+-1
+end_trial
+start_trial 886
+-1
+-1
+-1
+end_trial
+start_trial 887
+-1
+-1
+-1
+end_trial
+start_trial 888
+-1
+-1
+-1
+end_trial
+start_trial 889
+-1
+-1
+-1
+end_trial
+start_trial 890
+-1
+-1
+-1
+end_trial
+start_trial 891
+-1
+-1
+-1
+end_trial
+start_trial 892
+-1
+-1
+-1
+end_trial
+start_trial 893
+-1
+-1
+-1
+end_trial
+start_trial 894
+-1
+-1
+-1
+end_trial
+start_trial 895
+-1
+-1
+-1
+end_trial
+start_trial 896
+-1
+-1
+-1
+end_trial
+start_trial 897
+-1
+-1
+-1
+end_trial
+start_trial 898
+-1
+-1
+-1
+end_trial
+start_trial 899
+0.405368
+0.3776
+0.427409
+end_trial
+start_trial 900
+-1
+-1
+-1
+end_trial
+start_trial 901
+-1
+-1
+-1
+end_trial
+start_trial 902
+-1
+-1
+-1
+end_trial
+start_trial 903
+-1
+-1
+-1
+end_trial
+start_trial 904
+-1
+-1
+-1
+end_trial
+start_trial 905
+-1
+-1
+-1
+end_trial
+start_trial 906
+-1
+-1
+-1
+end_trial
+start_trial 907
+-1
+-1
+-1
+end_trial
+start_trial 908
+-1
+-1
+-1
+end_trial
+start_trial 909
+-1
+-1
+-1
+end_trial
+start_trial 910
+-1
+-1
+-1
+end_trial
+start_trial 911
+-1
+-1
+-1
+end_trial
+start_trial 912
+-1
+-1
+-1
+end_trial
+start_trial 913
+-1
+-1
+-1
+end_trial
+start_trial 914
+-1
+-1
+-1
+end_trial
+start_trial 915
+-1
+-1
+-1
+end_trial
+start_trial 916
+-1
+-1
+-1
+end_trial
+start_trial 917
+0.911641
+0.885158
+0.888418
+end_trial
+start_trial 918
+-1
+-1
+-1
+end_trial
+start_trial 919
+0.856661
+0.875706
+0.925585
+end_trial
+start_trial 920
+-1
+-1
+-1
+end_trial
+start_trial 921
+-1
+-1
+-1
+end_trial
+start_trial 922
+-1
+-1
+-1
+end_trial
+start_trial 923
+-1
+-1
+-1
+end_trial
+start_trial 924
+-1
+-1
+-1
+end_trial
+start_trial 925
+-1
+-1
+-1
+end_trial
+start_trial 926
+-1
+-1
+-1
+end_trial
+start_trial 927
+-1
+-1
+-1
+end_trial
+start_trial 928
+-1
+-1
+-1
+end_trial
+start_trial 929
+-1
+-1
+-1
+end_trial
+start_trial 930
+-1
+-1
+-1
+end_trial
+start_trial 931
+-1
+-1
+-1
+end_trial
+start_trial 932
+-1
+-1
+-1
+end_trial
+start_trial 933
+-1
+-1
+-1
+end_trial
+start_trial 934
+-1
+-1
+-1
+end_trial
+start_trial 935
+-1
+-1
+-1
+end_trial
+start_trial 936
+-1
+-1
+-1
+end_trial
+start_trial 937
+-1
+-1
+-1
+end_trial
+start_trial 938
+-1
+-1
+-1
+end_trial
+start_trial 939
+-1
+-1
+-1
+end_trial
+start_trial 940
+-1
+-1
+-1
+end_trial
+start_trial 941
+-1
+0
+-1
+end_trial
+start_trial 942
+-1
+-1
+-1
+end_trial
+start_trial 943
+-1
+-1
+-1
+end_trial
+start_trial 944
+-1
+-1
+-1
+end_trial
+start_trial 945
+-1
+-1
+-1
+end_trial
+start_trial 946
+-1
+-1
+-1
+end_trial
+start_trial 947
+-1
+-1
+-1
+end_trial
+start_trial 948
+-1
+-1
+-1
+end_trial
+start_trial 949
+-1
+-1
+-1
+end_trial
+start_trial 950
+-1
+-1
+-1
+end_trial
+start_trial 951
+1.79581
+-1
+-1
+end_trial
+start_trial 952
+-1
+-1
+-1
+end_trial
+start_trial 953
+-1
+-1
+-1
+end_trial
+start_trial 954
+-1
+-1
+-1
+end_trial
+start_trial 955
+-1
+-1
+-1
+end_trial
+start_trial 956
+-1
+-1
+-1
+end_trial
+start_trial 957
+-1
+-1
+-1
+end_trial
+start_trial 958
+-1
+-1
+-1
+end_trial
+start_trial 959
+-1
+-1
+-1
+end_trial
+start_trial 960
+-1
+-1
+-1
+end_trial
+start_trial 961
+0
+0.733701
+0
+end_trial
+start_trial 962
+-1
+-1
+-1
+end_trial
+start_trial 963
+0
+0.441662
+0.684826
+end_trial
+start_trial 964
+-1
+-1
+-1
+end_trial
+start_trial 965
+-1
+-1
+-1
+end_trial
+start_trial 966
+-1
+-1
+-1
+end_trial
+start_trial 967
+0.832541
+0.835125
+0.789626
+end_trial
+start_trial 968
+-1
+-1
+-1
+end_trial
+start_trial 969
+0
+-1
+-1
+end_trial
+start_trial 970
+-1
+-1
+-1
+end_trial
+start_trial 971
+-1
+-1
+-1
+end_trial
+start_trial 972
+-1
+-1
+-1
+end_trial
+start_trial 973
+0
+-1
+-1
+end_trial
+start_trial 974
+-1
+-1
+-1
+end_trial
+start_trial 975
+-1
+-1
+-1
+end_trial
+start_trial 976
+-1
+-1
+-1
+end_trial
+start_trial 977
+-1
+0.321533
+-1
+end_trial
+start_trial 978
+-1
+-1
+-1
+end_trial
+start_trial 979
+-1
+1.52806
+-1
+end_trial
+start_trial 980
+-1
+-1
+-1
+end_trial
+start_trial 981
+-1
+-1
+-1
+end_trial
+start_trial 982
+-1
+-1
+-1
+end_trial
+start_trial 983
+0
+0.26069
+0
+end_trial
+start_trial 984
+-1
+-1
+-1
+end_trial
+start_trial 985
+-1
+-1
+-1
+end_trial
+start_trial 986
+0.314053
+0.319877
+0.347739
+end_trial
+start_trial 987
+-1
+-1
+-1
+end_trial
+start_trial 988
+-1
+-1
+0.734124
+end_trial
+start_trial 989
+-1
+-1
+-1
+end_trial
+start_trial 990
+-1
+-1
+-1
+end_trial
+start_trial 991
+-1
+-1
+-1
+end_trial
+start_trial 992
+-1
+-1
+-1
+end_trial
+start_trial 993
+-1
+-1
+-1
+end_trial
+start_trial 994
+-1
+-1
+-1
+end_trial
+start_trial 995
+-1
+-1
+-1
+end_trial
+start_trial 996
+-1
+-1
+-1
+end_trial
+start_trial 997
+0.67444
+0.681734
+0.717839
+end_trial
+start_trial 998
+-1
+-1
+-1
+end_trial
+start_trial 999
+0.673086
+0.749531
+0.915627
+end_trial
+start_trial 1000
+-1
+-1
+-1
+end_trial
+start_trial 1001
+-1
+-1
+-1
+end_trial
+start_trial 1002
+-1
+-1
+-1
+end_trial
+start_trial 1003
+-1
+-1
+-1
+end_trial
+start_trial 1004
+-1
+0.733288
+-1
+end_trial
+start_trial 1005
+-1
+-1
+-1
+end_trial
+start_trial 1006
+-1
+-1
+-1
+end_trial
+start_trial 1007
+-1
+-1
+-1
+end_trial
+start_trial 1008
+-1
+-1
+-1
+end_trial
+start_trial 1009
+-1
+0.717006
+-1
+end_trial
+start_trial 1010
+-1
+-1
+-1
+end_trial
+start_trial 1011
+0.392235
+0.126296
+0.439723
+end_trial
+start_trial 1012
+-1
+-1
+-1
+end_trial
+start_trial 1013
+0.734398
+0.762501
+0.732186
+end_trial
+start_trial 1014
+-1
+-1
+-1
+end_trial
+start_trial 1015
+0.719363
+0.887074
+0.842161
+end_trial
+start_trial 1016
+-1
+-1
+-1
+end_trial
+start_trial 1017
+0.894677
+0.961751
+0.834729
+end_trial
+start_trial 1018
+-1
+-1
+-1
+end_trial
+start_trial 1019
+1.09505
+1.19585
+-1
+end_trial
+start_trial 1020
+-1
+-1
+-1
+end_trial
+start_trial 1021
+-1
+-1
+-1
+end_trial
+start_trial 1022
+-1
+-1
+-1
+end_trial
+start_trial 1023
+-1
+-1
+-1
+end_trial
+start_trial 1024
+-1
+-1
+-1
+end_trial
+start_trial 1025
+-1
+-1
+-1
+end_trial
+start_trial 1026
+-1
+-1
+-1
+end_trial
+start_trial 1027
+-1
+-1
+-1
+end_trial
+start_trial 1028
+-1
+-1
+-1
+end_trial
+start_trial 1029
+-1
+-1
+-1
+end_trial
+start_trial 1030
+-1
+-1
+-1
+end_trial
+start_trial 1031
+-1
+-1
+-1
+end_trial
+start_trial 1032
+-1
+-1
+-1
+end_trial
+start_trial 1033
+-1
+-1
+-1
+end_trial
+start_trial 1034
+-1
+-1
+-1
+end_trial
+start_trial 1035
+1.69811
+1.84003
+1.90904
+end_trial
+start_trial 1036
+-1
+-1
+-1
+end_trial
+start_trial 1037
+-1
+-1
+-1
+end_trial
+start_trial 1038
+-1
+-1
+-1
+end_trial
+start_trial 1039
+0
+0
+0
+end_trial
+start_trial 1040
+-1
+-1
+-1
+end_trial
+start_trial 1041
+-1
+-1
+-1
+end_trial
+start_trial 1042
+-1
+-1
+-1
+end_trial
+start_trial 1043
+-1
+-1
+end_trial
+start_trial 1044
+-1
+-1
+-1
+end_trial
+start_trial 1045
+-1
+-1
+-1
+end_trial
+start_trial 1046
+-1
+-1
+-1
+end_trial
+start_trial 1047
+-1
+-1
+-1
+end_trial
+start_trial 1048
+-1
+-1
+-1
+end_trial
+start_trial 1049
+0
+-1
+0.0276542
+end_trial
+start_trial 1050
+-1
+-1
+-1
+end_trial
+start_trial 1051
+-1
+-1
+-1
+end_trial
+start_trial 1052
+-1
+-1
+-1
+end_trial
+start_trial 1053
+-1
+-1
+-1
+end_trial
+start_trial 1054
+-1
+-1
+-1
+end_trial
+start_trial 1055
+-1
+-1
+-1
+end_trial
+start_trial 1056
+-1
+-1
+-1
+end_trial
+start_trial 1057
+-1
+-1
+-1
+end_trial
+start_trial 1058
+-1
+-1
+-1
+end_trial
+start_trial 1059
+-1
+-1
+-1
+end_trial
+start_trial 1060
+0
+0
+-1
+end_trial
+start_trial 1061
+-1
+-1
+-1
+end_trial
+start_trial 1062
+-1
+-1
+-1
+end_trial
+start_trial 1063
+-1
+0.323202
+0.188843
+end_trial
+start_trial 1064
+-1
+-1
+-1
+end_trial
+start_trial 1065
+0.988778
+0.983099
+0.915486
+end_trial
+start_trial 1066
+-1
+-1
+-1
+end_trial
+start_trial 1067
+1.24448
+0.999511
+0.857944
+end_trial
+start_trial 1068
+-1
+-1
+-1
+end_trial
+start_trial 1069
+0
+0
+0.27057
+end_trial
+start_trial 1070
+0
+0.012749
+end_trial
+start_trial 1071
+2.61639
+-1
+-1
+end_trial
+start_trial 1072
+-1
+-1
+-1
+end_trial
+start_trial 1073
+1.66011
+0.996905
+1.4499
+end_trial
+start_trial 1074
+-1
+-1
+-1
+end_trial
+start_trial 1075
+0.977215
+0.91005
+1.7735
+end_trial
+start_trial 1076
+-1
+0
+0
+end_trial
+start_trial 1077
+1.01764
+1.05078
+0.721381
+end_trial
+start_trial 1078
+0.733721
+0.70621
+0.767249
+end_trial
+start_trial 1079
+-1
+-1
+-1
+end_trial
+start_trial 1080
+0.926653
+1.03707
+0.930549
+end_trial
+start_trial 1081
+0.025315
+0
+0
+end_trial
+start_trial 1082
+1.85725
+0.985686
+1.01555
+end_trial
+start_trial 1083
+-1
+-1
+-1
+end_trial
+start_trial 1084
+0.886139
+0.883687
+0.906716
+end_trial
+start_trial 1085
+0.400768
+0.458358
+0.402901
+end_trial
+start_trial 1086
+1.04504
+0.955428
+2.64312
+end_trial
+start_trial 1087
+-1
+-1
+-1
+end_trial
+start_trial 1088
+0.989267
+1.10493
+0.746293
+end_trial
+start_trial 1089
+1.10678
+1.77495
+1.13685
+end_trial
+start_trial 1090
+0
+0
+0.0408471
+end_trial
+start_trial 1091
+0.882678
+0.928379
+0.853218
+end_trial
+start_trial 1092
+0
+0
+-1
+end_trial
+start_trial 1093
+0.906693
+0.882213
+0.84221
+end_trial
+start_trial 1094
+-1
+-1
+-1
+end_trial
+start_trial 1095
+0.995663
+1.05773
+0.830141
+end_trial
+start_trial 1096
+0.0559268
+0
+0.116925
+end_trial
+start_trial 1097
+0.86116
+0.869619
+0.837861
+end_trial
+start_trial 1098
+0
+0
+0
+end_trial
+start_trial 1099
+1.34066
+2.25964
+1.35681
+end_trial
+start_trial 1100
+1.05163
+1.23764
+0.828174
+end_trial
+start_trial 1101
+-1
+-1
+-1
+end_trial
+start_trial 1102
+0.961663
+0.701725
+0.882934
+end_trial
+start_trial 1103
+0
+0
+0
+end_trial
+start_trial 1104
+0.87623
+0.871455
+0.759074
+end_trial
+start_trial 1105
+-1
+0
+0
+end_trial
+start_trial 1106
+0.363293
+0.324769
+0.349308
+end_trial
+start_trial 1107
+-1
+-1
+-1
+end_trial
+start_trial 1108
+0.403983
+0.453467
+0.374638
+end_trial
+start_trial 1109
+-1
+-1
+-1
+end_trial
+start_trial 1110
+0
+-1
+-1
+end_trial
+start_trial 1111
+0.378417
+0.370562
+0.421245
+end_trial
+start_trial 1112
+-1
+-1
+-1
+end_trial
+start_trial 1113
+-1
+-1
+-1
+end_trial
+start_trial 1114
+-1
+-1
+-1
+end_trial
+start_trial 1115
+0.44503
+0.432086
+0.327587
+end_trial
+start_trial 1116
+-1
+-1
+-1
+end_trial
+start_trial 1117
+-1
+-1
+-1
+end_trial
+start_trial 1118
+-1
+-1
+-1
+end_trial
+start_trial 1119
+0
+0
+0
+end_trial
+start_trial 1120
+0.349563
+0.365344
+0.312775
+end_trial
+start_trial 1121
+-1
+-1
+-1
+end_trial
+start_trial 1122
+0
+-1
+-1
+end_trial
+start_trial 1123
+-1
+-1
+-1
+end_trial
+start_trial 1124
+-1
+-1
+-1
+end_trial
+start_trial 1125
+-1
+-1
+-1
+end_trial
+start_trial 1126
+-1
+-1
+-1
+end_trial
+start_trial 1127
+-1
+-1
+-1
+end_trial
+start_trial 1128
+-1
+-1
+-1
+end_trial
+start_trial 1129
+-1
+-1
+-1
+end_trial
+start_trial 1130
+-1
+-1
+-1
+end_trial
+start_trial 1131
+-1
+-1
+-1
+end_trial
+start_trial 1132
+-1
+-1
+-1
+end_trial
+start_trial 1133
+0.827151
+1.0158
+0.834616
+end_trial
+start_trial 1134
+-1
+-1
+-1
+end_trial
+start_trial 1135
+0.675124
+0.65318
+0.845659
+end_trial
+start_trial 1136
+-1
+-1
+-1
+end_trial
+start_trial 1137
+-1
+-1
+-1
+end_trial
+start_trial 1138
+-1
+-1
+-1
+end_trial
+start_trial 1139
+-1
+-1
+-1
+end_trial
+start_trial 1140
+0.356414
+0.222765
+0.321718
+end_trial
+start_trial 1141
+-1
+-1
+-1
+end_trial
+start_trial 1142
+-1
+-1
+-1
+end_trial
+start_trial 1143
+-1
+-1
+-1
+end_trial
+start_trial 1144
+-1
+-1
+-1
+end_trial
+start_trial 1145
+-1
+-1
+-1
+end_trial
+start_trial 1146
+-1
+-1
+-1
+end_trial
+start_trial 1147
+-1
+-1
+-1
+end_trial
+start_trial 1148
+-1
+-1
+-1
+end_trial
+start_trial 1149
+-1
+-1
+-1
+end_trial
+start_trial 1150
+-1
+-1
+-1
+end_trial
+start_trial 1151
+-1
+-1
+end_trial
+start_trial 1152
+-1
+-1
+-1
+end_trial
+start_trial 1153
+-1
+-1
+-1
+end_trial
+start_trial 1154
+-1
+-1
+-1
+end_trial
+start_trial 1155
+-1
+-1
+-1
+end_trial
+start_trial 1156
+-1
+-1
+-1
+end_trial
+start_trial 1157
+-1
+-1
+-1
+end_trial
+start_trial 1158
+-1
+-1
+-1
+end_trial
+start_trial 1159
+-1
+-1
+-1
+end_trial
+start_trial 1160
+-1
+-1
+-1
+end_trial
+start_trial 1161
+-1
+-1
+-1
+end_trial
+start_trial 1162
+-1
+-1
+0.222418
+end_trial
+start_trial 1163
+-1
+-1
+-1
+end_trial
+start_trial 1164
+0.147633
+-1
+-1
+end_trial
+start_trial 1165
+-1
+-1
+-1
+end_trial
+start_trial 1166
+-1
+-1
+-1
+end_trial
+start_trial 1167
+0
+0
+0
+end_trial
+start_trial 1168
+0.912515
+1.12829
+1.06968
+end_trial
+start_trial 1169
+2.00993
+1.67548
+1.22986
+end_trial
+start_trial 1170
+2.09555
+1.24485
+1.89335
+end_trial
+start_trial 1171
+-1
+-1
+-1
+end_trial
+start_trial 1172
+0.772633
+0.808858
+1.07959
+end_trial
+start_trial 1173
+-1
+-1
+-1
+end_trial
+start_trial 1174
+1.20745
+0.709038
+0.731361
+end_trial
+start_trial 1175
+-1
+-1
+-1
+end_trial
+start_trial 1176
+-1
+-1
+-1
+end_trial
+start_trial 1177
+-1
+-1
+-1
+end_trial
+start_trial 1178
+-1
+-1
+-1
+end_trial
+start_trial 1179
+-1
+-1
+-1
+end_trial
+start_trial 1180
+-1
+-1
+-1
+end_trial
+start_trial 1181
+-1
+-1
+-1
+end_trial
+start_trial 1182
+-1
+-1
+-1
+end_trial
+start_trial 1183
+-1
+-1
+-1
+end_trial
+start_trial 1184
+-1
+-1
+-1
+end_trial
+start_trial 1185
+-1
+-1
+-1
+end_trial
+start_trial 1186
+-1
+-1
+-1
+end_trial
+start_trial 1187
+-1
+-1
+-1
+end_trial
+start_trial 1188
+-1
+-1
+-1
+end_trial
+start_trial 1189
+-1
+-1
+-1
+end_trial
+start_trial 1190
+-1
+-1
+-1
+end_trial
+start_trial 1191
+0.427297
+0.402316
+0.431146
+end_trial
+start_trial 1192
+-1
+-1
+-1
+end_trial
+start_trial 1193
+-1
+-1
+-1
+end_trial
+start_trial 1194
+-1
+-1
+-1
+end_trial
+start_trial 1195
+-1
+-1
+-1
+end_trial
+start_trial 1196
+-1
+-1
+-1
+end_trial
+start_trial 1197
+1.62874
+2.31509
+1.20019
+end_trial
+start_trial 1198
+-1
+-1
+-1
+end_trial
+start_trial 1199
+0.936112
+0.822459
+0.866394
+end_trial
+start_trial 1200
+-1
+-1
+-1
+end_trial
+start_trial 1201
+-1
+-1
+end_trial
+start_trial 1202
+-1
+-1
+-1
+end_trial
+start_trial 1203
+0.165913
+0.850751
+0
+end_trial
+start_trial 1204
+-1
+-1
+-1
+end_trial
+start_trial 1205
+-1
+-1
+-1
+end_trial
+start_trial 1206
+-1
+-1
+-1
+end_trial
+start_trial 1207
+-1
+-1
+-1
+end_trial
+start_trial 1208
+-1
+-1
+-1
+end_trial
+start_trial 1209
+-1
+-1
+-1
+end_trial
+start_trial 1210
+-1
+-1
+-1
+end_trial
+start_trial 1211
+-1
+-1
+-1
+end_trial
+start_trial 1212
+-1
+-1
+-1
+end_trial
+start_trial 1213
+-1
+-1
+0
+end_trial
+start_trial 1214
+-1
+-1
+-1
+end_trial
+start_trial 1215
+0.62578
+0.845008
+1.00526
+end_trial
+start_trial 1216
+2.48931
+1.40167
+2.83322
+end_trial
+start_trial 1217
+0
+0
+0
+end_trial
+start_trial 1218
+0.232409
+0
+0
+end_trial
+start_trial 1219
+-1
+-1
+-1
+end_trial
+start_trial 1220
+0
+-1
+-1
+end_trial
+start_trial 1221
+-1
+-1
+-1
+end_trial
+start_trial 1222
+2.06944
+1.48266
+1.79478
+end_trial
+start_trial 1223
+-1
+-1
+end_trial
+start_trial 1224
+-1
+-1
+-1
+end_trial
+start_trial 1225
+-1
+-1
+-1
+end_trial
+start_trial 1226
+-1
+-1
+-1
+end_trial
+start_trial 1227
+-1
+-1
+-1
+end_trial
+start_trial 1228
+-1
+-1
+-1
+end_trial
+start_trial 1229
+-1
+-1
+end_trial
+start_trial 1230
+-1
+-1
+-1
+end_trial
+start_trial 1231
+-1
+-1
+-1
+end_trial
+start_trial 1232
+-1
+-1
+-1
+end_trial
+start_trial 1233
+-1
+-1
+-1
+end_trial
+start_trial 1234
+-1
+-1
+-1
+end_trial
+start_trial 1235
+-1
+-1
+-1
+end_trial
+start_trial 1236
+-1
+-1
+-1
+end_trial
+start_trial 1237
+-1
+-1
+-1
+end_trial
+start_trial 1238
+-1
+-1
+-1
+end_trial
+start_trial 1239
+0.395284
+0.397052
+0.28265
+end_trial
+start_trial 1240
+1.63346
+1.60916
+0.774978
+end_trial
+start_trial 1241
+1.86832
+2.2525
+0
+end_trial
+start_trial 1242
+-1
+-1
+-1
+end_trial
+start_trial 1243
+-1
+-1
+-1
+end_trial
+start_trial 1244
+-1
+-1
+-1
+end_trial
+start_trial 1245
+0
+-1
+1.28549
+end_trial
+start_trial 1246
+-1
+-1
+-1
+end_trial
+start_trial 1247
+-1
+0
+-1
+end_trial
+start_trial 1248
+-1
+-1
+-1
+end_trial
+start_trial 1249
+-1
+-1
+-1
+end_trial
+start_trial 1250
+-1
+-1
+-1
+end_trial
+start_trial 1251
+-1
+-1
+-1
+end_trial
+start_trial 1252
+-1
+-1
+-1
+end_trial
+start_trial 1253
+-1
+-1
+-1
+end_trial
+start_trial 1254
+-1
+-1
+-1
+end_trial
+start_trial 1255
+-1
+-1
+-1
+end_trial
+start_trial 1256
+-1
+-1
+-1
+end_trial
+start_trial 1257
+-1
+-1
+-1
+end_trial
+start_trial 1258
+-1
+-1
+0
+end_trial
+start_trial 1259
+-1
+-1
+-1
+end_trial
+start_trial 1260
+-1
+-1
+0.375165
+end_trial
+start_trial 1261
+-1
+-1
+-1
+end_trial
+start_trial 1262
+-1
+-1
+-1
+end_trial
+start_trial 1263
+0.388152
+0.324757
+0.340693
+end_trial
+start_trial 1264
+-1
+-1
+-1
+end_trial
+start_trial 1265
+0.27875
+0.222677
+0.353765
+end_trial
+start_trial 1266
+-1
+-1
+-1
+end_trial
+start_trial 1267
+0.231485
+0.277319
+0.289527
+end_trial
+start_trial 1268
+-1
+-1
+-1
+end_trial
+start_trial 1269
+0.828988
+0.933776
+0.981254
+end_trial
+start_trial 1270
+-1
+-1
+-1
+end_trial
+start_trial 1271
+1.00816
+1.18596
+1.05884
+end_trial
+start_trial 1272
+-1
+-1
+-1
+end_trial
+start_trial 1273
+-1
+-1
+-1
+end_trial
+start_trial 1274
+0.349417
+0.31989
+0.384086
+end_trial
+start_trial 1275
+0
+0
+end_trial
+start_trial 1276
+0.400583
+0
+0.394642
+end_trial
+start_trial 1277
+1.08078
+0.839098
+0.752173
+end_trial
+start_trial 1278
+-1
+-1
+-1
+end_trial
+start_trial 1279
+-1
+-1
+-1
+end_trial
+start_trial 1280
+-1
+-1
+-1
+end_trial
+start_trial 1281
+-1
+-1
+-1
+end_trial
+start_trial 1282
+0.919509
+2.89365
+0.760206
+end_trial
+start_trial 1283
+-1
+0
+-1
+end_trial
+start_trial 1284
+-1
+-1
+-1
+end_trial
+start_trial 1285
+0.410537
+0.36578
+0.416422
+end_trial
+start_trial 1286
+-1
+-1
+-1
+end_trial
+start_trial 1287
+-1
+1.15588
+-1
+end_trial
+start_trial 1288
+-1
+-1
+-1
+end_trial
+start_trial 1289
+1.42554
+2.26012
+1.59718
+end_trial
+start_trial 1290
+0.454424
+0.439802
+0.112024
+end_trial
+start_trial 1291
+0.78934
+0.841719
+1.01411
+end_trial
+start_trial 1292
+0.17373
+0.312725
+0.337791
+end_trial
+start_trial 1293
+1.03347
+1.05907
+0.941451
+end_trial
+start_trial 1294
+-1
+-1
+-1
+end_trial
+start_trial 1295
+-1
+-1
+0
+end_trial
+start_trial 1296
+0
+0.355576
+0.239214
+end_trial
+start_trial 1297
+1.12628
+0.861368
+0.834807
+end_trial
+start_trial 1298
+0
+0.392442
+0.382123
+end_trial
+start_trial 1299
+1.01302
+0.957104
+0.872867
+end_trial
+start_trial 1300
+-1
+-1
+-1
+end_trial
+start_trial 1301
+-1
+-1
+-1
+end_trial
+start_trial 1302
+-1
+-1
+-1
+end_trial
+start_trial 1303
+0.437303
+-1
+-1
+end_trial
+start_trial 1304
+1.13631
+2.31221
+2.32449
+end_trial
+start_trial 1305
+-1
+-1
+-1
+end_trial
+start_trial 1306
+0.427551
+0.366985
+0.209754
+end_trial
+start_trial 1307
+-1
+-1
+-1
+end_trial
+start_trial 1308
+-1
+-1
+-1
+end_trial
+start_trial 1309
+0
+0.718347
+0.684266
+end_trial
+start_trial 1310
+-1
+end_trial
+start_trial 1311
+-1
+-1
+1.19417
+end_trial
+start_trial 1312
+-1
+-1
+-1
+end_trial
+start_trial 1313
+0.684175
+0.770282
+0.351426
+end_trial
+start_trial 1314
+0.436928
+0.371274
+0.405214
+end_trial
+start_trial 1315
+0.86597
+0.938563
+1.14656
+end_trial
+start_trial 1316
+-1
+-1
+-1
+end_trial
+start_trial 1317
+-1
+-1
+0.270313
+end_trial
+start_trial 1318
+-1
+-1
+-1
+end_trial
+start_trial 1319
+0.897986
+0.893877
+0.800086
+end_trial
+start_trial 1320
+-1
+-1
+-1
+end_trial
+start_trial 1321
+0.686313
+0.675581
+0.56963
+end_trial
+start_trial 1322
+-1
+-1
+-1
+end_trial
+start_trial 1323
+-1
+-1
+-1
+end_trial
+start_trial 1324
+-1
+-1
+-1
+end_trial
+start_trial 1325
+0.355482
+0.440639
+end_trial
+start_trial 1326
+0.732635
+1.18088
+1.63669
+end_trial
+start_trial 1327
+0.390045
+0.34173
+-1
+end_trial
+start_trial 1328
+-1
+-1
+-1
+end_trial
+start_trial 1329
+-1
+-1
+-1
+end_trial
+start_trial 1330
+-1
+-1
+end_trial
+start_trial 1331
+-1
+-1
+-1
+end_trial
+start_trial 1332
+-1
+-1
+-1
+end_trial
+start_trial 1333
+0.691486
+1.00754
+1.83305
+end_trial
+start_trial 1334
+-1
+-1
+-1
+end_trial
+start_trial 1335
+0.880278
+0.682692
+0.873549
+end_trial
+start_trial 1336
+-1
+-1
+-1
+end_trial
+start_trial 1337
+-1
+-1
+-1
+end_trial
+start_trial 1338
+0
+0.0839744
+0
+end_trial
+start_trial 1339
+0.851057
+0.838535
+0.990242
+end_trial
+start_trial 1340
+-1
+-1
+-1
+end_trial
+start_trial 1341
+0.772424
+0.887686
+0.738429
+end_trial
+start_trial 1342
+-1
+-1
+-1
+end_trial
+start_trial 1343
+-1
+-1
+-1
+end_trial
+start_trial 1344
+0
+0
+0
+end_trial
+start_trial 1345
+0
+0
+0.0262349
+end_trial
+start_trial 1346
+0.369661
+-1
+0.404115
+end_trial
+start_trial 1347
+0.872791
+0.879789
+0.70778
+end_trial
+start_trial 1348
+-1
+-1
+-1
+end_trial
+start_trial 1349
+-1
+-1
+-1
+end_trial
+start_trial 1350
+0.222958
+0.247329
+0.234774
+end_trial
+start_trial 1351
+0.250202
+0.333082
+0.282515
+end_trial
+start_trial 1352
+-1
+-1
+-1
+end_trial
+start_trial 1353
+0.954619
+0.614355
+1.014
+end_trial
+start_trial 1354
+-1
+-1
+-1
+end_trial
+start_trial 1355
+0.962859
+1.02225
+0.675934
+end_trial
+start_trial 1356
+-1
+-1
+-1
+end_trial
+start_trial 1357
+-1
+-1
+-1
+end_trial
+start_trial 1358
+-1
+-1
+-1
+end_trial
+start_trial 1359
+-1
+0.60049
+-1
+end_trial
+start_trial 1360
+-1
+-1
+-1
+end_trial
+start_trial 1361
+-1
+-1
+-1
+end_trial
+start_trial 1362
+-1
+-1
+-1
+end_trial
+start_trial 1363
+-1
+-1
+-1
+end_trial
+start_trial 1364
+-1
+-1
+-1
+end_trial
+start_trial 1365
+0
+0
+0
+end_trial
+start_trial 1366
+-1
+-1
+-1
+end_trial
+start_trial 1367
+-1
+-1
+-1
+end_trial
+start_trial 1368
+-1
+-1
+-1
+end_trial
+start_trial 1369
+1.38865
+1.04813
+1.28472
+end_trial
+start_trial 1370
+-1
+-1
+-1
+end_trial
+start_trial 1371
+2.09847
+0.970038
+0.947334
+end_trial
+start_trial 1372
+-1
+-1
+-1
+end_trial
+start_trial 1373
+-1
+-1
+-1
+end_trial
+start_trial 1374
+0.888078
+0.895951
+1.54117
+end_trial
+start_trial 1375
+0.373679
+0.361663
+0.21556
+end_trial
+start_trial 1376
+0.7088
+0.77237
+1.51397
+end_trial
+start_trial 1377
+-1
+-1
+-1
+end_trial
+start_trial 1378
+-1
+-1
+-1
+end_trial
+start_trial 1379
+-1
+-1
+-1
+end_trial
+start_trial 1380
+-1
+-1
+-1
+end_trial
+start_trial 1381
+-1
+-1
+-1
+end_trial
+start_trial 1382
+-1
+-1
+-1
+end_trial
+start_trial 1383
+-1
+-1
+-1
+end_trial
+start_trial 1384
+-1
+-1
+-1
+end_trial
+start_trial 1385
+0.363633
+0.423966
+0.37543
+end_trial
+start_trial 1386
+-1
+-1
+-1
+end_trial
+start_trial 1387
+-1
+-1
+-1
+end_trial
+start_trial 1388
+-1
+-1
+-1
+end_trial
+start_trial 1389
+-1
+-1
+-1
+end_trial
+start_trial 1390
+-1
+-1
+-1
+end_trial
+start_trial 1391
+-1
+-1
+-1
+end_trial
+start_trial 1392
+-1
+-1
+-1
+end_trial
+start_trial 1393
+0.911178
+1.5007
+0.845404
+end_trial
+start_trial 1394
+-1
+-1
+-1
+end_trial
+start_trial 1395
+0
+0
+0
+end_trial
+start_trial 1396
+-1
+-1
+-1
+end_trial
+start_trial 1397
+0.773033
+1.04145
+0.668102
+end_trial
+start_trial 1398
+2.3175
+1.62079
+0.840511
+end_trial
+start_trial 1399
+-1
+-1
+-1
+end_trial
+start_trial 1400
+-1
+-1
+-1
+end_trial
+start_trial 1401
+-1
+-1
+-1
+end_trial
+start_trial 1402
+-1
+-1
+-1
+end_trial
+start_trial 1403
+-1
+-1
+-1
+end_trial
+start_trial 1404
+-1
+-1
+-1
+end_trial
+start_trial 1405
+-1
+-1
+-1
+end_trial
+start_trial 1406
+-1
+-1
+-1
+end_trial
+start_trial 1407
+-1
+-1
+-1
+end_trial
+start_trial 1408
+-1
+-1
+-1
+end_trial
+start_trial 1409
+-1
+-1
+-1
+end_trial
+start_trial 1410
+-1
+-1
+-1
+end_trial
+start_trial 1411
+0.720028
+1.05565
+0.926313
+end_trial
+start_trial 1412
+-1
+-1
+-1
+end_trial
+start_trial 1413
+-1
+-1
+-1
+end_trial
+start_trial 1414
+-1
+-1
+-1
+end_trial
+start_trial 1415
+-1
+-1
+-1
+end_trial
+start_trial 1416
+-1
+-1
+-1
+end_trial
+start_trial 1417
+-1
+-1
+-1
+end_trial
+start_trial 1418
+-1
+-1
+-1
+end_trial
+start_trial 1419
+0.104483
+-1
+-1
+end_trial
+start_trial 1420
+-1
+2.07385
+1.91031
+end_trial
+start_trial 1421
+0.429761
+0.23915
+0.329074
+end_trial
+start_trial 1422
+-1
+-1
+-1
+end_trial
+start_trial 1423
+-1
+-1
+-1
+end_trial
+start_trial 1424
+0.270232
+0.256181
+0.329541
+end_trial
+start_trial 1425
+1.01046
+0.86723
+0.992184
+end_trial
+start_trial 1426
+-1
+-1
+-1
+end_trial
+start_trial 1427
+-1
+-1
+-1
+end_trial
+start_trial 1428
+-1
+-1
+-1
+end_trial
+start_trial 1429
+-1
+-1
+-1
+end_trial
+start_trial 1430
+-1
+-1
+-1
+end_trial
+start_trial 1431
+-1
+-1
+-1
+end_trial
+start_trial 1432
+-1
+-1
+0.296141
+end_trial
+start_trial 1433
+-1
+-1
+-1
+end_trial
+start_trial 1434
+0.881527
+0.865732
+1.02282
+end_trial
+start_trial 1435
+-1
+-1
+-1
+end_trial
+start_trial 1436
+0.41639
+0.368322
+0.421534
+end_trial
+start_trial 1437
+0
+-1
+-1
+end_trial
+start_trial 1438
+-1
+-1
+-1
+end_trial
+start_trial 1439
+-1
+-1
+-1
+end_trial
+start_trial 1440
+0
+0
+0
+end_trial
+start_trial 1441
+-1
+-1
+-1
+end_trial
+start_trial 1442
+-1
+-1
+-1
+end_trial
+start_trial 1443
+-1
+-1
+-1
+end_trial
+start_trial 1444
+1.43725
+1.20627
+0.87166
+end_trial
+start_trial 1445
+0.94649
+0.959242
+0.928585
+end_trial
+start_trial 1446
+-1
+-1
+-1
+end_trial
+start_trial 1447
+1.06025
+1.08081
+0.974409
+end_trial
+start_trial 1448
+-1
+-1
+-1
+end_trial
+start_trial 1449
+-1
+-1
+-1
+end_trial
+start_trial 1450
+-1
+-1
+-1
+end_trial
+start_trial 1451
+-1
+-1
+-1
+end_trial
+start_trial 1452
+-1
+-1
+-1
+end_trial
+start_trial 1453
+0.889932
+0.956495
+0.948249
+end_trial
+start_trial 1454
+-1
+-1
+-1
+end_trial
+start_trial 1455
+1.07686
+0.954616
+0.899649
+end_trial
+start_trial 1456
+0.386678
+0.408051
+0.364918
+end_trial
+start_trial 1457
+-1
+-1
+-1
+end_trial
+start_trial 1458
+-1
+-1
+-1
+end_trial
+start_trial 1459
+0.894139
+1.49912
+0.811002
+end_trial
+start_trial 1460
+-1
+-1
+-1
+end_trial
+start_trial 1461
+1.06977
+0.992614
+-1
+end_trial
+start_trial 1462
+-1
+-1
+-1
+end_trial
+start_trial 1463
+-1
+-1
+-1
+end_trial
+start_trial 1464
+-1
+-1
+-1
+end_trial
+start_trial 1465
+-1
+-1
+-1
+end_trial
+start_trial 1466
+0.798242
+-1
+0.996474
+end_trial
+start_trial 1467
+-1
+-1
+-1
+end_trial
+start_trial 1468
+-1
+-1
+-1
+end_trial
+start_trial 1469
+-1
+-1
+-1
+end_trial
+start_trial 1470
+-1
+-1
+0.365031
+end_trial
+start_trial 1471
+0.362617
+0.405353
+0.269909
+end_trial
+start_trial 1472
+0.734504
+0.775422
+0.868787
+end_trial
+start_trial 1473
+0.434686
+0.409757
+0.329532
+end_trial
+start_trial 1474
+0.891485
+0.878427
+0.982193
+end_trial
+start_trial 1475
+-1
+-1
+-1
+end_trial
+start_trial 1476
+-1
+-1
+-1
+end_trial
+start_trial 1477
+-1
+-1
+-1
+end_trial
+start_trial 1478
+-1
+-1
+-1
+end_trial
+start_trial 1479
+-1
+-1
+-1
+end_trial
+start_trial 1480
+0.906874
+0.968293
+-1
+end_trial
+start_trial 1481
+-1
+-1
+-1
+end_trial
+start_trial 1482
+0.914929
+0.920954
+0.596874
+end_trial
+start_trial 1483
+-1
+-1
+-1
+end_trial
+start_trial 1484
+0
+0
+0
+end_trial
+start_trial 1485
+0.426185
+0.431142
+0.309685
+end_trial
+start_trial 1486
+0
+0
+0
+end_trial
+start_trial 1487
+-1
+-1
+-1
+end_trial
+start_trial 1488
+-1
+-1
+-1
+end_trial
+start_trial 1489
+-1
+0.428799
+-1
+end_trial
+start_trial 1490
+0.867587
+1.07429
+0.823415
+end_trial
+start_trial 1491
+-1
+-1
+-1
+end_trial
+start_trial 1492
+-1
+-1
+-1
+end_trial
+start_trial 1493
+-1
+-1
+-1
+end_trial
+start_trial 1494
+-1
+-1
+-1
+end_trial
+start_trial 1495
+-1
+-1
+-1
+end_trial
+start_trial 1496
+-1
+-1
+-1
+end_trial
+start_trial 1497
+-1
+-1
+-1
+end_trial
+start_trial 1498
+-1
+-1
+-1
+end_trial
+start_trial 1499
+-1
+-1
+-1
+end_trial
+start_trial 1500
+-1
+0.442614
+0.398129
+end_trial
+start_trial 1501
+-1
+-1
+-1
+end_trial
+start_trial 1502
+-1
+-1
+-1
+end_trial
+start_trial 1503
+-1
+-1
+-1
+end_trial
+start_trial 1504
+-1
+-1
+-1
+end_trial
+start_trial 1505
+-1
+-1
+-1
+end_trial
+start_trial 1506
+-1
+-1
+-1
+end_trial
+start_trial 1507
+-1
+-1
+-1
+end_trial
+start_trial 1508
+-1
+-1
+-1
+end_trial
+start_trial 1509
+-1
+-1
+-1
+end_trial
+start_trial 1510
+-1
+-1
+-1
+end_trial
+start_trial 1511
+1.89291
+2.02716
+0.973858
+end_trial
+start_trial 1512
+0.434727
+0.356137
+0.373619
+end_trial
+start_trial 1513
+1.4296
+2.3343
+1.18966
+end_trial
+start_trial 1514
+-1
+-1
+-1
+end_trial
+start_trial 1515
+-1
+-1
+-1
+end_trial
+start_trial 1516
+2.06931
+2.61498
+-1
+end_trial
+start_trial 1517
+-1
+-1
+-1
+end_trial
+start_trial 1518
+-1
+-1
+-1
+end_trial
+start_trial 1519
+-1
+-1
+-1
+end_trial
+start_trial 1520
+-1
+-1
+-1
+end_trial
+start_trial 1521
+-1
+-1
+-1
+end_trial
+start_trial 1522
+-1
+-1
+-1
+end_trial
+start_trial 1523
+-1
+-1
+-1
+end_trial
+start_trial 1524
+-1
+-1
+-1
+end_trial
+start_trial 1525
+-1
+-1
+-1
+end_trial
+start_trial 1526
+-1
+-1
+-1
+end_trial
+start_trial 1527
+-1
+-1
+-1
+end_trial
+start_trial 1528
+-1
+-1
+-1
+end_trial
+start_trial 1529
+-1
+-1
+-1
+end_trial
+start_trial 1530
+-1
+-1
+-1
+end_trial
+start_trial 1531
+-1
+-1
+-1
+end_trial
+start_trial 1532
+-1
+-1
+-1
+end_trial
+start_trial 1533
+-1
+-1
+-1
+end_trial
+start_trial 1534
+-1
+-1
+-1
+end_trial
+start_trial 1535
+-1
+-1
+-1
+end_trial
+start_trial 1536
+-1
+-1
+-1
+end_trial
+start_trial 1537
+-1
+-1
+-1
+end_trial
+start_trial 1538
+-1
+-1
+-1
+end_trial
+start_trial 1539
+-1
+-1
+-1
+end_trial
+start_trial 1540
+-1
+-1
+-1
+end_trial
+start_trial 1541
+-1
+-1
+-1
+end_trial
+start_trial 1542
+-1
+-1
+-1
+end_trial
+start_trial 1543
+-1
+-1
+-1
+end_trial
+start_trial 1544
+-1
+-1
+-1
+end_trial
+start_trial 1545
+-1
+-1
+-1
+end_trial
+start_trial 1546
+-1
+-1
+-1
+end_trial
+start_trial 1547
+-1
+-1
+-1
+end_trial
+start_trial 1548
+-1
+-1
+-1
+end_trial
+start_trial 1549
+-1
+-1
+-1
+end_trial
+start_trial 1550
+-1
+-1
+-1
+end_trial
+start_trial 1551
+-1
+-1
+-1
+end_trial
+start_trial 1552
+-1
+-1
+-1
+end_trial
+start_trial 1553
+-1
+-1
+-1
+end_trial
+start_trial 1554
+-1
+-1
+-1
+end_trial
+start_trial 1555
+-1
+-1
+-1
+end_trial
+start_trial 1556
+-1
+-1
+-1
+end_trial
+start_trial 1557
+-1
+-1
+-1
+end_trial
+start_trial 1558
+-1
+-1
+-1
+end_trial
+start_trial 1559
+-1
+-1
+-1
+end_trial
+start_trial 1560
+-1
+-1
+-1
+end_trial
+start_trial 1561
+-1
+-1
+-1
+end_trial
+start_trial 1562
+-1
+-1
+-1
+end_trial
+start_trial 1563
+-1
+-1
+-1
+end_trial
+start_trial 1564
+-1
+-1
+-1
+end_trial
